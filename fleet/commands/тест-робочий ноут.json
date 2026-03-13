@@ -19,6 +19,16 @@
       "Status": "failed",
       "ResultMessage": "Exit code 1605",
       "ProcessedAtUtc": "2026-03-13T21:28:40Z"
+    },
+    {
+      "Id": "9f711906c7434d5e8a72fd5fb26a3190",
+      "Type": "uninstall",
+      "SoftwareName": "blender",
+      "RequestedAtUtc": "2026-03-13T21:28:44Z",
+      "RequestedBy": "LAPTOP-3VU5GOA7",
+      "Status": "pending",
+      "ResultMessage": "",
+      "ProcessedAtUtc": ""
     }
   ]
 }
