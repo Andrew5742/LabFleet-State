@@ -1,0 +1,3618 @@
+{
+  "AgentId": "1-206-teacher",
+  "RoomNumber": "1-206",
+  "WorkstationNumber": "Teacher",
+  "MachineName": "DESKTOP-E54LQFR",
+  "OsDisplayName": "Windows 10",
+  "AgentVersion": "1.0.11.0",
+  "LastSeenUtc": "2026-03-13T13:46:30Z",
+  "InstalledCatalogPackageIds": [
+    "blender",
+    "libreoffice",
+    "unity-hub",
+    "visual-studio-community",
+    "vscode"
+  ],
+  "InstalledSoftware": [
+    {
+      "Name": "Acronis True Image",
+      "Version": "23.5.17750",
+      "Publisher": "Acronis",
+      "UninstallString": "MsiExec.exe /X{4FC35DD9-82DB-496D-AE43-43B7DE0A2CF8}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Application Verifier x64 External Package (DesktopEditions)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{C85A0AA9-2CF5-7B43-C078-4E8B7CE362D2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Application Verifier x64 External Package (OnecoreUAP)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{2C78EC40-921E-1C02-01FC-A1B6B0489B8C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Arduino IDE 2.3.3",
+      "Version": "2.3.3",
+      "Publisher": "Arduino SA",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Programs\\Arduino IDE\\Uninstall Arduino IDE.exe\u0022 /currentuser",
+      "QuietUninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Programs\\Arduino IDE\\Uninstall Arduino IDE.exe\u0022 /currentuser /S"
+    },
+    {
+      "Name": "blender",
+      "Version": "4.2.1",
+      "Publisher": "Blender Foundation",
+      "UninstallString": "MsiExec.exe /I{932B2E6B-7F23-4F97-B9DA-148C3CB3FDB4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Cisco Packet Tracer 8.2.1 64Bit",
+      "Version": "8.2.1.118",
+      "Publisher": "Cisco Systems, Inc.",
+      "UninstallString": "\u0022C:\\Program Files\\Cisco Packet Tracer 8.2.1\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Program Files\\Cisco Packet Tracer 8.2.1\\unins000.exe\u0022 /SILENT"
+    },
+    {
+      "Name": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+      "Version": "4.8.09256",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BDF8C840-5B9A-4D9B-9BCA-CE4163973563}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "DiagnosticsHub_CollectionService",
+      "Version": "17.12.35318",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{0E5296FF-C952-4756-8C85-6E6CC9F73A20}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Entity Framework 6.5.0 Tools  for Visual Studio 2022",
+      "Version": "6.5.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{24B966F3-162C-429F-A075-9B11D89AE721}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Figma",
+      "Version": "101.6.0",
+      "Publisher": "Figma, Inc.",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
+      "QuietUninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s"
+    },
+    {
+      "Name": "Figma Agent",
+      "Version": "124.6.5",
+      "Publisher": "Figma, Inc.",
+      "UninstallString": "C:\\Users\\\u041F\u041A1\\AppData\\Local\\FigmaAgent\\Uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Google Chrome",
+      "Version": "145.0.7632.160",
+      "Publisher": "Google\u00A0LLC",
+      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\145.0.7632.160\\Installer\\setup.exe\u0022 --uninstall --channel=stable --system-level --verbose-logging",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "icecap_collectionresources",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{8E15C351-4C26-4197-A471-2664FF51BEC6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "icecap_collectionresourcesx64",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{A2809462-C261-4799-BFD3-0E33F9536479}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "icecap_collection_neutral",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{DD131CF4-00E3-4CD7-9F15-74C496987A36}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "icecap_collection_x64",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7F0EE7E4-1E4E-4C0E-88B9-EC400695E33A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "IIS 10.0 Express",
+      "Version": "10.0.08608",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{A43F6F96-4CED-4152-8086-AF954755E324}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "IIS Express Application Compatibility Database for x64",
+      "Version": "",
+      "Publisher": "",
+      "UninstallString": "C:\\Windows\\system32\\sdbinst.exe -u \u0022C:\\Windows\\AppPatch\\CustomSDB\\{08274920-8908-45c2-9258-8ad67ff77b09}.sdb\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "IIS Express Application Compatibility Database for x86",
+      "Version": "",
+      "Publisher": "",
+      "UninstallString": "C:\\Windows\\system32\\sdbinst.exe -u \u0022C:\\Windows\\AppPatch\\CustomSDB\\{ad846bae-d44b-4722-abad-f7420e08bcd9}.sdb\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Intel(R) Processor Graphics",
+      "Version": "20.19.15.4531",
+      "Publisher": "Intel Corporation",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Intel\\Intel(R) Processor Graphics\\Uninstall\\setup.exe\u0022 -uninstall",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "IntelliTraceProfilerProxy",
+      "Version": "15.0.21225.01",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F8B9E8C8-61E8-4E9E-879D-F3F498AD0230}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Kits Configuration Installer",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{5D7663D4-8EF0-0323-8F60-1FC5EECB77E5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "LEGO MINDSTORMS EV3",
+      "Version": "1.0.0",
+      "Publisher": "The LEGO Group",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\National Instruments\\Shared\\NIUninstaller\\uninst.exe\u0022 /CompanyEnum LEGO_SW",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "LEGO MINDSTORMS NXT x64 Driver",
+      "Version": "1.31.5.0",
+      "Publisher": "LEGO",
+      "UninstallString": "MsiExec.exe /X{0189C6FA-7333-4873-8E0B-3A1BE8E6726B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "LEGO\u00AE MINDSTORMS\u00AE Education EV3 Classroom",
+      "Version": "1.5.3",
+      "Publisher": "LEGO System A/S",
+      "UninstallString": "MsiExec.exe /I{1AA31EDF-1388-40AF-97D3-EF1CCA5E211A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "LibreOffice 26.2.1.2",
+      "Version": "26.2.1.2",
+      "Publisher": "The Document Foundation",
+      "UninstallString": "MsiExec.exe /I{A1E4E9F3-35D6-4662-952B-17E01C79E35D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET 6.0 Templates 6.0.428 (x64)",
+      "Version": "24.9.28115",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{DE5C6454-AFC4-485A-A6C9-ACAAD3D75E10}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET 8.0 Templates 8.0.407 (x64)",
+      "Version": "32.11.54254",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{281DAB6D-5B68-4F67-AD9D-A3BBB2F8D491}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET 9.0 Templates 9.0.201 (x64)",
+      "Version": "36.9.54273",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{35F9CED4-5EFD-4FD2-A95B-69AEB93B2652}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 6.0.36 (x64)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{6D178730-5DF0-430C-B949-B2F9AB0C9894}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 6.0.36 (x64_arm)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{82EC488E-AC0D-42CB-A3D8-EA29392F80B5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 6.0.36 (x64_arm64)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{CFAEEA63-3413-4B59-A881-FDD6C8057F37}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 6.0.36 (x64_x86)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{CBDC7866-77FE-4D1F-A05B-EAED5C271D29}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.14 (x64)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{018A5628-4318-4FC9-B712-B9292F417126}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.14 (x64_arm64)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{2F579D82-AA61-401C-8E5F-959E6B2CC904}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.14 (x64_x86)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{61E04169-D30B-44A3-BC5E-465AFA1D1C41}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{9C4FB739-BFFA-4E0F-B07B-62140986CD13}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.3 (x64_arm64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{0BE353FE-7AE5-4F45-B4F9-85940FC0B29B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.3 (x64_x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BCE8A91A-C009-4F93-8204-032AFEC2B826}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET CoreRuntime For CoreCon",
+      "Version": "1.0.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{48A8F171-52F2-372B-8414-EA50617708BE}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET CoreRuntime SDK",
+      "Version": "1.1.27004.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{12702494-9E6A-3F5E-9441-2B7D258A639B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+      "Version": "4.7.03062",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1784A8CD-F7FE-47E2-A87D-1F31E7242D0D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)",
+      "Version": "4.7.03062",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{B517DBD3-B542-4FC8-9957-FFB2C3E65D1D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.8 SDK",
+      "Version": "4.8.03928",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{949C0535-171C-480F-9CF4-D25C9E60FE88}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.8 Targeting Pack",
+      "Version": "4.8.03761",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BAAF5851-0759-422D-A1E9-90061B597188}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.8 Targeting Pack (ENU)",
+      "Version": "4.8.03761",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{A4EA9EE5-7CFF-4C5F-B159-B9B4E5D2BDE2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+      "Version": "4.8.09037",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1A9C3A1A-566B-4CFA-8B27-71FC623963BE}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Host - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{E29A8846-BD00-4830-8BDF-7CC3E81C5385}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Host - 9.0.3 (x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{48EEDD33-72D6-4C8E-B941-B4314A399B62}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Host FX Resolver - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{0FD489DC-A3E9-4F57-9770-812CD1059FA5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Host FX Resolver - 9.0.3 (x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{678C2248-F980-4D0C-B29E-3D2D7C925277}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Native SDK",
+      "Version": "15.0.24211.07",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{EF0C772D-F5E3-36D0-BDAB-FD378533CD40}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 6.0.36 (x64)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{C912E33F-956A-4921-9F55-CC11AE8F09AF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 6.0.36 (x86)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{89C09E22-01D0-41F6-BAD3-CA0A8B74AD22}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 8.0.14 (x64)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{6C817CE3-32BC-4C6B-8B1A-E6F71EDAFFCC}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 8.0.14 (x86)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{6E39BE88-1272-4732-A962-9B34A31EE12C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{102DCD41-F00B-484D-9D6B-5D2919D8FCF8}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 9.0.3 (x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{035877EB-7C82-47BA-A2AE-B601FD20B1C7}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET SDK 9.0.201 (x64) from Visual Studio",
+      "Version": "9.2.125.11329",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{5955FA1F-F977-433A-9B54-44B11E8F8F02}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)",
+      "Version": "24.0.28113",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{A7036CFB-B403-4598-85FF-D397ABB88173}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 6.0.36 (x64)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{93420B22-3CEA-4650-BD21-5341CA4B0AFA}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 6.0.36 (x86)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{36E394CC-EC95-4F68-97E2-715316BA0169}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 8.0.14 (x64)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{60793768-C1CB-4D7B-AA15-2DCE5B63E70E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 8.0.14 (x86)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1DF219A3-0216-4469-A512-010512BFF748}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{FCD0BC0C-B9CC-4578-A757-FA44F4052B2F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 9.0.3 (x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{05C6702C-4B70-43EC-A5BE-924F52BA0D88}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Toolset 9.0.201 (x64)",
+      "Version": "36.9.21505",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{5FC7FD9F-96DB-481A-B21B-68875DF84371}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 6.0.36 Shared Framework (x64)",
+      "Version": "6.0.36.24516",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{215198BD-8EE1-385D-8194-0D3FF304296D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 6.0.36 Shared Framework (x86)",
+      "Version": "6.0.36.24516",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{5FEC97CA-FD93-392D-BF36-D9C3492A5698}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 6.0.36 Targeting Pack (x64)",
+      "Version": "6.0.36.24516",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{0EFFE892-CAC6-338E-997A-8FBFB20B9B1C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 6.0.36 Targeting Pack (x86)",
+      "Version": "6.0.36.24516",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{FD75711D-C89A-3AE7-9CDD-E34F592D5E7E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.14 Shared Framework (x64)",
+      "Version": "8.0.14.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{B2C24DAF-4178-3ABD-B4D0-121DDBCBD316}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.14 Shared Framework (x86)",
+      "Version": "8.0.14.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BBD33465-6641-37D3-9444-5CCD7FE71A79}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.14 Targeting Pack (x64)",
+      "Version": "8.0.14.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{211EE6F4-0615-33B6-8A62-DAA38F1155D6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.14 Targeting Pack (x86)",
+      "Version": "8.0.14.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{49DE7ED6-E9E4-3331-9FBD-E6F16A10FF9C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.3 Shared Framework (x64)",
+      "Version": "9.0.3.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1C056265-B962-3D4C-9049-AD0250BD024D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.3 Shared Framework (x86)",
+      "Version": "9.0.3.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{B4E77A90-2136-39EE-8EDA-3F9E44D32B5B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.3 Targeting Pack (x64)",
+      "Version": "9.0.3.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{60C712CC-7335-3B48-9072-261601C12CDD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.3 Targeting Pack (x86)",
+      "Version": "9.0.3.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{D921B4D5-3B6F-3DDA-87A5-27B223F5B9E9}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core Module for IIS Express",
+      "Version": "12.2.18292.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{FAFEE5E3-E00A-4CE8-B495-8F66A5FAB236}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core Module V2 for IIS Express",
+      "Version": "17.0.22116.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{F0E9CE77-BF19-4BBE-B228-A42F782F82E4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Diagnostic Pack for Visual Studio",
+      "Version": "17.13.124.35287",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{93C0CDB3-C1FD-301C-B596-8B1AEC4DB059}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Web Tools Packages 17.0 - ENU",
+      "Version": "17.0.40305.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{987786F9-7B57-3254-9FEA-2FF662C784B1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Azure PowerShell - April 2018",
+      "Version": "5.7.0.18831",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{3BA7CAA9-97BA-4528-B7E1-B640910BB149}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Command Line Utilities 15 for SQL Server",
+      "Version": "15.0.1300.359",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{41C0DB18-1790-465E-B0DD-D9CAA35CACBE}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Edge",
+      "Version": "145.0.3800.97",
+      "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Exchange Web Services Managed API 2.1",
+      "Version": "15.0.847.30",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{24CA683D-8174-4EBF-AD4D-3F2DD7814716}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ODBC Driver 17 for SQL Server",
+      "Version": "17.10.6.1",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{0E0F96AC-80DE-4400-A40C-429D63293651}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft OneDrive",
+      "Version": "26.026.0209.0004",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Microsoft\\OneDrive\\26.026.0209.0004\\OneDriveSetup.exe\u0022  /uninstall",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Silverlight",
+      "Version": "5.1.41212.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft SQL Server 2019 LocalDB",
+      "Version": "15.0.4382.1",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{E5B3A478-C4C3-49E3-8384-A12D4B2008D4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft System CLR Types for SQL Server 2019",
+      "Version": "15.0.2000.5",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5BC7E9EB-13E8-45DB-8A60-F2481FEB4595}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft TestPlatform SDK Local Feed",
+      "Version": "17.10.0.9037153",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{7F86DEBA-AF7D-43F2-8312-DBCB65F116A9}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Update Health Tools",
+      "Version": "3.74.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1FC1A6C2-576E-489A-9B4A-92D21F542136}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x86 9.0.30729.17",
+      "Version": "9.0.30729",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2010  x64 Redistributable - 10.0.40219",
+      "Version": "10.0.40219",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x64) - 12.0.21005",
+      "Version": "12.0.21005.1",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{7f51bdb9-ee21-49ee-94d6-90afc321780e}\\vcredist_x64.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{7f51bdb9-ee21-49ee-94d6-90afc321780e}\\vcredist_x64.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Additional Runtime - 12.0.21005",
+      "Version": "12.0.21005",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{929FBD26-9020-399B-9A7A-751D61F0B942}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Minimum Runtime - 12.0.21005",
+      "Version": "12.0.21005",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64) - 14.42.34433",
+      "Version": "14.42.34433.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{804e7d66-ccc2-4c12-84ba-476da31d103d}\\VC_redist.x64.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{804e7d66-ccc2-4c12-84ba-476da31d103d}\\VC_redist.x64.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86) - 14.42.34433",
+      "Version": "14.42.34433.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{e7802eac-3305-4da0-9378-e55d1ed05518}\\VC_redist.x86.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{e7802eac-3305-4da0-9378-e55d1ed05518}\\VC_redist.x86.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.42.34433",
+      "Version": "14.42.34433",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{E1902FC6-C423-4719-AB8A-AC7B2694B367}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Debug Runtime - 14.42.34438",
+      "Version": "14.42.34438",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{AABDA62C-7603-456F-B1A3-6A6585D3F2AC}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.42.34433",
+      "Version": "14.42.34433",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{382F1166-A409-4C5B-9B1E-85ED538B8291}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Additional Runtime - 14.42.34433",
+      "Version": "14.42.34433",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{84E3E712-6343-484B-8B6C-9F145F019A70}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Debug Runtime - 14.42.34438",
+      "Version": "14.42.34438",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{746E9BE3-ED04-4247-A54C-A2BE25CB59FD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Minimum Runtime - 14.42.34433",
+      "Version": "14.42.34433",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C2BB95AA-90F3-4891-81C1-A7E565BB836C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+      "Version": "10.0.60910",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Program Files\\Common Files\\Microsoft Shared\\VSTO\\10.0\\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)\\install.exe\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+      "Version": "10.0.60915",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{C931A1C6-A7BF-3737-874A-818881A37E1B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio Code (User)",
+      "Version": "1.96.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022 /SILENT"
+    },
+    {
+      "Name": "Microsoft Visual Studio Installer",
+      "Version": "3.13.2069.59209",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022 /uninstall",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio Setup Configuration",
+      "Version": "3.12.2140.44225",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{D07657AA-968C-4629-BD6C-1B52AF825EA7}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio Setup WMI Provider",
+      "Version": "3.12.2140.44225",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{49727420-70BA-4495-9405-31F8D711CB5A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Web Deploy 4.0",
+      "Version": "10.0.8305",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{82FD8C73-C24D-433C-85A9-48AE93570410}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Communication Foundation Diagnostic Pack for x86",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{0D2FFD54-5B33-3EEF-AB4D-25AF79A3B4A6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 6.0.36 (x64)",
+      "Version": "48.144.23186",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{61D4736B-3325-4D4A-BD41-8BD206C6A86E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 6.0.36 (x86)",
+      "Version": "48.144.23186",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{9A00C541-6944-4969-9DFE-A7289215800D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 8.0.14 (x64)",
+      "Version": "64.56.29521",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BC56BEFC-D9B7-476F-9B7C-2CD494572C27}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+      "Version": "64.56.29521",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{F12CDBC1-172E-4413-829C-B5234E386262}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 9.0.3 (x64)",
+      "Version": "72.12.29522",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{E4F4C068-697F-4148-8CDA-738802A3A83A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 9.0.3 (x86)",
+      "Version": "72.12.29522",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{3371052B-784C-4D47-AE69-E00B87AE0384}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 6.0.36 (x64)",
+      "Version": "48.144.23186",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{34C1A27B-00D3-486C-81B7-F98FD77F1836}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 6.0.36 (x86)",
+      "Version": "48.144.23186",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{97CC1685-44F7-45CF-A2AA-597F8F8CEF25}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.14 (x64)",
+      "Version": "64.56.29521",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{81FE5A7E-2D35-497A-9710-82E721FAA459}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.14 (x86)",
+      "Version": "64.56.29521",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{08E629DC-4F91-4E2D-A938-164E3003B66A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.3 (x64)",
+      "Version": "72.12.29522",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{17E364FB-ECDB-49FC-9EBC-7A84F8999B9D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.3 (x86)",
+      "Version": "72.12.29522",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{3DFE0302-3F5D-4CD4-A70A-07D77580687F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)",
+      "Version": "35.0.39",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{8529E6DB-8117-4A20-9002-D2EEE2232444}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)",
+      "Version": "64.136.23253",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{2E5C5364-621F-4F22-8B81-18524D6F0361}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)",
+      "Version": "18.2.9180",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{912D1C83-D6CF-40E5-8F78-C5411FD863D4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)",
+      "Version": "18.2.9180",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{4A8E982D-BBE2-416D-9AEA-19E83018599C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)",
+      "Version": "15.2.9180",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{8B5EE608-D98E-485F-A425-D1CFDC00F0D5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)",
+      "Version": "9.0.14",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{F17CAC50-9902-462B-92C8-90E86C9D6346}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)",
+      "Version": "18.2.9180",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{23E30422-9084-439C-8E41-6AAF3F34714F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)",
+      "Version": "72.48.29394",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{0EE7607E-885A-4C77-A5C3-A5EDBB913112}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)",
+      "Version": "72.48.29394",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{9BE80FDC-ECC6-4B78-85F5-54A52EEE2810}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)",
+      "Version": "72.48.29394",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{3D8061EE-69F1-4D9E-A065-326235AB338E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)",
+      "Version": "72.48.29394",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{D3EB7368-5E79-4BFF-9FBB-A16BE2C06376}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)",
+      "Version": "72.0.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{03DDDDB9-5602-43BC-81E8-557096BD886A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)",
+      "Version": "72.0.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{6F6F63FE-A772-4CB6-9A09-7622FD389134}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)",
+      "Version": "72.0.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{610364FC-8A10-402D-9191-5E2BBD429D7E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)",
+      "Version": "72.0.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{F3F4D342-59D7-4476-AFE8-F1A932829A19}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "ModelSim-Altera Edition 15.0.0.145",
+      "Version": "15.0",
+      "Publisher": "Altera Corporation",
+      "UninstallString": "C:\\altera\\15.0\\uninstall\\modelsim_ae-15.0.0.145-windows-uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "ModelSim-Altera Starter Edition 15.0.0.145",
+      "Version": "15.0",
+      "Publisher": "Altera Corporation",
+      "UninstallString": "C:\\altera\\15.0\\uninstall\\modelsim_ase-15.0.0.145-windows-uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "MSI Development Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{3891A7DE-A85F-9B4E-2B84-50162AFA1E48}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA 3D Vision Controller Driver 352.65",
+      "Version": "352.65",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.NVIRUSB",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA 3D Vision Driver 353.62",
+      "Version": "353.62",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.3DVision",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA GeForce Experience 2.5.12.11",
+      "Version": "2.5.12.11",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.GFExperience",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA Graphics Driver 353.62",
+      "Version": "353.62",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.Driver",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA HD Audio Driver 1.3.34.3",
+      "Version": "1.3.34.3",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage HDAudio.Driver",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA PhysX System Software 9.15.0428",
+      "Version": "9.15.0428",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.PhysX",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA Stereoscopic 3D Driver",
+      "Version": "7.17.12.6514",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\NVIDIA Corporation\\3D Vision\\nvStInst.exe\u0022 /uninstall /ask",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Open XML SDK 2.5 for Microsoft Office",
+      "Version": "2.5.5631",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{3EA16E23-14D2-466A-8268-D7CD40DC46B6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Oracle VM VirtualBox 6.1.38",
+      "Version": "6.1.38",
+      "Publisher": "Oracle Corporation",
+      "UninstallString": "MsiExec.exe /I{62A30AE6-8596-4C61-A5B8-1C3B45C25C72}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Polyspace R2019b",
+      "Version": "3.1",
+      "Publisher": "MathWorks",
+      "UninstallString": "C:\\Program Files\\Polyspace\\R2019b\\uninstall\\bin\\win64\\uninstall.exe C:\\Program Files\\Polyspace\\R2019b",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Quartus II Web Edition (Free) 15.0.0.145",
+      "Version": "15.0",
+      "Publisher": "Altera Corporation",
+      "UninstallString": "C:\\altera\\15.0\\uninstall\\quartus_web-15.0.0.145-windows-uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "SDK ARM Additions",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2D2C18BA-7B10-0A98-F662-9D397CAEA0C3}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "SDK ARM Redistributables",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{B5F4C6AF-DC6F-F6A4-1087-D068F4660610}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "SoftMaker FreeOffice 2024",
+      "Version": "1.0.6110",
+      "Publisher": "SoftMaker Software GmbH",
+      "UninstallString": "MsiExec.exe /I{24BD768B-6110-4F32-8E22-46BDFE97EFFB}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Steam",
+      "Version": "2.10.91.91",
+      "Publisher": "Valve Corporation",
+      "UninstallString": "D:\\Steam\\uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Uncrashed : FPV Drone Simulator",
+      "Version": "",
+      "Publisher": "Louis Rochette",
+      "UninstallString": "\u0022D:\\Steam\\steam.exe\u0022 steam://uninstall/1682970",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Unity Hub 2.4.4",
+      "Version": "2.4.4",
+      "Publisher": "Unity Technologies Inc.",
+      "UninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers",
+      "QuietUninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers /S"
+    },
+    {
+      "Name": "Universal CRT Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{E9508840-8997-0DA6-2BF2-66913126B654}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Headers Libraries and Sources",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{D3CE43AE-FB64-9FCA-BE16-5A2F3F2B112D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Redistributable",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{1D228B5E-62E8-737B-3478-78A795EBB8EC}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Tools x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2C897543-D940-0177-58DE-0D00653DE0B2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Tools x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{384A28F5-6B08-01FB-BE75-EBC673BBCACF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal General MIDI DLS Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{D3B0EFC4-878A-CA8C-7C79-1160CDF637D1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Update for Windows 10 for x64-based Systems (KB5001716)",
+      "Version": "8.94.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{85C69797-7336-4E83-8D97-32A7C8465A3B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vcpp_crt.redist.clickonce",
+      "Version": "14.42.34438",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{83750432-75BC-4905-8B08-297298CBE817}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Visual Studio Community 2022",
+      "Version": "17.13.3",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022 uninstall --installPath \u0022C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "VS Immersive Activate Helper",
+      "Version": "17.0.157.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{BE00F49A-2FA1-46E6-B30F-A2653BF7CD75}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "VS JIT Debugger",
+      "Version": "17.0.157.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6C1EDC0A-E71D-44D2-821C-213A5CD15498}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "VS Script Debugging Common",
+      "Version": "17.0.157.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F5796163-6EC6-488A-B2DE-E1E94477F6AD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "VS WCF Debugging",
+      "Version": "17.0.157.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F7F70D15-A1C1-42D5-A47F-AD0AC223C5AD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_clickoncebootstrappermsi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CAB76662-DCAB-4CD4-A300-97F3131D9ECD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_clickoncebootstrappermsires",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F07FF7E3-BF7E-4CEB-A8ED-BBF594604990}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_clickoncesigntoolmsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{465F2C91-D446-4261-B5DA-BD7D50931763}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_communitymsires",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2E1FFB78-E62D-4474-9E8D-A4906F51161D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_communitysharedmsi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{378A4C81-1F48-4558-95F9-1EAA710A5E37}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_communityx64msi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CD5E51A1-F24E-4D19-A607-303A98E00B01}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_CoreEditorFonts",
+      "Version": "17.7.40001",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{1851460E-0E63-4117-B5BA-25A2F045801B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_devenvsharedmsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{1B192D0E-960B-4CE1-986B-7D4C1B38E5C0}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_devenx64vmsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{341DF386-BE22-4944-8470-B8ACA9A7B9C7}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_filehandler_amd64",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{40363830-7943-4C25-913F-8FD4B8448D5A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_filehandler_x86",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F76AB80B-2967-4CF7-8FE6-D9898A6AE869}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_FileTracker_Singleton",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{9A9ED659-5E68-49FE-B9AD-FF8278DA1525}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_githubprotocolhandlermsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{22827B22-8696-49E7-BBB4-7B8231FCF4F6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_Graphics_Singletonx64",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6FEB08A0-D946-4D29-A6E1-52C30DD966F1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_Graphics_Singletonx86",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5EE3E8D2-ED84-4D79-BF42-FF349AE1E49E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellinteropsharedmsi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{9F15C769-1458-4112-B108-823BFAD0DC88}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellinteropx64msi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{DFF29E53-B203-4658-9D12-129D2E7B3BD4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellmsires",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{71CA7443-2ACE-478B-9C5F-68E7AEBEBFD4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellsharedmsi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6069C995-A7CD-4086-BC36-15787239B7E2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellx64msi",
+      "Version": "17.13.35729",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7B917782-68E1-428D-8C97-FF1F0084B1D5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_SQLClickOnceBootstrappermsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{AA01E88B-DAF3-4995-8502-111CC57C17B2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_tipsmsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{EC3CE358-9DAB-41D9-AC01-8579B6E284C6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_vswebprotocolselectormsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{4DEF76E2-1F1A-4E39-9C23-E34E7CA100EF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinAppDeploy",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C952A289-86CA-9322-7C44-F6E7526FD5E3}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows App Certification Kit Native Components",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{750766A0-28E0-2EC0-B83C-7C6F1236B041}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows App Certification Kit SupportedApiList x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C7C6D595-1045-1CDB-DDB8-F0DCB03B63B2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows App Certification Kit x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2CF6B1B1-3D60-A198-E401-093F7BA784F0}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows App Certification Kit x64 (OnecoreUAP)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7625FDE9-5B15-1CDF-3810-EC60A67F6D39}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Desktop Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{D6982C58-1FDC-FB2E-B55A-7329ADE7315C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Desktop Extension SDK Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{779B6704-D2FB-9087-C7FB-0AA1586F6FCD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows IoT Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CFF175F4-9F1D-289D-B99E-EA6AFCF28F4E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows IoT Extension SDK Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{8D92043C-84C1-368A-885F-5FD8B92200EC}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Mobile Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{A3D0A593-20CD-83E6-83DE-6068053F2BDF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Mobile Extension SDK Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{01E7E930-A0F4-5340-5E2D-92EFC9D5821D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2DF27D5D-478A-CC3F-EF64-E461BC3B3580}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK AddOn",
+      "Version": "10.1.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F1E37C98-16B7-421F-BA33-6C5B5400012A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK ARM Desktop Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{963BD0BD-2098-D21C-AA37-39876C732819}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Headers arm",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{31D517CE-04EE-F508-87C6-A503372B02A1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Headers arm64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{A69CD06B-FED5-81AD-3D62-38B325BAD254}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Headers x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{3A928615-B22E-42B6-A30A-CB7B1135F1CF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Headers x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F50E3BAF-A09C-0730-319C-56221E12B747}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Libs arm",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2F5EB743-8C97-930F-F41E-2EC8D5D5565B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Libs arm64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{87CB1714-C57F-13EA-8982-8F720B44BCF3}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Libs x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{838DC63C-34E9-9DBB-3A07-AEFC7768DC2A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Libs x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{24DAC073-46EA-ED5D-860A-845E8A27F426}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Tools arm64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{A4634E74-BFEE-CF6C-BF53-8D5E252FC574}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Tools x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{BED088F5-660E-C8E2-9FF4-F652445CC5FA}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Tools x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CACD4EBA-F620-A294-1B60-3CEB0954FE02}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK DirectX x64 Remote",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7E23CCDF-D8BD-36F8-CB1F-1DDE0D2B3F07}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK DirectX x86 Remote",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{8122ABB9-0148-144D-F136-C3AFF4B985DB}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK EULA",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporations",
+      "UninstallString": "MsiExec.exe /I{E473E2C8-92A5-BA58-31B1-D24F923D927B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Facade Windows WinMD Versioned",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7741665B-2D3B-7E24-1014-56B62296CD88}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6136B5FC-9FAD-B577-C5EA-AF2D266B7293}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5F1CD2CB-9C4E-BF51-9C82-DE916CA5E4AE}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5E5BB524-BA91-E7DE-4A85-11EC531AA622}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Headers",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{76749279-BE8A-20AF-F257-0A79E080CF7E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Libs",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CE1B7747-A39C-46B8-EB6F-01E5262B1289}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Metadata",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{4A130AF9-EC97-7D26-1FB0-03A0E5CC672B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{35552522-5930-E1A1-B1E9-FF78918E1543}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Managed Apps Libs",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{0374E0D0-98AE-0078-841E-DE9F70EDCB90}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Modern Non-Versioned Developer Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{76D32574-2D58-5B25-A3D7-8B2CB4873306}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Modern Versioned Developer Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C65278B7-2A3B-2D88-1489-991195ECF5F2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Redistributables",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{417DF3A3-09A1-3EAE-9F6C-5EB8DB4AD0F2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Signing Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{56E349AC-F849-A151-269B-8CFF2D14BB14}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Software Development Kit - Windows 10.0.22621.3233",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{71684ad3-afc2-4a65-9d45-92ef58510f18}\\winsdksetup.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{71684ad3-afc2-4a65-9d45-92ef58510f18}\\winsdksetup.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Windows Team Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{908BD5F8-E6C6-D2F6-AC09-C9F36EBC1A5F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Team Extension SDK Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{FAA6B22E-702C-2AC7-05B1-197CD7CEA21D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRAR 7.11 (64-bit)",
+      "Version": "7.11.0",
+      "Publisher": "win.rar GmbH",
+      "UninstallString": "C:\\Program Files\\WinRAR\\uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense Desktop - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{B3CFDD53-69FB-E652-4F3D-D3781CF7F66E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense Desktop - Other Languages",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{538E91F2-5231-E289-051F-DB55DE88CF56}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense IoT - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{44E4AFD9-74E0-9631-4CE0-E7C779624FE2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense IoT - Other Languages",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6430F847-9A5F-B3B8-7EEE-355F9F1CCD47}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense Mobile - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7E99A93A-8345-8BB6-EADB-10461E81BE0F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense PPI - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C5BEF528-FEAA-9607-907E-0972D86AD06F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense PPI - Other Languages",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5EBB309A-2974-F721-42A9-0212E54B3693}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense UAP - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{94DE555A-B513-762F-D7C6-2B2922940641}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense UAP - Other Languages",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{3C25B44A-1D95-9E5E-57E3-19D9AE3C3BC1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Workflow Manager Client 1.0",
+      "Version": "2.1.10525.2",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{69CD1F2D-DF68-4E23-9108-1B70783F2855}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WPT Redistributables",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{A8E21603-6CBA-D168-ADF7-108A1DA16DB5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WPTx64 (DesktopEditions)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{DBD97598-BDA1-233D-708C-14FE85D60F3B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WPTx64 (OnecoreUAP)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{1D1FEDA5-D45A-C685-9947-A127B647407C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "XAMPP",
+      "Version": "7.4.3-0",
+      "Publisher": "Bitnami",
+      "UninstallString": "\u0022C:\\xampp\\uninstall.exe\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Zoom Workplace",
+      "Version": "6.5.0 (6118)",
+      "Publisher": "Zoom Communications, Inc.",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Roaming\\Zoom\\uninstall\\Installer.exe\u0022 /uninstall",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F \u0437\u0430\u0433\u0440\u0443\u0437\u043E\u0447\u043D\u044B\u0445 \u043D\u043E\u0441\u0438\u0442\u0435\u043B\u0435\u0439 Acronis Universal Restore",
+      "Version": "11.5.40067",
+      "Publisher": "Acronis",
+      "UninstallString": "MsiExec.exe /X{95933CF5-EB7B-4B9A-B053-44B6BC94CE64}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "\u0421\u0435\u0440\u0435\u0434\u043E\u0432\u0438\u0449\u0435 \u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043D\u044F Microsoft Edge WebView2",
+      "Version": "145.0.3800.97",
+      "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+      "QuietUninstallString": ""
+    }
+  ],
+  "UnknownSoftware": [
+    {
+      "Name": "Acronis True Image",
+      "Version": "23.5.17750",
+      "Publisher": "Acronis",
+      "UninstallString": "MsiExec.exe /X{4FC35DD9-82DB-496D-AE43-43B7DE0A2CF8}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Application Verifier x64 External Package (DesktopEditions)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{C85A0AA9-2CF5-7B43-C078-4E8B7CE362D2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Application Verifier x64 External Package (OnecoreUAP)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{2C78EC40-921E-1C02-01FC-A1B6B0489B8C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Arduino IDE 2.3.3",
+      "Version": "2.3.3",
+      "Publisher": "Arduino SA",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Programs\\Arduino IDE\\Uninstall Arduino IDE.exe\u0022 /currentuser",
+      "QuietUninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Programs\\Arduino IDE\\Uninstall Arduino IDE.exe\u0022 /currentuser /S"
+    },
+    {
+      "Name": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+      "Version": "4.8.09256",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BDF8C840-5B9A-4D9B-9BCA-CE4163973563}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "DiagnosticsHub_CollectionService",
+      "Version": "17.12.35318",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{0E5296FF-C952-4756-8C85-6E6CC9F73A20}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Entity Framework 6.5.0 Tools  for Visual Studio 2022",
+      "Version": "6.5.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{24B966F3-162C-429F-A075-9B11D89AE721}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Figma",
+      "Version": "101.6.0",
+      "Publisher": "Figma, Inc.",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
+      "QuietUninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s"
+    },
+    {
+      "Name": "Figma Agent",
+      "Version": "124.6.5",
+      "Publisher": "Figma, Inc.",
+      "UninstallString": "C:\\Users\\\u041F\u041A1\\AppData\\Local\\FigmaAgent\\Uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Google Chrome",
+      "Version": "145.0.7632.160",
+      "Publisher": "Google\u00A0LLC",
+      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\145.0.7632.160\\Installer\\setup.exe\u0022 --uninstall --channel=stable --system-level --verbose-logging",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "icecap_collectionresources",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{8E15C351-4C26-4197-A471-2664FF51BEC6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "icecap_collectionresourcesx64",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{A2809462-C261-4799-BFD3-0E33F9536479}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "icecap_collection_neutral",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{DD131CF4-00E3-4CD7-9F15-74C496987A36}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "icecap_collection_x64",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7F0EE7E4-1E4E-4C0E-88B9-EC400695E33A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "IIS 10.0 Express",
+      "Version": "10.0.08608",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{A43F6F96-4CED-4152-8086-AF954755E324}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "IIS Express Application Compatibility Database for x64",
+      "Version": "",
+      "Publisher": "",
+      "UninstallString": "C:\\Windows\\system32\\sdbinst.exe -u \u0022C:\\Windows\\AppPatch\\CustomSDB\\{08274920-8908-45c2-9258-8ad67ff77b09}.sdb\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "IIS Express Application Compatibility Database for x86",
+      "Version": "",
+      "Publisher": "",
+      "UninstallString": "C:\\Windows\\system32\\sdbinst.exe -u \u0022C:\\Windows\\AppPatch\\CustomSDB\\{ad846bae-d44b-4722-abad-f7420e08bcd9}.sdb\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Intel(R) Processor Graphics",
+      "Version": "20.19.15.4531",
+      "Publisher": "Intel Corporation",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Intel\\Intel(R) Processor Graphics\\Uninstall\\setup.exe\u0022 -uninstall",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "IntelliTraceProfilerProxy",
+      "Version": "15.0.21225.01",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F8B9E8C8-61E8-4E9E-879D-F3F498AD0230}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Kits Configuration Installer",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{5D7663D4-8EF0-0323-8F60-1FC5EECB77E5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "LEGO MINDSTORMS EV3",
+      "Version": "1.0.0",
+      "Publisher": "The LEGO Group",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\National Instruments\\Shared\\NIUninstaller\\uninst.exe\u0022 /CompanyEnum LEGO_SW",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "LEGO MINDSTORMS NXT x64 Driver",
+      "Version": "1.31.5.0",
+      "Publisher": "LEGO",
+      "UninstallString": "MsiExec.exe /X{0189C6FA-7333-4873-8E0B-3A1BE8E6726B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "LEGO\u00AE MINDSTORMS\u00AE Education EV3 Classroom",
+      "Version": "1.5.3",
+      "Publisher": "LEGO System A/S",
+      "UninstallString": "MsiExec.exe /I{1AA31EDF-1388-40AF-97D3-EF1CCA5E211A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET 6.0 Templates 6.0.428 (x64)",
+      "Version": "24.9.28115",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{DE5C6454-AFC4-485A-A6C9-ACAAD3D75E10}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET 8.0 Templates 8.0.407 (x64)",
+      "Version": "32.11.54254",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{281DAB6D-5B68-4F67-AD9D-A3BBB2F8D491}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET 9.0 Templates 9.0.201 (x64)",
+      "Version": "36.9.54273",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{35F9CED4-5EFD-4FD2-A95B-69AEB93B2652}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 6.0.36 (x64)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{6D178730-5DF0-430C-B949-B2F9AB0C9894}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 6.0.36 (x64_arm)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{82EC488E-AC0D-42CB-A3D8-EA29392F80B5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 6.0.36 (x64_arm64)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{CFAEEA63-3413-4B59-A881-FDD6C8057F37}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 6.0.36 (x64_x86)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{CBDC7866-77FE-4D1F-A05B-EAED5C271D29}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.14 (x64)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{018A5628-4318-4FC9-B712-B9292F417126}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.14 (x64_arm64)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{2F579D82-AA61-401C-8E5F-959E6B2CC904}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.14 (x64_x86)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{61E04169-D30B-44A3-BC5E-465AFA1D1C41}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{9C4FB739-BFFA-4E0F-B07B-62140986CD13}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.3 (x64_arm64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{0BE353FE-7AE5-4F45-B4F9-85940FC0B29B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.3 (x64_x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BCE8A91A-C009-4F93-8204-032AFEC2B826}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET CoreRuntime For CoreCon",
+      "Version": "1.0.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{48A8F171-52F2-372B-8414-EA50617708BE}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET CoreRuntime SDK",
+      "Version": "1.1.27004.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{12702494-9E6A-3F5E-9441-2B7D258A639B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+      "Version": "4.7.03062",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1784A8CD-F7FE-47E2-A87D-1F31E7242D0D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)",
+      "Version": "4.7.03062",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{B517DBD3-B542-4FC8-9957-FFB2C3E65D1D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.8 SDK",
+      "Version": "4.8.03928",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{949C0535-171C-480F-9CF4-D25C9E60FE88}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.8 Targeting Pack",
+      "Version": "4.8.03761",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BAAF5851-0759-422D-A1E9-90061B597188}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.8 Targeting Pack (ENU)",
+      "Version": "4.8.03761",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{A4EA9EE5-7CFF-4C5F-B159-B9B4E5D2BDE2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+      "Version": "4.8.09037",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1A9C3A1A-566B-4CFA-8B27-71FC623963BE}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Host - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{E29A8846-BD00-4830-8BDF-7CC3E81C5385}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Host - 9.0.3 (x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{48EEDD33-72D6-4C8E-B941-B4314A399B62}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Host FX Resolver - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{0FD489DC-A3E9-4F57-9770-812CD1059FA5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Host FX Resolver - 9.0.3 (x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{678C2248-F980-4D0C-B29E-3D2D7C925277}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Native SDK",
+      "Version": "15.0.24211.07",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{EF0C772D-F5E3-36D0-BDAB-FD378533CD40}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 6.0.36 (x64)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{C912E33F-956A-4921-9F55-CC11AE8F09AF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 6.0.36 (x86)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{89C09E22-01D0-41F6-BAD3-CA0A8B74AD22}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 8.0.14 (x64)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{6C817CE3-32BC-4C6B-8B1A-E6F71EDAFFCC}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 8.0.14 (x86)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{6E39BE88-1272-4732-A962-9B34A31EE12C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{102DCD41-F00B-484D-9D6B-5D2919D8FCF8}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 9.0.3 (x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{035877EB-7C82-47BA-A2AE-B601FD20B1C7}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET SDK 9.0.201 (x64) from Visual Studio",
+      "Version": "9.2.125.11329",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{5955FA1F-F977-433A-9B54-44B11E8F8F02}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)",
+      "Version": "24.0.28113",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{A7036CFB-B403-4598-85FF-D397ABB88173}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 6.0.36 (x64)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{93420B22-3CEA-4650-BD21-5341CA4B0AFA}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 6.0.36 (x86)",
+      "Version": "48.144.23141",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{36E394CC-EC95-4F68-97E2-715316BA0169}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 8.0.14 (x64)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{60793768-C1CB-4D7B-AA15-2DCE5B63E70E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 8.0.14 (x86)",
+      "Version": "64.56.29490",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1DF219A3-0216-4469-A512-010512BFF748}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 9.0.3 (x64)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{FCD0BC0C-B9CC-4578-A757-FA44F4052B2F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 9.0.3 (x86)",
+      "Version": "72.12.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{05C6702C-4B70-43EC-A5BE-924F52BA0D88}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft .NET Toolset 9.0.201 (x64)",
+      "Version": "36.9.21505",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{5FC7FD9F-96DB-481A-B21B-68875DF84371}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 6.0.36 Shared Framework (x64)",
+      "Version": "6.0.36.24516",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{215198BD-8EE1-385D-8194-0D3FF304296D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 6.0.36 Shared Framework (x86)",
+      "Version": "6.0.36.24516",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{5FEC97CA-FD93-392D-BF36-D9C3492A5698}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 6.0.36 Targeting Pack (x64)",
+      "Version": "6.0.36.24516",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{0EFFE892-CAC6-338E-997A-8FBFB20B9B1C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 6.0.36 Targeting Pack (x86)",
+      "Version": "6.0.36.24516",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{FD75711D-C89A-3AE7-9CDD-E34F592D5E7E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.14 Shared Framework (x64)",
+      "Version": "8.0.14.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{B2C24DAF-4178-3ABD-B4D0-121DDBCBD316}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.14 Shared Framework (x86)",
+      "Version": "8.0.14.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BBD33465-6641-37D3-9444-5CCD7FE71A79}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.14 Targeting Pack (x64)",
+      "Version": "8.0.14.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{211EE6F4-0615-33B6-8A62-DAA38F1155D6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.14 Targeting Pack (x86)",
+      "Version": "8.0.14.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{49DE7ED6-E9E4-3331-9FBD-E6F16A10FF9C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.3 Shared Framework (x64)",
+      "Version": "9.0.3.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1C056265-B962-3D4C-9049-AD0250BD024D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.3 Shared Framework (x86)",
+      "Version": "9.0.3.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{B4E77A90-2136-39EE-8EDA-3F9E44D32B5B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.3 Targeting Pack (x64)",
+      "Version": "9.0.3.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{60C712CC-7335-3B48-9072-261601C12CDD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.3 Targeting Pack (x86)",
+      "Version": "9.0.3.25112",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{D921B4D5-3B6F-3DDA-87A5-27B223F5B9E9}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core Module for IIS Express",
+      "Version": "12.2.18292.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{FAFEE5E3-E00A-4CE8-B495-8F66A5FAB236}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Core Module V2 for IIS Express",
+      "Version": "17.0.22116.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{F0E9CE77-BF19-4BBE-B228-A42F782F82E4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Diagnostic Pack for Visual Studio",
+      "Version": "17.13.124.35287",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{93C0CDB3-C1FD-301C-B596-8B1AEC4DB059}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ASP.NET Web Tools Packages 17.0 - ENU",
+      "Version": "17.0.40305.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{987786F9-7B57-3254-9FEA-2FF662C784B1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Azure PowerShell - April 2018",
+      "Version": "5.7.0.18831",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{3BA7CAA9-97BA-4528-B7E1-B640910BB149}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Command Line Utilities 15 for SQL Server",
+      "Version": "15.0.1300.359",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{41C0DB18-1790-465E-B0DD-D9CAA35CACBE}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Edge",
+      "Version": "145.0.3800.97",
+      "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Exchange Web Services Managed API 2.1",
+      "Version": "15.0.847.30",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{24CA683D-8174-4EBF-AD4D-3F2DD7814716}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft ODBC Driver 17 for SQL Server",
+      "Version": "17.10.6.1",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{0E0F96AC-80DE-4400-A40C-429D63293651}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft OneDrive",
+      "Version": "26.026.0209.0004",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Local\\Microsoft\\OneDrive\\26.026.0209.0004\\OneDriveSetup.exe\u0022  /uninstall",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Silverlight",
+      "Version": "5.1.41212.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft SQL Server 2019 LocalDB",
+      "Version": "15.0.4382.1",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{E5B3A478-C4C3-49E3-8384-A12D4B2008D4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft System CLR Types for SQL Server 2019",
+      "Version": "15.0.2000.5",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5BC7E9EB-13E8-45DB-8A60-F2481FEB4595}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft TestPlatform SDK Local Feed",
+      "Version": "17.10.0.9037153",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{7F86DEBA-AF7D-43F2-8312-DBCB65F116A9}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Update Health Tools",
+      "Version": "3.74.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1FC1A6C2-576E-489A-9B4A-92D21F542136}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x86 9.0.30729.17",
+      "Version": "9.0.30729",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{9A25302D-30C0-39D9-BD6F-21E6EC160475}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2010  x64 Redistributable - 10.0.40219",
+      "Version": "10.0.40219",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x64) - 12.0.21005",
+      "Version": "12.0.21005.1",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{7f51bdb9-ee21-49ee-94d6-90afc321780e}\\vcredist_x64.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{7f51bdb9-ee21-49ee-94d6-90afc321780e}\\vcredist_x64.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Additional Runtime - 12.0.21005",
+      "Version": "12.0.21005",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{929FBD26-9020-399B-9A7A-751D61F0B942}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Minimum Runtime - 12.0.21005",
+      "Version": "12.0.21005",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64) - 14.42.34433",
+      "Version": "14.42.34433.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{804e7d66-ccc2-4c12-84ba-476da31d103d}\\VC_redist.x64.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{804e7d66-ccc2-4c12-84ba-476da31d103d}\\VC_redist.x64.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86) - 14.42.34433",
+      "Version": "14.42.34433.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{e7802eac-3305-4da0-9378-e55d1ed05518}\\VC_redist.x86.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{e7802eac-3305-4da0-9378-e55d1ed05518}\\VC_redist.x86.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.42.34433",
+      "Version": "14.42.34433",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{E1902FC6-C423-4719-AB8A-AC7B2694B367}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Debug Runtime - 14.42.34438",
+      "Version": "14.42.34438",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{AABDA62C-7603-456F-B1A3-6A6585D3F2AC}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.42.34433",
+      "Version": "14.42.34433",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{382F1166-A409-4C5B-9B1E-85ED538B8291}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Additional Runtime - 14.42.34433",
+      "Version": "14.42.34433",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{84E3E712-6343-484B-8B6C-9F145F019A70}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Debug Runtime - 14.42.34438",
+      "Version": "14.42.34438",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{746E9BE3-ED04-4247-A54C-A2BE25CB59FD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Minimum Runtime - 14.42.34433",
+      "Version": "14.42.34433",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C2BB95AA-90F3-4891-81C1-A7E565BB836C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+      "Version": "10.0.60910",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Program Files\\Common Files\\Microsoft Shared\\VSTO\\10.0\\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)\\install.exe\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+      "Version": "10.0.60915",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{C931A1C6-A7BF-3737-874A-818881A37E1B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio Installer",
+      "Version": "3.13.2069.59209",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022 /uninstall",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio Setup Configuration",
+      "Version": "3.12.2140.44225",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{D07657AA-968C-4629-BD6C-1B52AF825EA7}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Visual Studio Setup WMI Provider",
+      "Version": "3.12.2140.44225",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{49727420-70BA-4495-9405-31F8D711CB5A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Web Deploy 4.0",
+      "Version": "10.0.8305",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{82FD8C73-C24D-433C-85A9-48AE93570410}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Communication Foundation Diagnostic Pack for x86",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{0D2FFD54-5B33-3EEF-AB4D-25AF79A3B4A6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 6.0.36 (x64)",
+      "Version": "48.144.23186",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{61D4736B-3325-4D4A-BD41-8BD206C6A86E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 6.0.36 (x86)",
+      "Version": "48.144.23186",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{9A00C541-6944-4969-9DFE-A7289215800D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 8.0.14 (x64)",
+      "Version": "64.56.29521",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{BC56BEFC-D9B7-476F-9B7C-2CD494572C27}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+      "Version": "64.56.29521",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{F12CDBC1-172E-4413-829C-B5234E386262}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 9.0.3 (x64)",
+      "Version": "72.12.29522",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{E4F4C068-697F-4148-8CDA-738802A3A83A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 9.0.3 (x86)",
+      "Version": "72.12.29522",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{3371052B-784C-4D47-AE69-E00B87AE0384}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 6.0.36 (x64)",
+      "Version": "48.144.23186",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{34C1A27B-00D3-486C-81B7-F98FD77F1836}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 6.0.36 (x86)",
+      "Version": "48.144.23186",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{97CC1685-44F7-45CF-A2AA-597F8F8CEF25}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.14 (x64)",
+      "Version": "64.56.29521",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{81FE5A7E-2D35-497A-9710-82E721FAA459}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.14 (x86)",
+      "Version": "64.56.29521",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{08E629DC-4F91-4E2D-A938-164E3003B66A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.3 (x64)",
+      "Version": "72.12.29522",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{17E364FB-ECDB-49FC-9EBC-7A84F8999B9D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.3 (x86)",
+      "Version": "72.12.29522",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{3DFE0302-3F5D-4CD4-A70A-07D77580687F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)",
+      "Version": "35.0.39",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{8529E6DB-8117-4A20-9002-D2EEE2232444}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)",
+      "Version": "64.136.23253",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{2E5C5364-621F-4F22-8B81-18524D6F0361}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)",
+      "Version": "18.2.9180",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{912D1C83-D6CF-40E5-8F78-C5411FD863D4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)",
+      "Version": "18.2.9180",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{4A8E982D-BBE2-416D-9AEA-19E83018599C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)",
+      "Version": "15.2.9180",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{8B5EE608-D98E-485F-A425-D1CFDC00F0D5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)",
+      "Version": "9.0.14",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{F17CAC50-9902-462B-92C8-90E86C9D6346}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)",
+      "Version": "18.2.9180",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{23E30422-9084-439C-8E41-6AAF3F34714F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)",
+      "Version": "72.48.29394",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{0EE7607E-885A-4C77-A5C3-A5EDBB913112}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)",
+      "Version": "72.48.29394",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{9BE80FDC-ECC6-4B78-85F5-54A52EEE2810}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)",
+      "Version": "72.48.29394",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{3D8061EE-69F1-4D9E-A065-326235AB338E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)",
+      "Version": "72.48.29394",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{D3EB7368-5E79-4BFF-9FBB-A16BE2C06376}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)",
+      "Version": "72.0.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{03DDDDB9-5602-43BC-81E8-557096BD886A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)",
+      "Version": "72.0.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{6F6F63FE-A772-4CB6-9A09-7622FD389134}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)",
+      "Version": "72.0.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{610364FC-8A10-402D-9191-5E2BBD429D7E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)",
+      "Version": "72.0.29501",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{F3F4D342-59D7-4476-AFE8-F1A932829A19}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "ModelSim-Altera Edition 15.0.0.145",
+      "Version": "15.0",
+      "Publisher": "Altera Corporation",
+      "UninstallString": "C:\\altera\\15.0\\uninstall\\modelsim_ae-15.0.0.145-windows-uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "ModelSim-Altera Starter Edition 15.0.0.145",
+      "Version": "15.0",
+      "Publisher": "Altera Corporation",
+      "UninstallString": "C:\\altera\\15.0\\uninstall\\modelsim_ase-15.0.0.145-windows-uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "MSI Development Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{3891A7DE-A85F-9B4E-2B84-50162AFA1E48}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA 3D Vision Controller Driver 352.65",
+      "Version": "352.65",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.NVIRUSB",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA 3D Vision Driver 353.62",
+      "Version": "353.62",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.3DVision",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA GeForce Experience 2.5.12.11",
+      "Version": "2.5.12.11",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.GFExperience",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA Graphics Driver 353.62",
+      "Version": "353.62",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.Driver",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA HD Audio Driver 1.3.34.3",
+      "Version": "1.3.34.3",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage HDAudio.Driver",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA PhysX System Software 9.15.0428",
+      "Version": "9.15.0428",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Windows\\SysWOW64\\RunDll32.EXE\u0022 \u0022C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\u0022,UninstallPackage Display.PhysX",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "NVIDIA Stereoscopic 3D Driver",
+      "Version": "7.17.12.6514",
+      "Publisher": "NVIDIA Corporation",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\NVIDIA Corporation\\3D Vision\\nvStInst.exe\u0022 /uninstall /ask",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Open XML SDK 2.5 for Microsoft Office",
+      "Version": "2.5.5631",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{3EA16E23-14D2-466A-8268-D7CD40DC46B6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Oracle VM VirtualBox 6.1.38",
+      "Version": "6.1.38",
+      "Publisher": "Oracle Corporation",
+      "UninstallString": "MsiExec.exe /I{62A30AE6-8596-4C61-A5B8-1C3B45C25C72}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Polyspace R2019b",
+      "Version": "3.1",
+      "Publisher": "MathWorks",
+      "UninstallString": "C:\\Program Files\\Polyspace\\R2019b\\uninstall\\bin\\win64\\uninstall.exe C:\\Program Files\\Polyspace\\R2019b",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Quartus II Web Edition (Free) 15.0.0.145",
+      "Version": "15.0",
+      "Publisher": "Altera Corporation",
+      "UninstallString": "C:\\altera\\15.0\\uninstall\\quartus_web-15.0.0.145-windows-uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "SDK ARM Additions",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2D2C18BA-7B10-0A98-F662-9D397CAEA0C3}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "SDK ARM Redistributables",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{B5F4C6AF-DC6F-F6A4-1087-D068F4660610}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "SoftMaker FreeOffice 2024",
+      "Version": "1.0.6110",
+      "Publisher": "SoftMaker Software GmbH",
+      "UninstallString": "MsiExec.exe /I{24BD768B-6110-4F32-8E22-46BDFE97EFFB}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Steam",
+      "Version": "2.10.91.91",
+      "Publisher": "Valve Corporation",
+      "UninstallString": "D:\\Steam\\uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Uncrashed : FPV Drone Simulator",
+      "Version": "",
+      "Publisher": "Louis Rochette",
+      "UninstallString": "\u0022D:\\Steam\\steam.exe\u0022 steam://uninstall/1682970",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{E9508840-8997-0DA6-2BF2-66913126B654}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Headers Libraries and Sources",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{D3CE43AE-FB64-9FCA-BE16-5A2F3F2B112D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Redistributable",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{1D228B5E-62E8-737B-3478-78A795EBB8EC}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Tools x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2C897543-D940-0177-58DE-0D00653DE0B2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal CRT Tools x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{384A28F5-6B08-01FB-BE75-EBC673BBCACF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Universal General MIDI DLS Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{D3B0EFC4-878A-CA8C-7C79-1160CDF637D1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Update for Windows 10 for x64-based Systems (KB5001716)",
+      "Version": "8.94.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /X{85C69797-7336-4E83-8D97-32A7C8465A3B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vcpp_crt.redist.clickonce",
+      "Version": "14.42.34438",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{83750432-75BC-4905-8B08-297298CBE817}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "VS Immersive Activate Helper",
+      "Version": "17.0.157.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{BE00F49A-2FA1-46E6-B30F-A2653BF7CD75}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "VS JIT Debugger",
+      "Version": "17.0.157.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6C1EDC0A-E71D-44D2-821C-213A5CD15498}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "VS Script Debugging Common",
+      "Version": "17.0.157.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F5796163-6EC6-488A-B2DE-E1E94477F6AD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "VS WCF Debugging",
+      "Version": "17.0.157.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F7F70D15-A1C1-42D5-A47F-AD0AC223C5AD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_clickoncebootstrappermsi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CAB76662-DCAB-4CD4-A300-97F3131D9ECD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_clickoncebootstrappermsires",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F07FF7E3-BF7E-4CEB-A8ED-BBF594604990}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_clickoncesigntoolmsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{465F2C91-D446-4261-B5DA-BD7D50931763}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_communitymsires",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2E1FFB78-E62D-4474-9E8D-A4906F51161D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_communitysharedmsi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{378A4C81-1F48-4558-95F9-1EAA710A5E37}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_communityx64msi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CD5E51A1-F24E-4D19-A607-303A98E00B01}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_CoreEditorFonts",
+      "Version": "17.7.40001",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{1851460E-0E63-4117-B5BA-25A2F045801B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_devenvsharedmsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{1B192D0E-960B-4CE1-986B-7D4C1B38E5C0}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_devenx64vmsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{341DF386-BE22-4944-8470-B8ACA9A7B9C7}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_filehandler_amd64",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{40363830-7943-4C25-913F-8FD4B8448D5A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_filehandler_x86",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F76AB80B-2967-4CF7-8FE6-D9898A6AE869}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_FileTracker_Singleton",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{9A9ED659-5E68-49FE-B9AD-FF8278DA1525}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_githubprotocolhandlermsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{22827B22-8696-49E7-BBB4-7B8231FCF4F6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_Graphics_Singletonx64",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6FEB08A0-D946-4D29-A6E1-52C30DD966F1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_Graphics_Singletonx86",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5EE3E8D2-ED84-4D79-BF42-FF349AE1E49E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellinteropsharedmsi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{9F15C769-1458-4112-B108-823BFAD0DC88}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellinteropx64msi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{DFF29E53-B203-4658-9D12-129D2E7B3BD4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellmsires",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{71CA7443-2ACE-478B-9C5F-68E7AEBEBFD4}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellsharedmsi",
+      "Version": "17.13.35716",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6069C995-A7CD-4086-BC36-15787239B7E2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_minshellx64msi",
+      "Version": "17.13.35729",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7B917782-68E1-428D-8C97-FF1F0084B1D5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_SQLClickOnceBootstrappermsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{AA01E88B-DAF3-4995-8502-111CC57C17B2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_tipsmsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{EC3CE358-9DAB-41D9-AC01-8579B6E284C6}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "vs_vswebprotocolselectormsi",
+      "Version": "17.13.35710",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{4DEF76E2-1F1A-4E39-9C23-E34E7CA100EF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinAppDeploy",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C952A289-86CA-9322-7C44-F6E7526FD5E3}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows App Certification Kit Native Components",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{750766A0-28E0-2EC0-B83C-7C6F1236B041}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows App Certification Kit SupportedApiList x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C7C6D595-1045-1CDB-DDB8-F0DCB03B63B2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows App Certification Kit x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2CF6B1B1-3D60-A198-E401-093F7BA784F0}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows App Certification Kit x64 (OnecoreUAP)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7625FDE9-5B15-1CDF-3810-EC60A67F6D39}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Desktop Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{D6982C58-1FDC-FB2E-B55A-7329ADE7315C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Desktop Extension SDK Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{779B6704-D2FB-9087-C7FB-0AA1586F6FCD}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows IoT Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CFF175F4-9F1D-289D-B99E-EA6AFCF28F4E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows IoT Extension SDK Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{8D92043C-84C1-368A-885F-5FD8B92200EC}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Mobile Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{A3D0A593-20CD-83E6-83DE-6068053F2BDF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Mobile Extension SDK Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{01E7E930-A0F4-5340-5E2D-92EFC9D5821D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2DF27D5D-478A-CC3F-EF64-E461BC3B3580}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK AddOn",
+      "Version": "10.1.0.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F1E37C98-16B7-421F-BA33-6C5B5400012A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK ARM Desktop Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{963BD0BD-2098-D21C-AA37-39876C732819}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Headers arm",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{31D517CE-04EE-F508-87C6-A503372B02A1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Headers arm64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{A69CD06B-FED5-81AD-3D62-38B325BAD254}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Headers x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{3A928615-B22E-42B6-A30A-CB7B1135F1CF}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Headers x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{F50E3BAF-A09C-0730-319C-56221E12B747}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Libs arm",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{2F5EB743-8C97-930F-F41E-2EC8D5D5565B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Libs arm64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{87CB1714-C57F-13EA-8982-8F720B44BCF3}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Libs x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{838DC63C-34E9-9DBB-3A07-AEFC7768DC2A}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Libs x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{24DAC073-46EA-ED5D-860A-845E8A27F426}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Tools arm64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{A4634E74-BFEE-CF6C-BF53-8D5E252FC574}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Tools x64",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{BED088F5-660E-C8E2-9FF4-F652445CC5FA}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Desktop Tools x86",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CACD4EBA-F620-A294-1B60-3CEB0954FE02}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK DirectX x64 Remote",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7E23CCDF-D8BD-36F8-CB1F-1DDE0D2B3F07}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK DirectX x86 Remote",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{8122ABB9-0148-144D-F136-C3AFF4B985DB}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK EULA",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporations",
+      "UninstallString": "MsiExec.exe /I{E473E2C8-92A5-BA58-31B1-D24F923D927B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Facade Windows WinMD Versioned",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7741665B-2D3B-7E24-1014-56B62296CD88}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6136B5FC-9FAD-B577-C5EA-AF2D266B7293}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5F1CD2CB-9C4E-BF51-9C82-DE916CA5E4AE}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5E5BB524-BA91-E7DE-4A85-11EC531AA622}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Headers",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{76749279-BE8A-20AF-F257-0A79E080CF7E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Libs",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{CE1B7747-A39C-46B8-EB6F-01E5262B1289}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Metadata",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{4A130AF9-EC97-7D26-1FB0-03A0E5CC672B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Apps Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{35552522-5930-E1A1-B1E9-FF78918E1543}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK for Windows Store Managed Apps Libs",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{0374E0D0-98AE-0078-841E-DE9F70EDCB90}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Modern Non-Versioned Developer Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{76D32574-2D58-5B25-A3D7-8B2CB4873306}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Modern Versioned Developer Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C65278B7-2A3B-2D88-1489-991195ECF5F2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Redistributables",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{417DF3A3-09A1-3EAE-9F6C-5EB8DB4AD0F2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows SDK Signing Tools",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{56E349AC-F849-A151-269B-8CFF2D14BB14}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Software Development Kit - Windows 10.0.22621.3233",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{71684ad3-afc2-4a65-9d45-92ef58510f18}\\winsdksetup.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{71684ad3-afc2-4a65-9d45-92ef58510f18}\\winsdksetup.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Windows Team Extension SDK",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{908BD5F8-E6C6-D2F6-AC09-C9F36EBC1A5F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Windows Team Extension SDK Contracts",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{FAA6B22E-702C-2AC7-05B1-197CD7CEA21D}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRAR 7.11 (64-bit)",
+      "Version": "7.11.0",
+      "Publisher": "win.rar GmbH",
+      "UninstallString": "C:\\Program Files\\WinRAR\\uninstall.exe",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense Desktop - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{B3CFDD53-69FB-E652-4F3D-D3781CF7F66E}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense Desktop - Other Languages",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{538E91F2-5231-E289-051F-DB55DE88CF56}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense IoT - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{44E4AFD9-74E0-9631-4CE0-E7C779624FE2}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense IoT - Other Languages",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{6430F847-9A5F-B3B8-7EEE-355F9F1CCD47}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense Mobile - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{7E99A93A-8345-8BB6-EADB-10461E81BE0F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense PPI - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{C5BEF528-FEAA-9607-907E-0972D86AD06F}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense PPI - Other Languages",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{5EBB309A-2974-F721-42A9-0212E54B3693}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense UAP - en-us",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{94DE555A-B513-762F-D7C6-2B2922940641}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WinRT Intellisense UAP - Other Languages",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{3C25B44A-1D95-9E5E-57E3-19D9AE3C3BC1}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Workflow Manager Client 1.0",
+      "Version": "2.1.10525.2",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "MsiExec.exe /I{69CD1F2D-DF68-4E23-9108-1B70783F2855}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WPT Redistributables",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{A8E21603-6CBA-D168-ADF7-108A1DA16DB5}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WPTx64 (DesktopEditions)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{DBD97598-BDA1-233D-708C-14FE85D60F3B}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "WPTx64 (OnecoreUAP)",
+      "Version": "10.1.22621.3233",
+      "Publisher": "Microsoft",
+      "UninstallString": "MsiExec.exe /I{1D1FEDA5-D45A-C685-9947-A127B647407C}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "XAMPP",
+      "Version": "7.4.3-0",
+      "Publisher": "Bitnami",
+      "UninstallString": "\u0022C:\\xampp\\uninstall.exe\u0022",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "Zoom Workplace",
+      "Version": "6.5.0 (6118)",
+      "Publisher": "Zoom Communications, Inc.",
+      "UninstallString": "\u0022C:\\Users\\\u041F\u041A1\\AppData\\Roaming\\Zoom\\uninstall\\Installer.exe\u0022 /uninstall",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F \u0437\u0430\u0433\u0440\u0443\u0437\u043E\u0447\u043D\u044B\u0445 \u043D\u043E\u0441\u0438\u0442\u0435\u043B\u0435\u0439 Acronis Universal Restore",
+      "Version": "11.5.40067",
+      "Publisher": "Acronis",
+      "UninstallString": "MsiExec.exe /X{95933CF5-EB7B-4B9A-B053-44B6BC94CE64}",
+      "QuietUninstallString": ""
+    },
+    {
+      "Name": "\u0421\u0435\u0440\u0435\u0434\u043E\u0432\u0438\u0449\u0435 \u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043D\u044F Microsoft Edge WebView2",
+      "Version": "145.0.3800.97",
+      "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+      "QuietUninstallString": ""
+    }
+  ]
+}
