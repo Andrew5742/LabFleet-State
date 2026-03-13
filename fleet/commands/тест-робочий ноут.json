@@ -1,0 +1,14 @@
+{
+  "Commands": [
+    {
+      "Id": "e9619d8c4c664bb5a06fbd064d9873aa",
+      "Type": "uninstall",
+      "SoftwareName": "blender",
+      "RequestedAtUtc": "2026-03-13T21:05:50Z",
+      "RequestedBy": "LAPTOP-3VU5GOA7",
+      "Status": "pending",
+      "ResultMessage": "",
+      "ProcessedAtUtc": ""
+    }
+  ]
+}
