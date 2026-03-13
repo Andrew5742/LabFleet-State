@@ -4,8 +4,8 @@
   "WorkstationNumber": "Teacher",
   "MachineName": "DESKTOP-E54LQFR",
   "OsDisplayName": "Windows 10",
-  "AgentVersion": "1.0.11.0",
-  "LastSeenUtc": "2026-03-13T13:56:40Z",
+  "AgentVersion": "1.0.15.0",
+  "LastSeenUtc": "2026-03-13T14:38:27Z",
   "InstalledCatalogPackageIds": [
     "blender",
     "libreoffice",
