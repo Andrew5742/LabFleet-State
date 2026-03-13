@@ -6,9 +6,9 @@
       "SoftwareName": "blender",
       "RequestedAtUtc": "2026-03-13T21:05:50Z",
       "RequestedBy": "LAPTOP-3VU5GOA7",
-      "Status": "pending",
-      "ResultMessage": "",
-      "ProcessedAtUtc": ""
+      "Status": "completed",
+      "ResultMessage": "Completed",
+      "ProcessedAtUtc": "2026-03-13T21:28:40Z"
     },
     {
       "Id": "3cdd80c441454f9fa66349af7675adee",
@@ -16,9 +16,9 @@
       "SoftwareName": "blender",
       "RequestedAtUtc": "2026-03-13T21:07:08Z",
       "RequestedBy": "LAPTOP-3VU5GOA7",
-      "Status": "pending",
-      "ResultMessage": "",
-      "ProcessedAtUtc": ""
+      "Status": "failed",
+      "ResultMessage": "Exit code 1605",
+      "ProcessedAtUtc": "2026-03-13T21:28:40Z"
     }
   ]
 }
