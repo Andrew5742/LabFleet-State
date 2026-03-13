@@ -9,6 +9,16 @@
       "Status": "pending",
       "ResultMessage": "",
       "ProcessedAtUtc": ""
+    },
+    {
+      "Id": "3cdd80c441454f9fa66349af7675adee",
+      "Type": "uninstall",
+      "SoftwareName": "blender",
+      "RequestedAtUtc": "2026-03-13T21:07:08Z",
+      "RequestedBy": "LAPTOP-3VU5GOA7",
+      "Status": "pending",
+      "ResultMessage": "",
+      "ProcessedAtUtc": ""
     }
   ]
 }
