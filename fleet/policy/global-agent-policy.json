@@ -1,0 +1,9 @@
+{
+  "InstallersFolder": "installers",
+  "AutoStartWithWindows": false,
+  "AutoSyncCatalogOnStartup": true,
+  "AutoInstallMissingOnStartup": false,
+  "AutoUpdateAppOnStartup": false,
+  "UpdatedAtUtc": "2026-03-14T07:11:50Z",
+  "UpdatedBy": "LAPTOP-3VU5GOA7"
+}
