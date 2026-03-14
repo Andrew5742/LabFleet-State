@@ -4,14 +4,11 @@
   "WorkstationNumber": "\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u043D\u043E\u0443\u0442",
   "MachineName": "DESKTOP-QTBO15S",
   "OsDisplayName": "Windows 10",
-  "AgentVersion": "1.0.35.0",
-  "LastSeenUtc": "2026-03-14T20:08:45Z",
-  "InstalledCatalogPackageIds": [
-    "libreoffice",
-    "unity-hub",
-    "visual-studio-community",
-    "vscode"
-  ],
+  "AgentVersion": "1.0.40.0",
+  "LastSeenUtc": "2026-03-14T22:32:17Z",
+  "AgentEnabled": true,
+  "IsOnline": true,
+  "InstalledCatalogPackageIds": [],
   "InstalledSoftware": [
     {
       "Name": "7-Zip 24.08 (x64)",
@@ -1185,6 +1182,13 @@
       "QuietUninstallString": ""
     },
     {
+      "Name": "LibreOffice 25.8.3.2",
+      "Version": "25.8.3.2",
+      "Publisher": "The Document Foundation",
+      "UninstallString": "MsiExec.exe /I{5370F9CB-D8E4-452D-A5DD-90EB7A6E5E1F}",
+      "QuietUninstallString": ""
+    },
+    {
       "Name": "Microsoft .NET 8.0 Templates 8.0.419 (x64)",
       "Version": "32.14.55941",
       "Publisher": "Microsoft Corporation",
@@ -1605,6 +1609,13 @@
       "QuietUninstallString": ""
     },
     {
+      "Name": "Microsoft Visual Studio Code (User)",
+      "Version": "1.111.0",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022 /SILENT"
+    },
+    {
       "Name": "Microsoft Visual Studio Installer",
       "Version": "4.4.38.63497",
       "Publisher": "Microsoft Corporation",
@@ -1822,6 +1833,13 @@
       "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022 /SILENT"
     },
     {
+      "Name": "Unity Hub 3.14.4",
+      "Version": "3.14.4",
+      "Publisher": "Unity Technologies Inc.",
+      "UninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers",
+      "QuietUninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers /S"
+    },
+    {
       "Name": "Update for x64-based Windows Systems (KB5001716)",
       "Version": "8.94.0.0",
       "Publisher": "Microsoft Corporation",
@@ -1848,6 +1866,13 @@
       "Publisher": "2010-2025 Viber Media S.a.r.l",
       "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Package Cache\\{E1E0CD5A-36F1-4515-AE3F-B3F4857BDBD5}\\ViberSetup.exe\u0022  /uninstall",
       "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Package Cache\\{E1E0CD5A-36F1-4515-AE3F-B3F4857BDBD5}\\ViberSetup.exe\u0022 /uninstall /quiet"
+    },
+    {
+      "Name": "Visual Studio Community 2022",
+      "Version": "17.14.28",
+      "Publisher": "Microsoft Corporation",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022 uninstall --installPath \u0022C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\u0022",
+      "QuietUninstallString": ""
     },
     {
       "Name": "vs_clickoncebootstrappermsi",
