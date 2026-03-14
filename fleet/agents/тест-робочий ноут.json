@@ -4,11 +4,11 @@
   "WorkstationNumber": "\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u043D\u043E\u0443\u0442",
   "MachineName": "DESKTOP-QTBO15S",
   "OsDisplayName": "Windows 10",
-  "AgentVersion": "1.0.26.0",
-  "LastSeenUtc": "2026-03-13T21:02:40Z",
+  "AgentVersion": "1.0.27.0",
+  "LastSeenUtc": "2026-03-14T07:17:03Z",
   "InstalledCatalogPackageIds": [
-    "blender",
     "libreoffice",
+    "unity-hub",
     "visual-studio-community",
     "vscode"
   ],
@@ -46,13 +46,6 @@
       "Version": "1.8.0",
       "Publisher": "Adobe Systems Incorporated",
       "UninstallString": "MsiExec.exe /I{AC76BA86-0804-1033-1959-018244601149}",
-      "QuietUninstallString": ""
-    },
-    {
-      "Name": "blender",
-      "Version": "4.2.1",
-      "Publisher": "Blender Foundation",
-      "UninstallString": "MsiExec.exe /I{932B2E6B-7F23-4F97-B9DA-148C3CB3FDB4}",
       "QuietUninstallString": ""
     },
     {
@@ -810,6 +803,13 @@
       "Publisher": "Telegram FZ-LLC",
       "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022",
       "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022 /SILENT"
+    },
+    {
+      "Name": "Unity Hub 3.14.4",
+      "Version": "3.14.4",
+      "Publisher": "Unity Technologies Inc.",
+      "UninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers",
+      "QuietUninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers /S"
     },
     {
       "Name": "Update for x64-based Windows Systems (KB5001716)",
