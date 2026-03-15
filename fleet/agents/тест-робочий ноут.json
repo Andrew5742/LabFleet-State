@@ -5,10 +5,15 @@
   "MachineName": "DESKTOP-QTBO15S",
   "OsDisplayName": "Windows 10",
   "AgentVersion": "1.0.49.0",
-  "LastSeenUtc": "2026-03-15T12:40:22Z",
+  "LastSeenUtc": "2026-03-15T12:40:28Z",
   "AgentEnabled": true,
   "IsOnline": true,
-  "InstalledCatalogPackageIds": [],
+  "InstalledCatalogPackageIds": [
+    "libreoffice",
+    "unity-hub",
+    "visual-studio-community",
+    "vscode"
+  ],
   "InstalledSoftware": [
     {
       "Name": "7-Zip 24.08 (x64)",
@@ -5593,7 +5598,7 @@
         {
           "Drive": "C:\\",
           "Total": 261446897664,
-          "Free": 144501735424,
+          "Free": 144497025024,
           "FreePercent": 55.27
         },
         {
@@ -5607,10 +5612,10 @@
         "Connected": true,
         "Adapter": "Wi-Fi"
       },
-      "Uptime": "20.17:49:45",
+      "Uptime": "20.17:49:51",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-15T12:40:21Z",
-    "ScanKind": "full"
+    "LastScanTime": "2026-03-15T12:40:27Z",
+    "ScanKind": "quick"
   }
 }
