@@ -5,7 +5,7 @@
   "MachineName": "DESKTOP-QTBO15S",
   "OsDisplayName": "Windows 10",
   "AgentVersion": "1.0.59.0",
-  "LastSeenUtc": "2026-03-15T18:49:12Z",
+  "LastSeenUtc": "2026-03-15T18:51:46Z",
   "AgentEnabled": true,
   "IsOnline": true,
   "InstalledCatalogPackageIds": [
@@ -4777,7 +4777,7 @@
         {
           "Drive": "C:\\",
           "Total": 261446897664,
-          "Free": 144038735872,
+          "Free": 144038100992,
           "FreePercent": 55.09
         },
         {
@@ -4791,10 +4791,10 @@
         "Connected": true,
         "Adapter": "Wi-Fi"
       },
-      "Uptime": "20.23:58:35",
+      "Uptime": "21.00:01:10",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-15T18:49:11Z",
+    "LastScanTime": "2026-03-15T18:51:45Z",
     "ScanKind": "quick"
   }
 }
