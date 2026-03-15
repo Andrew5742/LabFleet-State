@@ -1,0 +1,4795 @@
+{
+  "AgentId": "agent-e9e444bb750653124fda8010",
+  "RoomNumber": "\u0422\u0415\u0421\u0422",
+  "WorkstationNumber": "\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u043D\u043E\u0443\u0442",
+  "MachineName": "DESKTOP-QTBO15S",
+  "OsDisplayName": "Windows 10",
+  "AgentVersion": "1.0.59.0",
+  "LastSeenUtc": "2026-03-15T18:49:00Z",
+  "AgentEnabled": true,
+  "IsOnline": true,
+  "InstalledCatalogPackageIds": [],
+  "InstalledSoftware": [
+    {
+      "Name": "7-Zip 24.08 (x64)",
+      "Version": "24.08",
+      "Publisher": "Igor Pavlov",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Program Files\\7-Zip\\",
+      "UninstallString": "\u0022C:\\Program Files\\7-Zip\\Uninstall.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Program Files\\7-Zip\\Uninstall.exe\u0022 /S",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Adobe Acrobat DC",
+      "Version": "21.007.20095",
+      "Publisher": "Adobe Systems Incorporated",
+      "InstallDate": "20251125",
+      "InstallLocation": "C:\\Program Files (x86)\\Adobe\\Acrobat DC\\",
+      "UninstallString": "MsiExec.exe /I{AC76BA86-1033-FFFF-7760-0C0F074E4100}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Adobe Genuine Service",
+      "Version": "9.1.0.52",
+      "Publisher": "Adobe Inc.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Common Files\\Adobe\\AdobeGCClient\\AdobeCleanUpUtility.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Adobe Illustrator 2024",
+      "Version": "28.7.1",
+      "Publisher": "Adobe Inc.",
+      "InstallDate": "12/9/2025",
+      "InstallLocation": "C:\\Program Files\\Adobe\\Adobe Illustrator 2024",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\HDBox\\Uninstaller.exe\u0022 --uninstall=1 --sapCode=ILST --productVersion=28.7.1 --productPlatform=win64 --productAdobeCode={ILST-28.7.1-64-ADBEADBEADBEADBEADBEA} --productName=\u0022Illustrator\u0022 --mode=1",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Adobe Refresh Manager",
+      "Version": "1.8.0",
+      "Publisher": "Adobe Systems Incorporated",
+      "InstallDate": "20260217",
+      "InstallLocation": "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\",
+      "UninstallString": "MsiExec.exe /I{AC76BA86-0804-1033-1959-018244601149}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Canon LBP2900",
+      "Version": "",
+      "Publisher": "",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "C:\\Program Files\\Canon\\PrnUninstall\\Canon LBP2900\\CNAB4UND.EXE",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Canon MF Toolbox 4.9.1.1.mf18",
+      "Version": "4.9.1.1.mf18",
+      "Publisher": "CANON INC.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "C:\\Program Files (x86)\\Canon\\MF Toolbox Ver4.9\\Uninst.exe",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Canon MF4400 Series",
+      "Version": "3.8.0.0",
+      "Publisher": "Canon Inc.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Windows\\system32\\CanonMF Uninstaller Information\\{4129CA8E-7E75-4eee-BAE5-AA7707AA7708}\\misc\\DelDrv.exe\u0022 /U:{4129CA8E-7E75-4eee-BAE5-AA7707AA7708} /L0x0000",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+      "Version": "4.8.09256",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{BDF8C840-5B9A-4D9B-9BCA-CE4163973563}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "DiagnosticsHub_CollectionService",
+      "Version": "17.14.36412",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{C762588C-06DE-496A-8ADF-EBDBD49E37B5}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Epson Printer Connection Checker",
+      "Version": "3.4.1.0",
+      "Publisher": "Seiko Epson Corporation",
+      "InstallDate": "20251004",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{3E43D194-E18D-4C8A-B36D-15F14395A0A6}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "EpsonNet Print",
+      "Version": "3.3.1.0",
+      "Publisher": "Seiko Epson Corporation",
+      "InstallDate": "20251004",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{DB5EDF09-A7A7-47FA-B365-A7500A472878}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Figma",
+      "Version": "126.0.4",
+      "Publisher": "Figma, Inc.",
+      "InstallDate": "20260201",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
+      "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Figma Agent",
+      "Version": "126.0.4",
+      "Publisher": "Figma, Inc.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "C:\\Users\\Olga Pavlova\\AppData\\Local\\FigmaAgent\\Uninstall.exe",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Google Chrome",
+      "Version": "145.0.7632.160",
+      "Publisher": "Google\u00A0LLC",
+      "InstallDate": "20260313",
+      "InstallLocation": "C:\\Program Files\\Google\\Chrome\\Application",
+      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\145.0.7632.160\\Installer\\setup.exe\u0022 --uninstall --channel=stable --system-level --verbose-logging",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "HP Connection Optimizer",
+      "Version": "2.0.20.0",
+      "Publisher": "HP Inc",
+      "InstallDate": "20240902",
+      "InstallLocation": "C:\\Program Files (x86)\\HP Inc\\HP Connection Optimizer",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\InstallShield Installation Information\\{6468C4A5-E47E-405F-B675-A70A70983EA6}\\setup.exe\u0022 -runfromtemp -l0x0409  -removeonly",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "HP Support Solutions Framework",
+      "Version": "13.0.1.131",
+      "Publisher": "HP Inc.",
+      "InstallDate": "20240902",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{DB2C00CA-14EA-4B17-8455-744265ED177A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Inkscape",
+      "Version": "1.3.2",
+      "Publisher": "Inkscape",
+      "InstallDate": "20240904",
+      "InstallLocation": "C:\\Program Files\\Inkscape\\",
+      "UninstallString": "MsiExec.exe /I{2AB0D298-5B41-4C70-BB32-46F153F7A1BF}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "IntelliTraceProfilerProxy",
+      "Version": "15.0.21225.01",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{F8B9E8C8-61E8-4E9E-879D-F3F498AD0230}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "IrfanView 4.72 (64-bit)",
+      "Version": "4.72",
+      "Publisher": "Irfan Skiljan",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Program Files\\IrfanView\\",
+      "UninstallString": "\u0022C:\\Program Files\\IrfanView\\iv_uninstall.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "LibreOffice 25.8.3.2",
+      "Version": "25.8.3.2",
+      "Publisher": "The Document Foundation",
+      "InstallDate": "20251117",
+      "InstallLocation": "C:\\Program Files\\LibreOffice\\",
+      "UninstallString": "MsiExec.exe /I{5370F9CB-D8E4-452D-A5DD-90EB7A6E5E1F}",
+      "QuietUninstallString": "",
+      "Category": "Catalog"
+    },
+    {
+      "Name": "Microsoft .NET 8.0 Templates 8.0.419 (x64)",
+      "Version": "32.14.55941",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{9DC400E0-A330-47CE-BA54-B4A793D3222C}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET 9.0 Templates 9.0.312 (x64)",
+      "Version": "36.11.56644",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{CC355296-727E-4588-B4BE-F019FCBBE942}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.25 (x64)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{317C54D6-809F-44DA-858C-5C1D1287B622}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.25 (x64_arm64)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{508AB495-4537-4551-A52F-EB0066F1BD88}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 8.0.25 (x64_x86)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{B56B9E8B-ACB4-4AEC-85E0-B80556E1B66B}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.14 (x64)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{7755F4D3-1735-4CD7-B1B8-293F1822CD96}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.14 (x64_arm64)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{DD425E5F-3B08-4EFB-B0E7-999FE0A11545}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET AppHost Pack - 9.0.14 (x64_x86)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{A8EBAB5C-7A03-4C95-BCDC-979E5D1C8D68}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+      "Version": "4.7.03062",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{1784A8CD-F7FE-47E2-A87D-1F31E7242D0D}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)",
+      "Version": "4.7.03062",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{B517DBD3-B542-4FC8-9957-FFB2C3E65D1D}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Framework 4.8 SDK",
+      "Version": "4.8.03928",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{949C0535-171C-480F-9CF4-D25C9E60FE88}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+      "Version": "4.8.09037",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{1A9C3A1A-566B-4CFA-8B27-71FC623963BE}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Host - 9.0.14 (x64)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{1BDBCEB3-9590-47AF-91CA-C0F467760A5A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Host - 9.0.14 (x86)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{E12EF61D-34E2-4A75-8BD9-6D6E140BDC6F}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Host FX Resolver - 9.0.14 (x64)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{A5622318-9DBD-4A19-808D-CDA0929CA1DF}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Host FX Resolver - 9.0.14 (x86)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{06B2C204-931D-46CE-B0AC-27786A97DDB1}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 8.0.25 (x64)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{99B0C384-9362-4D4E-8DAF-23CA44E306E8}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 8.0.25 (x86)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{EDBD217F-7014-458D-8A6A-B9D5782623D3}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 9.0.14 (x64)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{7D8CA9A1-03AD-4726-8FAD-91DE906279DE}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Runtime - 9.0.14 (x86)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{DE5A71FD-AB11-44CD-BA22-4D9B130531D8}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET SDK 9.0.312 (x64) from Visual Studio",
+      "Version": "9.3.1226.12004",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{43072ACC-1DA1-4D6B-BEF2-2668F5BB9636}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)",
+      "Version": "24.0.28113",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{A7036CFB-B403-4598-85FF-D397ABB88173}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 8.0.25 (x64)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{2978E914-6308-4EE3-9027-D27B0222D543}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 8.0.25 (x86)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{0F551888-D2AC-4D4E-9804-22E6224BC245}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 9.0.14 (x64)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{F51EFB18-E243-4626-966E-11E0847B3877}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Targeting Pack - 9.0.14 (x86)",
+      "Version": "72.56.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{5CEACA14-CF07-4618-BB1E-13FBF6C10D5C}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft .NET Toolset 9.0.312 (x64)",
+      "Version": "36.11.56644",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{AB20E512-EB28-4AF1-B055-3E6E2AF9C45B}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.25 Shared Framework (x64)",
+      "Version": "8.0.25.26112",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{671A8FA4-3958-361B-BA4E-D7DE0079E929}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.25 Shared Framework (x86)",
+      "Version": "8.0.25.26112",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{503421DD-2921-384A-A9DD-89C963119639}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.25 Targeting Pack (x64)",
+      "Version": "8.0.25.26112",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{949EAC1A-4C8D-394B-B1CC-527ECA9A4762}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 8.0.25 Targeting Pack (x86)",
+      "Version": "8.0.25.26112",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{4068B380-3402-3D32-A993-B057B9AD7860}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.14 Shared Framework (x64)",
+      "Version": "9.0.14.26119",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{05C6BB69-26B0-3DDE-94A6-E8EE704DC45A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.14 Shared Framework (x86)",
+      "Version": "9.0.14.26119",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{EE62C477-2FB2-3459-940E-608B055E900E}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.14 Targeting Pack (x64)",
+      "Version": "9.0.14.26119",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{93AA5DC3-A927-3582-BADC-071D914460DB}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft ASP.NET Core 9.0.14 Targeting Pack (x86)",
+      "Version": "9.0.14.26119",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{BDC1836B-0DC9-3AB4-815B-44EE306F7D8F}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Edge",
+      "Version": "146.0.3856.59",
+      "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
+      "InstallDate": "20260315",
+      "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.59\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Office LTSC Professional Plus 2024 - uk-ua",
+      "Version": "16.0.17932.20620",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Program Files\\Microsoft Office",
+      "UninstallString": "\u0022C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\u0022 scenario=install scenariosubtype=ARP sourcetype=None productstoremove=ProPlus2024Volume.16_uk-ua_x-none culture=uk-ua version.16=16.0",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft System CLR Types for SQL Server 2019",
+      "Version": "15.0.2000.5",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{5BC7E9EB-13E8-45DB-8A60-F2481FEB4595}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Teams Meeting Add-in for Microsoft Office",
+      "Version": "1.25.28902",
+      "Publisher": "Microsoft",
+      "InstallDate": "20251120",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Update Health Tools",
+      "Version": "3.74.0.0",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20240902",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{1FC1A6C2-576E-489A-9B4A-92D21F542136}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual Basic/C\u002B\u002B Runtime (x86)",
+      "Version": "1.1.0",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{C5E3A69D-D391-45A6-A8FB-00B01E2B010D}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2005 Redistributable",
+      "Version": "8.0.61187",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2005 Redistributable (x64)",
+      "Version": "8.0.61186",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x64 9.0.30729.7523",
+      "Version": "9.0.30729.7523",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x86 9.0.30729.7523",
+      "Version": "9.0.30729.7523",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2010  x64 Redistributable - 10.0.40219",
+      "Version": "10.0.40219",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2010  x86 Redistributable - 10.0.40219",
+      "Version": "10.0.40219",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2012 x64 Additional Runtime - 11.0.61135",
+      "Version": "11.0.61135",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{37B8F9C7-03FB-3253-8781-2517C99D7C00}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2012 x64 Minimum Runtime - 11.0.61135",
+      "Version": "11.0.61135",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2012 x86 Additional Runtime - 11.0.61135",
+      "Version": "11.0.61135",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2012 x86 Minimum Runtime - 11.0.61135",
+      "Version": "11.0.61135",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Additional Runtime - 12.0.40664",
+      "Version": "12.0.40664",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{010792BA-551A-3AC0-A7EF-0FAB4156C382}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Minimum Runtime - 12.0.40664",
+      "Version": "12.0.40664",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{53CF6934-A98D-3D84-9146-FC4EDF3D5641}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 x86 Additional Runtime - 12.0.40664",
+      "Version": "12.0.40664",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{D401961D-3A20-3AC7-943B-6139D5BD490A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 x86 Minimum Runtime - 12.0.40664",
+      "Version": "12.0.40664",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{8122DAB1-ED4D-3676-BB0A-CA368196543E}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.42.34226",
+      "Version": "14.42.34226",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{B7EEB151-1025-42E0-AB63-539C3832396B}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.42.34226",
+      "Version": "14.42.34226",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{332674FD-CCDD-43E5-8702-8BDF9DC53F21}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Additional Runtime - 14.42.34226",
+      "Version": "14.42.34226",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{A640D564-FA8E-481B-ABC6-B2B572FDD83B}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Minimum Runtime - 14.42.34226",
+      "Version": "14.42.34226",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{4F66CF07-B4DB-46F6-84E9-3640CDE36006}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+      "Version": "10.0.60922",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251209",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{610487D9-3460-328A-9333-219D43A75CC5}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual Studio Code (User)",
+      "Version": "1.111.0",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Local\\Programs\\Microsoft VS Code\\",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022 /SILENT",
+      "Category": "Catalog"
+    },
+    {
+      "Name": "Microsoft Visual Studio Installer",
+      "Version": "4.4.38.63497",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\u0022",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022 /uninstall",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual Studio Setup Configuration",
+      "Version": "3.12.2140.44225",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{D07657AA-968C-4629-BD6C-1B52AF825EA7}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Visual Studio Setup WMI Provider",
+      "Version": "3.12.2140.44225",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{49727420-70BA-4495-9405-31F8D711CB5A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 8.0.25 (x64)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{C5343D9A-9640-4351-90D2-F6CF157C208E}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 8.0.25 (x86)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{FE4C16DD-05C8-4D7B-85A4-13FBCDC75D03}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 9.0.14 (x64)",
+      "Version": "72.56.48819",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{8CE06646-49A6-427F-9155-5E1F50190E08}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Windows Desktop Runtime - 9.0.14 (x86)",
+      "Version": "72.56.48819",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{D2CEA904-488E-4101-A691-763F634EE6E6}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.25 (x64)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{89F63B7E-F459-4CAB-BAE1-7F7C1EC2B19C}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.25 (x86)",
+      "Version": "64.100.48707",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{5920A33C-DF25-44AD-A6FD-53F8BEADF863}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.14 (x64)",
+      "Version": "72.56.48819",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{701F71AE-5DE0-410F-A621-55A232BC8E24}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.14 (x86)",
+      "Version": "72.56.48819",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{BC485EF1-DBE5-453F-B021-288249AA985E}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)",
+      "Version": "35.0.78",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{6C7D2654-26BF-4029-809E-2E018404BA4E}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)",
+      "Version": "64.136.23253",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{2E5C5364-621F-4F22-8B81-18524D6F0361}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)",
+      "Version": "26.0.9752",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{DCB49BE7-CAB9-4AF2-9CB5-C3F0567771AE}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)",
+      "Version": "26.0.9752",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{8B045548-527C-4D2A-8A42-44713C3DBA15}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)",
+      "Version": "26.0.9752",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{121950B6-0F21-4F0D-BF23-663BD6AA1926}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)",
+      "Version": "9.0.111",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{899DB162-0A4A-407D-BF87-7C6D65F15610}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)",
+      "Version": "26.0.9752",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{86975E52-FB78-4CFF-9D23-E4DEA2F26F8A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)",
+      "Version": "72.56.48675",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{AB59D4BA-BE3B-4C22-B984-AA9E065842D0}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)",
+      "Version": "72.56.48675",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{DA29E54E-9E8C-4DA4-9D78-A9024BE5876C}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)",
+      "Version": "72.56.48675",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{C6644939-33AC-4395-B668-402FD42BA3D7}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)",
+      "Version": "72.56.48675",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{1B9AD5AC-6636-4611-AFDD-E4FE9EC3B885}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)",
+      "Version": "72.0.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{65ADB65C-239A-4B43-9580-4F3F5564E91C}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)",
+      "Version": "72.0.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{2C405A91-A1AB-4A47-AC40-CD35C632E4CD}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)",
+      "Version": "72.0.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{55DFE7C5-961B-4685-9561-ECA6E3C2ADB7}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)",
+      "Version": "72.0.48826",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{0EDAC286-5E7D-46E0-BCE5-8D71CBC0C1A0}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Mozilla Firefox (x64 uk)",
+      "Version": "147.0.4",
+      "Publisher": "Mozilla",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Program Files\\Mozilla Firefox",
+      "UninstallString": "\u0022C:\\Program Files\\Mozilla Firefox\\uninstall\\helper.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Mozilla Maintenance Service",
+      "Version": "142.0.1",
+      "Publisher": "Mozilla",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Mozilla Maintenance Service\\uninstall.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Office 16 Click-to-Run Extensibility Component",
+      "Version": "16.0.17928.20216",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260201",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{90160000-008C-0000-1000-0000000FF1CE}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Office 16 Click-to-Run Licensing Component",
+      "Version": "16.0.17932.20620",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260201",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{90160000-007E-0000-1000-0000000FF1CE}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Telegram Desktop",
+      "Version": "6.5.1",
+      "Publisher": "Telegram FZ-LLC",
+      "InstallDate": "20260217",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022 /SILENT",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Unity Hub 3.14.4",
+      "Version": "3.14.4",
+      "Publisher": "Unity Technologies Inc.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers",
+      "QuietUninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers /S",
+      "Category": "Catalog"
+    },
+    {
+      "Name": "Update for x64-based Windows Systems (KB5001716)",
+      "Version": "8.94.0.0",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20251110",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{B8D93870-98D1-4980-AFCA-E26563CDFB79}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vcpp_crt.redist.clickonce",
+      "Version": "14.44.35211",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{C7FC6DE7-5C06-4311-837A-E0D774618D17}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Viber",
+      "Version": "26.1.2.0",
+      "Publisher": "2010-2025 Viber Media S.a.r.l",
+      "InstallDate": "20250916",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{B90A0EDF-F698-42B0-BEBC-ABB66892BD35}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Viber",
+      "Version": "27.3.0.0",
+      "Publisher": "2010-2025 Viber Media S.a.r.l",
+      "InstallDate": "20250916",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Package Cache\\{E1E0CD5A-36F1-4515-AE3F-B3F4857BDBD5}\\ViberSetup.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Package Cache\\{E1E0CD5A-36F1-4515-AE3F-B3F4857BDBD5}\\ViberSetup.exe\u0022 /uninstall /quiet",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Visual Studio Community 2022",
+      "Version": "17.14.28",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022 uninstall --installPath \u0022C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\u0022",
+      "QuietUninstallString": "",
+      "Category": "Catalog"
+    },
+    {
+      "Name": "vs_clickoncebootstrappermsi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{1A1BF820-6D25-4B65-8C95-F29487B1CB34}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_clickoncebootstrappermsires",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{9D460280-D43F-4AA5-A712-88D841B764BC}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_clickoncesigntoolmsi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{506605DE-0E7C-48AD-9F3C-74C738C4BFE0}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_communitymsires",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{2817364B-A3DE-472C-BF19-F19B6997061F}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_communitysharedmsi",
+      "Version": "17.14.36025",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{71498EE6-F94E-4061-9DD5-55925CA8A74F}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_communityx64msi",
+      "Version": "17.14.36025",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{3873679C-FA03-4101-97E9-107D67C568B8}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_CoreEditorFonts",
+      "Version": "17.7.40001",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{1851460E-0E63-4117-B5BA-25A2F045801B}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_devenvsharedmsi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{B4AE0B55-6C49-4E6E-9FA9-45ADCDA64354}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_devenx64vmsi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{5B7C4B06-7F22-461E-AABE-29E7719CB225}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_filehandler_amd64",
+      "Version": "17.14.36024",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{22EE1419-B47E-44B8-A635-868746946079}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_filehandler_x86",
+      "Version": "17.14.36024",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{6C7D0172-7367-4F0C-95DB-6021765B58EA}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_FileTracker_Singleton",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{D331F4E7-BC3B-47BE-BB56-5F33895F9347}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_githubprotocolhandlermsi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{29297AFE-9D24-4DFE-ACAF-D90090D905CF}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_minshellinteropsharedmsi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{537F07C8-0EC6-41A5-BB91-750FA3CAA110}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_minshellinteropx64msi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{B797608C-8536-46EF-95D8-8474139EA43A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_minshellmsires",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{EC049978-2176-47C6-B99B-2C64AD6F6828}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_minshellsharedmsi",
+      "Version": "17.14.36024",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{F6E69DD8-7652-4CC6-8A4F-485A16012B5B}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_minshellx64msi",
+      "Version": "17.14.36301",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{51FD170D-69D2-4D5E-A9D1-53FD1F394FD7}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_SQLClickOnceBootstrappermsi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{D1A4C2CE-7804-492B-82C0-CA9F9705C60A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_tipsmsi",
+      "Version": "17.14.36015",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{1A3719B4-93AA-4DCD-885C-2AF1AB6EC358}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "vs_vswebprotocolselectormsi",
+      "Version": "17.14.36323",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260313",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /I{B4B3AA16-E828-4577-A9F2-629E1A95FE4A}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "WinRAR 7.01 (64-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u0430\u044F)",
+      "Version": "7.01.0",
+      "Publisher": "win.rar GmbH",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Program Files\\WinRAR",
+      "UninstallString": "C:\\Program Files\\WinRAR\\uninstall.exe",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Xerox Desktop Print Experience 8.5",
+      "Version": "8.158.0.0",
+      "Publisher": "Xerox Corporation",
+      "InstallDate": "20251007",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{16B4CC67-50F6-DD5B-CEF3-E2F2EF460494}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Zoom Workplace",
+      "Version": "6.6.11 (23272)",
+      "Publisher": "Zoom Communications, Inc.",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\bin",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\uninstall\\Installer.exe\u0022 /uninstall",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "\u00B5Torrent",
+      "Version": "3.6.0.47224",
+      "Publisher": "BitTorrent Limited",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\uTorrent",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\uTorrent\\uTorrent.exe\u0022 /UNINSTALL",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "\u041D\u043E\u0442\u0430\u0442\u043A\u0438",
+      "Version": "1.0",
+      "Publisher": "Google\\Chrome",
+      "InstallDate": "20251020",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=\u0022Profile 1\u0022 --uninstall-app-id=agedgfbdadefbodjkkkcpihgcmibpcff",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "\u0421\u0435\u0440\u0435\u0434\u043E\u0432\u0438\u0449\u0435 \u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043D\u044F Microsoft Edge WebView2",
+      "Version": "145.0.3800.97",
+      "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
+      "InstallDate": "20260313",
+      "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "\u0421\u043A\u0430\u0441\u0443\u0432\u0430\u043D\u043D\u044F \u0456\u043D\u0441\u0442\u0430\u043B\u044F\u0446\u0456\u0457 \u043F\u0440\u0438\u043D\u0442\u0435\u0440\u0430 EPSON XP-4200 Series",
+      "Version": "",
+      "Publisher": "Seiko Epson Corporation",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "C:\\Windows\\system32\\spool\\DRIVERS\\x64\\3\\E1YINSBHE.EXE /R /APD /P:\u0022EPSON XP-4200 Series\u0022",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    }
+  ],
+  "UnknownSoftware": [
+    {
+      "Name": "Adobe Genuine Service",
+      "Version": "9.1.0.52",
+      "Publisher": "Adobe Inc.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Common Files\\Adobe\\AdobeGCClient\\AdobeCleanUpUtility.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Canon LBP2900",
+      "Version": "",
+      "Publisher": "",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "C:\\Program Files\\Canon\\PrnUninstall\\Canon LBP2900\\CNAB4UND.EXE",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Canon MF Toolbox 4.9.1.1.mf18",
+      "Version": "4.9.1.1.mf18",
+      "Publisher": "CANON INC.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "C:\\Program Files (x86)\\Canon\\MF Toolbox Ver4.9\\Uninst.exe",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Canon MF4400 Series",
+      "Version": "3.8.0.0",
+      "Publisher": "Canon Inc.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Windows\\system32\\CanonMF Uninstaller Information\\{4129CA8E-7E75-4eee-BAE5-AA7707AA7708}\\misc\\DelDrv.exe\u0022 /U:{4129CA8E-7E75-4eee-BAE5-AA7707AA7708} /L0x0000",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Epson Printer Connection Checker",
+      "Version": "3.4.1.0",
+      "Publisher": "Seiko Epson Corporation",
+      "InstallDate": "20251004",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{3E43D194-E18D-4C8A-B36D-15F14395A0A6}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "EpsonNet Print",
+      "Version": "3.3.1.0",
+      "Publisher": "Seiko Epson Corporation",
+      "InstallDate": "20251004",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{DB5EDF09-A7A7-47FA-B365-A7500A472878}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Figma",
+      "Version": "126.0.4",
+      "Publisher": "Figma, Inc.",
+      "InstallDate": "20260201",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
+      "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Figma Agent",
+      "Version": "126.0.4",
+      "Publisher": "Figma, Inc.",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "C:\\Users\\Olga Pavlova\\AppData\\Local\\FigmaAgent\\Uninstall.exe",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Mozilla Maintenance Service",
+      "Version": "142.0.1",
+      "Publisher": "Mozilla",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Mozilla Maintenance Service\\uninstall.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Telegram Desktop",
+      "Version": "6.5.1",
+      "Publisher": "Telegram FZ-LLC",
+      "InstallDate": "20260217",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022 /SILENT",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Viber",
+      "Version": "26.1.2.0",
+      "Publisher": "2010-2025 Viber Media S.a.r.l",
+      "InstallDate": "20250916",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{B90A0EDF-F698-42B0-BEBC-ABB66892BD35}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Viber",
+      "Version": "27.3.0.0",
+      "Publisher": "2010-2025 Viber Media S.a.r.l",
+      "InstallDate": "20250916",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Package Cache\\{E1E0CD5A-36F1-4515-AE3F-B3F4857BDBD5}\\ViberSetup.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Package Cache\\{E1E0CD5A-36F1-4515-AE3F-B3F4857BDBD5}\\ViberSetup.exe\u0022 /uninstall /quiet",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Xerox Desktop Print Experience 8.5",
+      "Version": "8.158.0.0",
+      "Publisher": "Xerox Corporation",
+      "InstallDate": "20251007",
+      "InstallLocation": "",
+      "UninstallString": "MsiExec.exe /X{16B4CC67-50F6-DD5B-CEF3-E2F2EF460494}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Zoom Workplace",
+      "Version": "6.6.11 (23272)",
+      "Publisher": "Zoom Communications, Inc.",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\bin",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\uninstall\\Installer.exe\u0022 /uninstall",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "\u00B5Torrent",
+      "Version": "3.6.0.47224",
+      "Publisher": "BitTorrent Limited",
+      "InstallDate": "",
+      "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\uTorrent",
+      "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\uTorrent\\uTorrent.exe\u0022 /UNINSTALL",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "\u041D\u043E\u0442\u0430\u0442\u043A\u0438",
+      "Version": "1.0",
+      "Publisher": "Google\\Chrome",
+      "InstallDate": "20251020",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=\u0022Profile 1\u0022 --uninstall-app-id=agedgfbdadefbodjkkkcpihgcmibpcff",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "\u0421\u043A\u0430\u0441\u0443\u0432\u0430\u043D\u043D\u044F \u0456\u043D\u0441\u0442\u0430\u043B\u044F\u0446\u0456\u0457 \u043F\u0440\u0438\u043D\u0442\u0435\u0440\u0430 EPSON XP-4200 Series",
+      "Version": "",
+      "Publisher": "Seiko Epson Corporation",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "C:\\Windows\\system32\\spool\\DRIVERS\\x64\\3\\E1YINSBHE.EXE /R /APD /P:\u0022EPSON XP-4200 Series\u0022",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    }
+  ],
+  "Inventory": {
+    "MachineInfo": {
+      "Hostname": "DESKTOP-QTBO15S",
+      "Manufacturer": "HP",
+      "Model": "HP Pavilion Laptop 15-eg3xxx",
+      "SerialNumber": "5CD3353L76",
+      "DomainOrWorkgroup": "WORKGROUP",
+      "CurrentUser": "Olga Pavlova"
+    },
+    "Hardware": {
+      "Computer": {
+        "Hostname": "DESKTOP-QTBO15S",
+        "Manufacturer": "HP",
+        "Model": "HP Pavilion Laptop 15-eg3xxx",
+        "SerialNumber": "5CD3353L76"
+      },
+      "BIOS": {
+        "Vendor": "AMI",
+        "Version": "F.05",
+        "ReleaseDate": "2024-04-23"
+      },
+      "Motherboard": {
+        "Manufacturer": "HP",
+        "Product": "8BFD",
+        "SerialNumber": "PRSPU038JIH07O"
+      },
+      "CPU": {
+        "Name": "13th Gen Intel(R) Core(TM) i3-1315U",
+        "Cores": 6,
+        "Threads": 8,
+        "MaxClockSpeed": 1200
+      },
+      "RAM": {
+        "TotalMemory": 16803356672,
+        "Modules": [
+          {
+            "Size": 8589934592,
+            "Speed": 3200,
+            "Manufacturer": "Micron Technology",
+            "SerialNumber": "41DCF0B0"
+          },
+          {
+            "Size": 8589934592,
+            "Speed": 3200,
+            "Manufacturer": "Micron Technology",
+            "SerialNumber": "41DCF0F2"
+          }
+        ]
+      },
+      "Storage": {
+        "Disks": [
+          {
+            "Model": "WD PC SN560 SDDPNQE-1T00-1006",
+            "SerialNumber": "E823_8FA6_BF53_0001_001B_448B_4AAC_4B46.",
+            "Size": 1024203640320,
+            "InterfaceType": "SCSI",
+            "Type": "NVMe",
+            "HealthStatus": "Healthy"
+          },
+          {
+            "Model": "General UDisk USB Device",
+            "SerialNumber": "2211292124334858607812",
+            "Size": 31453470720,
+            "InterfaceType": "USB",
+            "Type": "Unknown",
+            "HealthStatus": "Healthy"
+          }
+        ]
+      },
+      "GPU": [
+        {
+          "Name": "Intel(R) UHD Graphics",
+          "DriverVersion": "31.0.101.4502",
+          "Status": "OK"
+        }
+      ],
+      "NetworkAdapters": [
+        {
+          "Name": "6to4 Adapter",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "NotPresent",
+          "Speed": 0
+        },
+        {
+          "Name": "Ethernet (\u043D\u0430\u043B\u0430\u0433\u043E\u0434\u0436\u0443\u0432\u0430\u0447 \u044F\u0434\u0440\u0430)",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "NotPresent",
+          "Speed": 0
+        },
+        {
+          "Name": "Loopback Pseudo-Interface 1",
+          "MAC": "",
+          "IPv4": "127.0.0.1",
+          "Status": "Up",
+          "Speed": 1073741824
+        },
+        {
+          "Name": "Microsoft IP-HTTPS Platform Interface",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "NotPresent",
+          "Speed": 0
+        },
+        {
+          "Name": "Teredo Tunneling Pseudo-Interface",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "NotPresent",
+          "Speed": 0
+        },
+        {
+          "Name": "Wi-Fi",
+          "MAC": "106838001DED",
+          "IPv4": "192.168.0.103",
+          "Status": "Up",
+          "Speed": 866700000
+        },
+        {
+          "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
+          "MAC": "106838001DED",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": 866700000
+        },
+        {
+          "Name": "Wi-Fi-QoS Packet Scheduler-0000",
+          "MAC": "106838001DED",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": 866700000
+        },
+        {
+          "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
+          "MAC": "106838001DED",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": 866700000
+        },
+        {
+          "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
+          "MAC": "106838001DED",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": 866700000
+        },
+        {
+          "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "106838001DED",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": 866700000
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 1",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10",
+          "MAC": "126838001DBD",
+          "IPv4": "169.254.187.25",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-Native WiFi Filter Driver-0000",
+          "MAC": "126838001DBD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-QoS Packet Scheduler-0000",
+          "MAC": "126838001DBD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-WFP 802.3 MAC Layer LightWeight Filter-0000",
+          "MAC": "126838001DBD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "126838001DBD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 2",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 3",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 4",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 5",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 6",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 6-QoS Packet Scheduler-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 6-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 7",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 7-QoS Packet Scheduler-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 7-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 8",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 8-QoS Packet Scheduler-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 8-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 9",
+          "MAC": "126838001DAD",
+          "IPv4": "169.254.122.75",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 9-Native WiFi Filter Driver-0000",
+          "MAC": "126838001DAD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 9-QoS Packet Scheduler-0000",
+          "MAC": "126838001DAD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 9-WFP 802.3 MAC Layer LightWeight Filter-0000",
+          "MAC": "126838001DAD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 9-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "126838001DAD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043C\u0435\u0440\u0435\u0436\u0443 Bluetooth",
+          "MAC": "106838001DEC",
+          "IPv4": "Unknown",
+          "Status": "NotPresent",
+          "Speed": 0
+        }
+      ],
+      "Monitors": [
+        {
+          "Model": "Unknown",
+          "SerialNumber": "0",
+          "Resolution": "1920x1080"
+        }
+      ],
+      "AudioDevices": [
+        {
+          "Name": "Intel\u00AE Smart Sound Technology for Digital Microphones",
+          "Status": "OK"
+        },
+        {
+          "Name": "Realtek High Definition Audio",
+          "Status": "OK"
+        },
+        {
+          "Name": "Intel\u00AE Smart Sound Technology for Bluetooth\u00AE Audio",
+          "Status": "OK"
+        }
+      ],
+      "USBControllers": [
+        {
+          "Name": "Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)",
+          "Status": "OK"
+        },
+        {
+          "Name": "Intel(R) USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)",
+          "Status": "OK"
+        }
+      ]
+    },
+    "Software": {
+      "InstalledApplications": [
+        {
+          "Name": "7-Zip 24.08 (x64)",
+          "Version": "24.08",
+          "Publisher": "Igor Pavlov",
+          "InstallDate": "",
+          "InstallLocation": "C:\\Program Files\\7-Zip\\",
+          "UninstallString": "\u0022C:\\Program Files\\7-Zip\\Uninstall.exe\u0022",
+          "QuietUninstallString": "\u0022C:\\Program Files\\7-Zip\\Uninstall.exe\u0022 /S",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Adobe Acrobat DC",
+          "Version": "21.007.20095",
+          "Publisher": "Adobe Systems Incorporated",
+          "InstallDate": "20251125",
+          "InstallLocation": "C:\\Program Files (x86)\\Adobe\\Acrobat DC\\",
+          "UninstallString": "MsiExec.exe /I{AC76BA86-1033-FFFF-7760-0C0F074E4100}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Adobe Genuine Service",
+          "Version": "9.1.0.52",
+          "Publisher": "Adobe Inc.",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Common Files\\Adobe\\AdobeGCClient\\AdobeCleanUpUtility.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Adobe Illustrator 2024",
+          "Version": "28.7.1",
+          "Publisher": "Adobe Inc.",
+          "InstallDate": "12/9/2025",
+          "InstallLocation": "C:\\Program Files\\Adobe\\Adobe Illustrator 2024",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Common Files\\Adobe\\Adobe Desktop Common\\HDBox\\Uninstaller.exe\u0022 --uninstall=1 --sapCode=ILST --productVersion=28.7.1 --productPlatform=win64 --productAdobeCode={ILST-28.7.1-64-ADBEADBEADBEADBEADBEA} --productName=\u0022Illustrator\u0022 --mode=1",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Adobe Refresh Manager",
+          "Version": "1.8.0",
+          "Publisher": "Adobe Systems Incorporated",
+          "InstallDate": "20260217",
+          "InstallLocation": "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\",
+          "UninstallString": "MsiExec.exe /I{AC76BA86-0804-1033-1959-018244601149}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Canon LBP2900",
+          "Version": "",
+          "Publisher": "",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "C:\\Program Files\\Canon\\PrnUninstall\\Canon LBP2900\\CNAB4UND.EXE",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Canon MF Toolbox 4.9.1.1.mf18",
+          "Version": "4.9.1.1.mf18",
+          "Publisher": "CANON INC.",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "C:\\Program Files (x86)\\Canon\\MF Toolbox Ver4.9\\Uninst.exe",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Canon MF4400 Series",
+          "Version": "3.8.0.0",
+          "Publisher": "Canon Inc.",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\Windows\\system32\\CanonMF Uninstaller Information\\{4129CA8E-7E75-4eee-BAE5-AA7707AA7708}\\misc\\DelDrv.exe\u0022 /U:{4129CA8E-7E75-4eee-BAE5-AA7707AA7708} /L0x0000",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "ClickOnce Bootstrapper Package for Microsoft .NET Framework",
+          "Version": "4.8.09256",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{BDF8C840-5B9A-4D9B-9BCA-CE4163973563}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "DiagnosticsHub_CollectionService",
+          "Version": "17.14.36412",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{C762588C-06DE-496A-8ADF-EBDBD49E37B5}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Epson Printer Connection Checker",
+          "Version": "3.4.1.0",
+          "Publisher": "Seiko Epson Corporation",
+          "InstallDate": "20251004",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{3E43D194-E18D-4C8A-B36D-15F14395A0A6}",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "EpsonNet Print",
+          "Version": "3.3.1.0",
+          "Publisher": "Seiko Epson Corporation",
+          "InstallDate": "20251004",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{DB5EDF09-A7A7-47FA-B365-A7500A472878}",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Figma",
+          "Version": "126.0.4",
+          "Publisher": "Figma, Inc.",
+          "InstallDate": "20260201",
+          "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma",
+          "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
+          "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Figma Agent",
+          "Version": "126.0.4",
+          "Publisher": "Figma, Inc.",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "C:\\Users\\Olga Pavlova\\AppData\\Local\\FigmaAgent\\Uninstall.exe",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Google Chrome",
+          "Version": "145.0.7632.160",
+          "Publisher": "Google\u00A0LLC",
+          "InstallDate": "20260313",
+          "InstallLocation": "C:\\Program Files\\Google\\Chrome\\Application",
+          "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\145.0.7632.160\\Installer\\setup.exe\u0022 --uninstall --channel=stable --system-level --verbose-logging",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "HP Connection Optimizer",
+          "Version": "2.0.20.0",
+          "Publisher": "HP Inc",
+          "InstallDate": "20240902",
+          "InstallLocation": "C:\\Program Files (x86)\\HP Inc\\HP Connection Optimizer",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\InstallShield Installation Information\\{6468C4A5-E47E-405F-B675-A70A70983EA6}\\setup.exe\u0022 -runfromtemp -l0x0409  -removeonly",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "HP Support Solutions Framework",
+          "Version": "13.0.1.131",
+          "Publisher": "HP Inc.",
+          "InstallDate": "20240902",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{DB2C00CA-14EA-4B17-8455-744265ED177A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Inkscape",
+          "Version": "1.3.2",
+          "Publisher": "Inkscape",
+          "InstallDate": "20240904",
+          "InstallLocation": "C:\\Program Files\\Inkscape\\",
+          "UninstallString": "MsiExec.exe /I{2AB0D298-5B41-4C70-BB32-46F153F7A1BF}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "IntelliTraceProfilerProxy",
+          "Version": "15.0.21225.01",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{F8B9E8C8-61E8-4E9E-879D-F3F498AD0230}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "IrfanView 4.72 (64-bit)",
+          "Version": "4.72",
+          "Publisher": "Irfan Skiljan",
+          "InstallDate": "",
+          "InstallLocation": "C:\\Program Files\\IrfanView\\",
+          "UninstallString": "\u0022C:\\Program Files\\IrfanView\\iv_uninstall.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "LibreOffice 25.8.3.2",
+          "Version": "25.8.3.2",
+          "Publisher": "The Document Foundation",
+          "InstallDate": "20251117",
+          "InstallLocation": "C:\\Program Files\\LibreOffice\\",
+          "UninstallString": "MsiExec.exe /I{5370F9CB-D8E4-452D-A5DD-90EB7A6E5E1F}",
+          "QuietUninstallString": "",
+          "Category": "Catalog"
+        },
+        {
+          "Name": "Microsoft .NET 8.0 Templates 8.0.419 (x64)",
+          "Version": "32.14.55941",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{9DC400E0-A330-47CE-BA54-B4A793D3222C}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET 9.0 Templates 9.0.312 (x64)",
+          "Version": "36.11.56644",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{CC355296-727E-4588-B4BE-F019FCBBE942}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET AppHost Pack - 8.0.25 (x64)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{317C54D6-809F-44DA-858C-5C1D1287B622}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET AppHost Pack - 8.0.25 (x64_arm64)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{508AB495-4537-4551-A52F-EB0066F1BD88}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET AppHost Pack - 8.0.25 (x64_x86)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{B56B9E8B-ACB4-4AEC-85E0-B80556E1B66B}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET AppHost Pack - 9.0.14 (x64)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{7755F4D3-1735-4CD7-B1B8-293F1822CD96}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET AppHost Pack - 9.0.14 (x64_arm64)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{DD425E5F-3B08-4EFB-B0E7-999FE0A11545}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET AppHost Pack - 9.0.14 (x64_x86)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{A8EBAB5C-7A03-4C95-BCDC-979E5D1C8D68}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack",
+          "Version": "4.7.03062",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{1784A8CD-F7FE-47E2-A87D-1F31E7242D0D}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)",
+          "Version": "4.7.03062",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{B517DBD3-B542-4FC8-9957-FFB2C3E65D1D}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Framework 4.8 SDK",
+          "Version": "4.8.03928",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{949C0535-171C-480F-9CF4-D25C9E60FE88}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)",
+          "Version": "4.8.09037",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{1A9C3A1A-566B-4CFA-8B27-71FC623963BE}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Host - 9.0.14 (x64)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{1BDBCEB3-9590-47AF-91CA-C0F467760A5A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Host - 9.0.14 (x86)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{E12EF61D-34E2-4A75-8BD9-6D6E140BDC6F}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Host FX Resolver - 9.0.14 (x64)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{A5622318-9DBD-4A19-808D-CDA0929CA1DF}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Host FX Resolver - 9.0.14 (x86)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{06B2C204-931D-46CE-B0AC-27786A97DDB1}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Runtime - 8.0.25 (x64)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{99B0C384-9362-4D4E-8DAF-23CA44E306E8}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Runtime - 8.0.25 (x86)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{EDBD217F-7014-458D-8A6A-B9D5782623D3}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Runtime - 9.0.14 (x64)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{7D8CA9A1-03AD-4726-8FAD-91DE906279DE}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Runtime - 9.0.14 (x86)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{DE5A71FD-AB11-44CD-BA22-4D9B130531D8}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET SDK 9.0.312 (x64) from Visual Studio",
+          "Version": "9.3.1226.12004",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{43072ACC-1DA1-4D6B-BEF2-2668F5BB9636}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)",
+          "Version": "24.0.28113",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{A7036CFB-B403-4598-85FF-D397ABB88173}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Targeting Pack - 8.0.25 (x64)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{2978E914-6308-4EE3-9027-D27B0222D543}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Targeting Pack - 8.0.25 (x86)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{0F551888-D2AC-4D4E-9804-22E6224BC245}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Targeting Pack - 9.0.14 (x64)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{F51EFB18-E243-4626-966E-11E0847B3877}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Targeting Pack - 9.0.14 (x86)",
+          "Version": "72.56.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{5CEACA14-CF07-4618-BB1E-13FBF6C10D5C}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft .NET Toolset 9.0.312 (x64)",
+          "Version": "36.11.56644",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{AB20E512-EB28-4AF1-B055-3E6E2AF9C45B}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft ASP.NET Core 8.0.25 Shared Framework (x64)",
+          "Version": "8.0.25.26112",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{671A8FA4-3958-361B-BA4E-D7DE0079E929}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft ASP.NET Core 8.0.25 Shared Framework (x86)",
+          "Version": "8.0.25.26112",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{503421DD-2921-384A-A9DD-89C963119639}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft ASP.NET Core 8.0.25 Targeting Pack (x64)",
+          "Version": "8.0.25.26112",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{949EAC1A-4C8D-394B-B1CC-527ECA9A4762}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft ASP.NET Core 8.0.25 Targeting Pack (x86)",
+          "Version": "8.0.25.26112",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{4068B380-3402-3D32-A993-B057B9AD7860}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft ASP.NET Core 9.0.14 Shared Framework (x64)",
+          "Version": "9.0.14.26119",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{05C6BB69-26B0-3DDE-94A6-E8EE704DC45A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft ASP.NET Core 9.0.14 Shared Framework (x86)",
+          "Version": "9.0.14.26119",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{EE62C477-2FB2-3459-940E-608B055E900E}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft ASP.NET Core 9.0.14 Targeting Pack (x64)",
+          "Version": "9.0.14.26119",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{93AA5DC3-A927-3582-BADC-071D914460DB}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft ASP.NET Core 9.0.14 Targeting Pack (x86)",
+          "Version": "9.0.14.26119",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{BDC1836B-0DC9-3AB4-815B-44EE306F7D8F}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Edge",
+          "Version": "146.0.3856.59",
+          "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
+          "InstallDate": "20260315",
+          "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.59\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Office LTSC Professional Plus 2024 - uk-ua",
+          "Version": "16.0.17932.20620",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "",
+          "InstallLocation": "C:\\Program Files\\Microsoft Office",
+          "UninstallString": "\u0022C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\u0022 scenario=install scenariosubtype=ARP sourcetype=None productstoremove=ProPlus2024Volume.16_uk-ua_x-none culture=uk-ua version.16=16.0",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft System CLR Types for SQL Server 2019",
+          "Version": "15.0.2000.5",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{5BC7E9EB-13E8-45DB-8A60-F2481FEB4595}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Teams Meeting Add-in for Microsoft Office",
+          "Version": "1.25.28902",
+          "Publisher": "Microsoft",
+          "InstallDate": "20251120",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Update Health Tools",
+          "Version": "3.74.0.0",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20240902",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{1FC1A6C2-576E-489A-9B4A-92D21F542136}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual Basic/C\u002B\u002B Runtime (x86)",
+          "Version": "1.1.0",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{C5E3A69D-D391-45A6-A8FB-00B01E2B010D}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2005 Redistributable",
+          "Version": "8.0.61187",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2005 Redistributable (x64)",
+          "Version": "8.0.61186",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x64 9.0.30729.7523",
+          "Version": "9.0.30729.7523",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x86 9.0.30729.7523",
+          "Version": "9.0.30729.7523",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2010  x64 Redistributable - 10.0.40219",
+          "Version": "10.0.40219",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2010  x86 Redistributable - 10.0.40219",
+          "Version": "10.0.40219",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2012 x64 Additional Runtime - 11.0.61135",
+          "Version": "11.0.61135",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{37B8F9C7-03FB-3253-8781-2517C99D7C00}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2012 x64 Minimum Runtime - 11.0.61135",
+          "Version": "11.0.61135",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2012 x86 Additional Runtime - 11.0.61135",
+          "Version": "11.0.61135",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2012 x86 Minimum Runtime - 11.0.61135",
+          "Version": "11.0.61135",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Additional Runtime - 12.0.40664",
+          "Version": "12.0.40664",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{010792BA-551A-3AC0-A7EF-0FAB4156C382}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Minimum Runtime - 12.0.40664",
+          "Version": "12.0.40664",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{53CF6934-A98D-3D84-9146-FC4EDF3D5641}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2013 x86 Additional Runtime - 12.0.40664",
+          "Version": "12.0.40664",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{D401961D-3A20-3AC7-943B-6139D5BD490A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2013 x86 Minimum Runtime - 12.0.40664",
+          "Version": "12.0.40664",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{8122DAB1-ED4D-3676-BB0A-CA368196543E}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.42.34226",
+          "Version": "14.42.34226",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{B7EEB151-1025-42E0-AB63-539C3832396B}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.42.34226",
+          "Version": "14.42.34226",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{332674FD-CCDD-43E5-8702-8BDF9DC53F21}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Additional Runtime - 14.42.34226",
+          "Version": "14.42.34226",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{A640D564-FA8E-481B-ABC6-B2B572FDD83B}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Minimum Runtime - 14.42.34226",
+          "Version": "14.42.34226",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{4F66CF07-B4DB-46F6-84E9-3640CDE36006}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual Studio 2010 Tools for Office Runtime (x64)",
+          "Version": "10.0.60922",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251209",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{610487D9-3460-328A-9333-219D43A75CC5}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual Studio Code (User)",
+          "Version": "1.111.0",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Local\\Programs\\Microsoft VS Code\\",
+          "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022",
+          "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022 /SILENT",
+          "Category": "Catalog"
+        },
+        {
+          "Name": "Microsoft Visual Studio Installer",
+          "Version": "4.4.38.63497",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\u0022",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022 /uninstall",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual Studio Setup Configuration",
+          "Version": "3.12.2140.44225",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{D07657AA-968C-4629-BD6C-1B52AF825EA7}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Visual Studio Setup WMI Provider",
+          "Version": "3.12.2140.44225",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{49727420-70BA-4495-9405-31F8D711CB5A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Windows Desktop Runtime - 8.0.25 (x64)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{C5343D9A-9640-4351-90D2-F6CF157C208E}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Windows Desktop Runtime - 8.0.25 (x86)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{FE4C16DD-05C8-4D7B-85A4-13FBCDC75D03}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Windows Desktop Runtime - 9.0.14 (x64)",
+          "Version": "72.56.48819",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{8CE06646-49A6-427F-9155-5E1F50190E08}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Windows Desktop Runtime - 9.0.14 (x86)",
+          "Version": "72.56.48819",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{D2CEA904-488E-4101-A691-763F634EE6E6}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.25 (x64)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{89F63B7E-F459-4CAB-BAE1-7F7C1EC2B19C}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Windows Desktop Targeting Pack - 8.0.25 (x86)",
+          "Version": "64.100.48707",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{5920A33C-DF25-44AD-A6FD-53F8BEADF863}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.14 (x64)",
+          "Version": "72.56.48819",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{701F71AE-5DE0-410F-A621-55A232BC8E24}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft Windows Desktop Targeting Pack - 9.0.14 (x86)",
+          "Version": "72.56.48819",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{BC485EF1-DBE5-453F-B021-288249AA985E}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)",
+          "Version": "35.0.78",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{6C7D2654-26BF-4029-809E-2E018404BA4E}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)",
+          "Version": "64.136.23253",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{2E5C5364-621F-4F22-8B81-18524D6F0361}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)",
+          "Version": "26.0.9752",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{DCB49BE7-CAB9-4AF2-9CB5-C3F0567771AE}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)",
+          "Version": "26.0.9752",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{8B045548-527C-4D2A-8A42-44713C3DBA15}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)",
+          "Version": "26.0.9752",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{121950B6-0F21-4F0D-BF23-663BD6AA1926}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)",
+          "Version": "9.0.111",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{899DB162-0A4A-407D-BF87-7C6D65F15610}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)",
+          "Version": "26.0.9752",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{86975E52-FB78-4CFF-9D23-E4DEA2F26F8A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)",
+          "Version": "72.56.48675",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{AB59D4BA-BE3B-4C22-B984-AA9E065842D0}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)",
+          "Version": "72.56.48675",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{DA29E54E-9E8C-4DA4-9D78-A9024BE5876C}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)",
+          "Version": "72.56.48675",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{C6644939-33AC-4395-B668-402FD42BA3D7}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)",
+          "Version": "72.56.48675",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{1B9AD5AC-6636-4611-AFDD-E4FE9EC3B885}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)",
+          "Version": "72.0.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{65ADB65C-239A-4B43-9580-4F3F5564E91C}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)",
+          "Version": "72.0.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{2C405A91-A1AB-4A47-AC40-CD35C632E4CD}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)",
+          "Version": "72.0.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{55DFE7C5-961B-4685-9561-ECA6E3C2ADB7}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)",
+          "Version": "72.0.48826",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{0EDAC286-5E7D-46E0-BCE5-8D71CBC0C1A0}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Mozilla Firefox (x64 uk)",
+          "Version": "147.0.4",
+          "Publisher": "Mozilla",
+          "InstallDate": "",
+          "InstallLocation": "C:\\Program Files\\Mozilla Firefox",
+          "UninstallString": "\u0022C:\\Program Files\\Mozilla Firefox\\uninstall\\helper.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Mozilla Maintenance Service",
+          "Version": "142.0.1",
+          "Publisher": "Mozilla",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Mozilla Maintenance Service\\uninstall.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Office 16 Click-to-Run Extensibility Component",
+          "Version": "16.0.17928.20216",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260201",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{90160000-008C-0000-1000-0000000FF1CE}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Office 16 Click-to-Run Licensing Component",
+          "Version": "16.0.17932.20620",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260201",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{90160000-007E-0000-1000-0000000FF1CE}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Telegram Desktop",
+          "Version": "6.5.1",
+          "Publisher": "Telegram FZ-LLC",
+          "InstallDate": "20260217",
+          "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\",
+          "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022",
+          "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Telegram Desktop\\unins000.exe\u0022 /SILENT",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Unity Hub 3.14.4",
+          "Version": "3.14.4",
+          "Publisher": "Unity Technologies Inc.",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers",
+          "QuietUninstallString": "\u0022C:\\Program Files\\Unity Hub\\Uninstall Unity Hub.exe\u0022 /allusers /S",
+          "Category": "Catalog"
+        },
+        {
+          "Name": "Update for x64-based Windows Systems (KB5001716)",
+          "Version": "8.94.0.0",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20251110",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{B8D93870-98D1-4980-AFCA-E26563CDFB79}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vcpp_crt.redist.clickonce",
+          "Version": "14.44.35211",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{C7FC6DE7-5C06-4311-837A-E0D774618D17}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Viber",
+          "Version": "26.1.2.0",
+          "Publisher": "2010-2025 Viber Media S.a.r.l",
+          "InstallDate": "20250916",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{B90A0EDF-F698-42B0-BEBC-ABB66892BD35}",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Viber",
+          "Version": "27.3.0.0",
+          "Publisher": "2010-2025 Viber Media S.a.r.l",
+          "InstallDate": "20250916",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Package Cache\\{E1E0CD5A-36F1-4515-AE3F-B3F4857BDBD5}\\ViberSetup.exe\u0022  /uninstall",
+          "QuietUninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Local\\Package Cache\\{E1E0CD5A-36F1-4515-AE3F-B3F4857BDBD5}\\ViberSetup.exe\u0022 /uninstall /quiet",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Visual Studio Community 2022",
+          "Version": "17.14.28",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022 uninstall --installPath \u0022C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\u0022",
+          "QuietUninstallString": "",
+          "Category": "Catalog"
+        },
+        {
+          "Name": "vs_clickoncebootstrappermsi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{1A1BF820-6D25-4B65-8C95-F29487B1CB34}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_clickoncebootstrappermsires",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{9D460280-D43F-4AA5-A712-88D841B764BC}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_clickoncesigntoolmsi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{506605DE-0E7C-48AD-9F3C-74C738C4BFE0}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_communitymsires",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{2817364B-A3DE-472C-BF19-F19B6997061F}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_communitysharedmsi",
+          "Version": "17.14.36025",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{71498EE6-F94E-4061-9DD5-55925CA8A74F}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_communityx64msi",
+          "Version": "17.14.36025",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{3873679C-FA03-4101-97E9-107D67C568B8}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_CoreEditorFonts",
+          "Version": "17.7.40001",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{1851460E-0E63-4117-B5BA-25A2F045801B}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_devenvsharedmsi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{B4AE0B55-6C49-4E6E-9FA9-45ADCDA64354}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_devenx64vmsi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{5B7C4B06-7F22-461E-AABE-29E7719CB225}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_filehandler_amd64",
+          "Version": "17.14.36024",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{22EE1419-B47E-44B8-A635-868746946079}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_filehandler_x86",
+          "Version": "17.14.36024",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{6C7D0172-7367-4F0C-95DB-6021765B58EA}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_FileTracker_Singleton",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{D331F4E7-BC3B-47BE-BB56-5F33895F9347}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_githubprotocolhandlermsi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{29297AFE-9D24-4DFE-ACAF-D90090D905CF}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_minshellinteropsharedmsi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{537F07C8-0EC6-41A5-BB91-750FA3CAA110}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_minshellinteropx64msi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{B797608C-8536-46EF-95D8-8474139EA43A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_minshellmsires",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{EC049978-2176-47C6-B99B-2C64AD6F6828}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_minshellsharedmsi",
+          "Version": "17.14.36024",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{F6E69DD8-7652-4CC6-8A4F-485A16012B5B}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_minshellx64msi",
+          "Version": "17.14.36301",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{51FD170D-69D2-4D5E-A9D1-53FD1F394FD7}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_SQLClickOnceBootstrappermsi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{D1A4C2CE-7804-492B-82C0-CA9F9705C60A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_tipsmsi",
+          "Version": "17.14.36015",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{1A3719B4-93AA-4DCD-885C-2AF1AB6EC358}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "vs_vswebprotocolselectormsi",
+          "Version": "17.14.36323",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260313",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /I{B4B3AA16-E828-4577-A9F2-629E1A95FE4A}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "WinRAR 7.01 (64-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u0430\u044F)",
+          "Version": "7.01.0",
+          "Publisher": "win.rar GmbH",
+          "InstallDate": "",
+          "InstallLocation": "C:\\Program Files\\WinRAR",
+          "UninstallString": "C:\\Program Files\\WinRAR\\uninstall.exe",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Xerox Desktop Print Experience 8.5",
+          "Version": "8.158.0.0",
+          "Publisher": "Xerox Corporation",
+          "InstallDate": "20251007",
+          "InstallLocation": "",
+          "UninstallString": "MsiExec.exe /X{16B4CC67-50F6-DD5B-CEF3-E2F2EF460494}",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Zoom Workplace",
+          "Version": "6.6.11 (23272)",
+          "Publisher": "Zoom Communications, Inc.",
+          "InstallDate": "",
+          "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\bin",
+          "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\uninstall\\Installer.exe\u0022 /uninstall",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "\u00B5Torrent",
+          "Version": "3.6.0.47224",
+          "Publisher": "BitTorrent Limited",
+          "InstallDate": "",
+          "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\uTorrent",
+          "UninstallString": "\u0022C:\\Users\\Olga Pavlova\\AppData\\Roaming\\uTorrent\\uTorrent.exe\u0022 /UNINSTALL",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "\u041D\u043E\u0442\u0430\u0442\u043A\u0438",
+          "Version": "1.0",
+          "Publisher": "Google\\Chrome",
+          "InstallDate": "20251020",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=\u0022Profile 1\u0022 --uninstall-app-id=agedgfbdadefbodjkkkcpihgcmibpcff",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "\u0421\u0435\u0440\u0435\u0434\u043E\u0432\u0438\u0449\u0435 \u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043D\u044F Microsoft Edge WebView2",
+          "Version": "145.0.3800.97",
+          "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
+          "InstallDate": "20260313",
+          "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "\u0421\u043A\u0430\u0441\u0443\u0432\u0430\u043D\u043D\u044F \u0456\u043D\u0441\u0442\u0430\u043B\u044F\u0446\u0456\u0457 \u043F\u0440\u0438\u043D\u0442\u0435\u0440\u0430 EPSON XP-4200 Series",
+          "Version": "",
+          "Publisher": "Seiko Epson Corporation",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "C:\\Windows\\system32\\spool\\DRIVERS\\x64\\3\\E1YINSBHE.EXE /R /APD /P:\u0022EPSON XP-4200 Series\u0022",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        }
+      ],
+      "SystemSoftware": {
+        "WindowsVersion": "\u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442 Windows 10 Pro",
+        "WindowsEdition": "Windows 10 Pro",
+        "BuildNumber": "19045",
+        "OSArchitecture": "64-bit",
+        "WindowsActivated": true,
+        "WindowsActivationStatus": "Activated"
+      },
+      "DotNetVersions": [
+        ".NET Framework Release 533325",
+        "Microsoft.AspNetCore.App 8.0.25",
+        "Microsoft.AspNetCore.App 9.0.14",
+        "Microsoft.NETCore.App 8.0.25",
+        "Microsoft.NETCore.App 9.0.14",
+        "Microsoft.WindowsDesktop.App 8.0.25",
+        "Microsoft.WindowsDesktop.App 9.0.14"
+      ],
+      "OptionalTools": [
+        "winget",
+        "PowerShell",
+        "dotnet"
+      ]
+    },
+    "DriversHealth": {
+      "HasDriverIssues": true,
+      "DevicesWithErrors": 1,
+      "DevicesWithoutDrivers": 0,
+      "UnknownDevices": 1,
+      "DriverDetails": [
+        {
+          "DeviceName": "Canon MF4400 Series",
+          "DriverVersion": "11.3.0.1",
+          "DriverProvider": "Canon",
+          "DriverDate": "2010-09-16",
+          "Status": "Error",
+          "ProblemCode": 10
+        },
+        {
+          "DeviceName": "13th Gen Intel(R) Core(TM) i3-1315U",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2009-04-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "13th Gen Intel(R) Core(TM) i3-1315U",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2009-04-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "13th Gen Intel(R) Core(TM) i3-1315U",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2009-04-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "13th Gen Intel(R) Core(TM) i3-1315U",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2009-04-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "13th Gen Intel(R) Core(TM) i3-1315U",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2009-04-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "13th Gen Intel(R) Core(TM) i3-1315U",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2009-04-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "13th Gen Intel(R) Core(TM) i3-1315U",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2009-04-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "13th Gen Intel(R) Core(TM) i3-1315U",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2009-04-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "ACPI Fixed Feature Button",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "ACPI Lid",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "ACPI Power Button",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "ACPI Processor Aggregator",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "ACPI Thermal Zone",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "ACPI Wake Alarm",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "ACPI x64-based PC",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Charge Arbitration Driver",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Composite Bus Enumerator",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Converted Portable Device Control device",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "E:\\",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "EPSON XP-4200 Series",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Fax",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "General UDisk USB Device",
+          "DriverVersion": "10.0.19041.4597",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic PnP Monitor",
+          "DriverVersion": "10.0.19041.5794",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "GPIO Laptop or Slate Indicator Driver",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID Keyboard Device",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant consumer control device",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant system controller",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant vendor-defined device",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant wireless radio controls",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "High precision event timer",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HP Application Driver",
+          "DriverVersion": "1.66.3710.0",
+          "DriverProvider": "HP Inc.",
+          "DriverDate": "2024-03-28",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HP Application Enabling Services",
+          "DriverVersion": "1.85.4367.0",
+          "DriverProvider": "HP Inc.",
+          "DriverDate": "2025-09-14",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HP Audio Hardware Support Application",
+          "DriverVersion": "11.0.6000.322",
+          "DriverProvider": "Realtek",
+          "DriverDate": "2024-01-16",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HP Device Health Service",
+          "DriverVersion": "255.255.0.1",
+          "DriverProvider": "HP Inc.",
+          "DriverDate": "2021-11-22",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HP Wide Vision HD Camera",
+          "DriverVersion": "10.0.19041.6033",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "I2C HID Device",
+          "DriverVersion": "10.0.19041.6093",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Dynamic Application Loader Host Interface",
+          "DriverVersion": "1.44.2023.710",
+          "DriverProvider": "Intel",
+          "DriverDate": "2023-11-07",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Dynamic Tuning Technology Device Extension Component",
+          "DriverVersion": "9.0.11906.54998",
+          "DriverProvider": "Intel",
+          "DriverDate": "2025-10-01",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) GNA Scoring Accelerator module",
+          "DriverVersion": "3.5.0.1574",
+          "DriverProvider": "Intel Corporation",
+          "DriverDate": "2023-11-08",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Graphics Command Center",
+          "DriverVersion": "31.0.101.4502",
+          "DriverProvider": "Intel Corporation",
+          "DriverDate": "2023-06-15",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) HID Event Filter",
+          "DriverVersion": "2.2.2.6",
+          "DriverProvider": "Intel(R) Corporation",
+          "DriverDate": "2023-08-23",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) iCLS Client",
+          "DriverVersion": "1.71.99.0",
+          "DriverProvider": "Intel",
+          "DriverDate": "2023-06-12",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Innovation Platform Framework Extensible Framework",
+          "DriverVersion": "2.2.10204.8",
+          "DriverProvider": "Intel",
+          "DriverDate": "2024-12-16",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Innovation Platform Framework Generic Participant",
+          "DriverVersion": "2.2.10204.8",
+          "DriverProvider": "Intel",
+          "DriverDate": "2024-12-16",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Innovation Platform Framework Generic Participant",
+          "DriverVersion": "2.2.10204.8",
+          "DriverProvider": "Intel",
+          "DriverDate": "2024-12-16",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Innovation Platform Framework Generic Participant",
+          "DriverVersion": "2.2.10204.8",
+          "DriverProvider": "Intel",
+          "DriverDate": "2024-12-16",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Innovation Platform Framework Manager",
+          "DriverVersion": "2.2.10204.8",
+          "DriverProvider": "Intel",
+          "DriverDate": "2024-12-16",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Innovation Platform Framework Processor Participant",
+          "DriverVersion": "2.2.10204.8",
+          "DriverProvider": "Intel",
+          "DriverDate": "2024-12-16",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) LPC Controller - 519D",
+          "DriverVersion": "10.1.36.6",
+          "DriverProvider": "INTEL",
+          "DriverDate": "1968-07-18",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Management Engine Interface #1",
+          "DriverVersion": "2406.5.5.0",
+          "DriverProvider": "Intel",
+          "DriverDate": "2024-08-02",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Management Engine WMI Provider",
+          "DriverVersion": "2408.5.4.0",
+          "DriverProvider": "Intel",
+          "DriverDate": "2024-02-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) PCI Express Root Port #8 - 51BF",
+          "DriverVersion": "10.1.36.6",
+          "DriverProvider": "INTEL",
+          "DriverDate": "1968-07-18",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) PCI Express Root Port #9 - 51B0",
+          "DriverVersion": "10.1.36.6",
+          "DriverProvider": "INTEL",
+          "DriverDate": "1968-07-18",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Power Engine Plug-in",
+          "DriverVersion": "10.0.19041.5794",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Serial IO GPIO Host Controller - INTC1055",
+          "DriverVersion": "30.100.2351.81",
+          "DriverProvider": "Intel Corporation",
+          "DriverDate": "2023-12-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Serial IO I2C Host Controller - 51E8",
+          "DriverVersion": "30.100.2351.81",
+          "DriverProvider": "Intel Corporation",
+          "DriverDate": "2023-12-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Serial IO I2C Host Controller - 51E9",
+          "DriverVersion": "30.100.2351.81",
+          "DriverProvider": "Intel Corporation",
+          "DriverDate": "2023-12-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) Shared SRAM - 51EF",
+          "DriverVersion": "10.1.36.6",
+          "DriverProvider": "INTEL",
+          "DriverDate": "1968-07-18",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) SMBus - 51A3",
+          "DriverVersion": "10.1.36.6",
+          "DriverProvider": "INTEL",
+          "DriverDate": "1968-07-18",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) SPI (flash) Controller - 51A4",
+          "DriverVersion": "10.1.36.6",
+          "DriverProvider": "INTEL",
+          "DriverDate": "1968-07-18",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) UHD Graphics",
+          "DriverVersion": "31.0.101.4502",
+          "DriverProvider": "Intel Corporation",
+          "DriverDate": "2023-06-15",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)",
+          "DriverVersion": "10.0.19041.5794",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2025-07-04",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)",
+          "DriverVersion": "10.0.19041.5794",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2025-07-04",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel\u00AE Smart Sound Technology BUS",
+          "DriverVersion": "10.29.0.10492",
+          "DriverProvider": "Intel(R) Corporation",
+          "DriverDate": "2024-01-02",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel\u00AE Smart Sound Technology Detection Verification",
+          "DriverVersion": "1.0.3255.0",
+          "DriverProvider": "Intel(R) Corporation",
+          "DriverDate": "2023-12-14",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel\u00AE Smart Sound Technology for Bluetooth\u00AE Audio",
+          "DriverVersion": "10.29.0.10492",
+          "DriverProvider": "Intel(R) Corporation",
+          "DriverDate": "2024-01-02",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel\u00AE Smart Sound Technology for Digital Microphones",
+          "DriverVersion": "10.29.0.10492",
+          "DriverProvider": "Intel(R) Corporation",
+          "DriverDate": "2024-01-02",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Intel\u00AE Smart Sound Technology OED",
+          "DriverVersion": "10.29.0.10492",
+          "DriverProvider": "Intel(R) Corporation",
+          "DriverDate": "2024-01-02",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "MediaTek Bluetooth Adapter",
+          "DriverVersion": "1.3.17.166",
+          "DriverProvider": "Mediatek Inc.",
+          "DriverDate": "2025-05-02",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter",
+          "DriverVersion": "3.0.1.1325",
+          "DriverProvider": "MediaTek, Inc.",
+          "DriverDate": "2024-04-18",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microphone Array (Intel\u00AE Smart Sound Technology for Digital Microphones)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2019-06-12",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft AC Adapter",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft ACPI-Compliant Control Method Battery",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft ACPI-Compliant Embedded Controller",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft ACPI-Compliant System",
+          "DriverVersion": "10.0.19041.6456",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Basic Display Driver",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Basic Render Driver",
+          "DriverVersion": "10.0.19041.6216",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Device Association Root Enumerator",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft GS Wavetable Synth",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Hyper-V Virtualization Infrastructure Driver",
+          "DriverVersion": "10.0.19041.5794",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Input Configuration Device",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Kernel Debug Network Adapter",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Print to PDF",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Radio Device Enumeration Bus",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft RRAS Root Enumerator",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Storage Spaces Controller",
+          "DriverVersion": "10.0.19041.4355",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft System Management BIOS Driver",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft UEFI-Compliant System",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Virtual Drive Enumerator",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Windows Management Interface for ACPI",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Windows Management Interface for ACPI",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Windows Management Interface for ACPI",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Windows Management Interface for ACPI",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft XPS Document Writer",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Motherboard resources",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Motherboard resources",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Motherboard resources",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Motherboard resources",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Motherboard resources",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Motherboard resources",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Motherboard resources",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "NDIS Virtual Network Adapter Enumerator",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "OneNote for Windows 10",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "OneNote for Windows 10",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "PCI Express Root Complex",
+          "DriverVersion": "10.0.19041.6456",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "PCI standard host CPU bridge",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Plug and Play Software Device Enumerator",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2019-06-12",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Portable Device Control device",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Programmable interrupt controller",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Realtek Audio Effects Component",
+          "DriverVersion": "12.331.1173.258",
+          "DriverProvider": "Realtek",
+          "DriverDate": "2024-02-27",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Realtek Audio Effects Component (INT)",
+          "DriverVersion": "12.331.1173.258",
+          "DriverProvider": "Realtek",
+          "DriverDate": "2024-02-27",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Realtek Audio Effects Component (INT)",
+          "DriverVersion": "12.331.1173.258",
+          "DriverProvider": "Realtek",
+          "DriverDate": "2024-02-27",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Realtek Audio Universal Service",
+          "DriverVersion": "1.0.732.0",
+          "DriverProvider": "Realtek",
+          "DriverDate": "2024-02-27",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Realtek OVWrap2 Component",
+          "DriverVersion": "11.0.6000.37",
+          "DriverProvider": "Realtek",
+          "DriverDate": "2023-11-20",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Realtek(R) Audio",
+          "DriverVersion": "6.0.9649.1",
+          "DriverProvider": "Realtek Semiconductor Corp.",
+          "DriverDate": "2024-02-27",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Remote Desktop Device Redirector Bus",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Sound Research Audio Effects Component",
+          "DriverVersion": "2.0.11.47",
+          "DriverProvider": "Sound Research Corp.",
+          "DriverDate": "2024-06-03",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Speaker (Realtek(R) Audio)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2019-06-12",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Standard NVM Express Controller",
+          "DriverVersion": "10.0.19041.4355",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Standard PS/2 Keyboard",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Synaptics PrecisionTouchpad Filter Driver",
+          "DriverVersion": "19.5.35.106",
+          "DriverProvider": "Synaptics",
+          "DriverDate": "2023-10-23",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Synaptics Service binaries",
+          "DriverVersion": "19.5.35.106",
+          "DriverProvider": "Synaptics",
+          "DriverDate": "2023-10-23",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Synaptics TPFHID Device",
+          "DriverVersion": "19.5.35.106",
+          "DriverProvider": "Synaptics",
+          "DriverDate": "2023-10-23",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "System timer",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Trusted Platform Module 2.0",
+          "DriverVersion": "10.0.19041.5794",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "UCM-UCSI ACPI Device",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "UMBus Root Bus Enumerator",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Unknown",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "USB Composite Device",
+          "DriverVersion": "10.0.19041.6456",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "USB Composite Device",
+          "DriverVersion": "10.0.19041.6456",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "USB Mass Storage Device",
+          "DriverVersion": "10.0.19041.4355",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "USB Root Hub (USB 3.0)",
+          "DriverVersion": "10.0.19041.6456",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2025-10-10",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "USB Root Hub (USB 3.0)",
+          "DriverVersion": "10.0.19041.6456",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2025-10-10",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Volume",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Volume",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Volume",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Volume",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Volume",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Volume",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Volume Manager",
+          "DriverVersion": "10.0.19041.3636",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WAN Miniport (IKEv2)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WAN Miniport (IP)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WAN Miniport (IPv6)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WAN Miniport (L2TP)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WAN Miniport (Network Monitor)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WAN Miniport (PPPOE)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WAN Miniport (PPTP)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WAN Miniport (SSTP)",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "WD PC SN560 SDDPNQE-1T00-1006",
+          "DriverVersion": "10.0.19041.4597",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Wi-Fi",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "\u041A\u043E\u0440\u0435\u043D\u0435\u0432\u0430 \u0447\u0435\u0440\u0433\u0430 \u0434\u0440\u0443\u043A\u0443",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430 \u043C\u0456\u043A\u0440\u043E\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0430",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        }
+      ]
+    },
+    "SystemHealth": {
+      "DiskSpace": [
+        {
+          "Drive": "C:\\",
+          "Total": 261446897664,
+          "Free": 144039370752,
+          "FreePercent": 55.09
+        },
+        {
+          "Drive": "D:\\",
+          "Total": 762064138240,
+          "Free": 761025880064,
+          "FreePercent": 99.86
+        }
+      ],
+      "NetworkStatus": {
+        "Connected": true,
+        "Adapter": "Wi-Fi"
+      },
+      "Uptime": "20.23:58:23",
+      "Alerts": []
+    },
+    "LastScanTime": "2026-03-15T18:48:58Z",
+    "ScanKind": "full"
+  }
+}
