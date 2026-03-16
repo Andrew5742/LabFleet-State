@@ -19,6 +19,26 @@
       "RetryAfterUtc": "",
       "ExpiresAtUtc": "2026-04-15T04:53:19Z",
       "AttemptCount": 0
+    },
+    {
+      "Id": "6e4747f3ccee46e8be2783dd6e0759bc",
+      "Type": "remove-agent",
+      "Scope": "device",
+      "SoftwareName": "",
+      "PackageId": "",
+      "Argument": "",
+      "TargetRoomNumber": "",
+      "AudienceCommandId": "",
+      "IdempotencyKey": "agent-e9e444bb750653124fda8010|device|remove-agent|||",
+      "RequestedAtUtc": "2026-03-16T04:54:06Z",
+      "RequestedBy": "LAPTOP-3VU5GOA7",
+      "Status": "pending",
+      "ResultMessage": "",
+      "ProcessedAtUtc": "",
+      "LastAttemptUtc": "",
+      "RetryAfterUtc": "",
+      "ExpiresAtUtc": "2026-04-15T04:54:07Z",
+      "AttemptCount": 0
     }
   ]
 }
