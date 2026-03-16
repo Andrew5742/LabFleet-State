@@ -1,19 +1,14 @@
 {
   "AgentId": "agent-e9e444bb750653124fda8010",
   "RoomNumber": "\u0422\u0415\u0421\u0422",
-  "WorkstationNumber": "\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u043D\u043E\u0443\u0442",
+  "WorkstationNumber": "\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u043D\u043E\u0443\u0442",
   "MachineName": "DESKTOP-QTBO15S",
   "OsDisplayName": "Windows 10",
-  "AgentVersion": "1.0.59.0",
-  "LastSeenUtc": "2026-03-15T19:31:47Z",
+  "AgentVersion": "1.0.66.0",
+  "LastSeenUtc": "2026-03-16T04:48:00Z",
   "AgentEnabled": true,
   "IsOnline": true,
-  "InstalledCatalogPackageIds": [
-    "libreoffice",
-    "unity-hub",
-    "visual-studio-community",
-    "vscode"
-  ],
+  "InstalledCatalogPackageIds": [],
   "InstalledSoftware": [
     {
       "Name": "7-Zip 24.08 (x64)",
@@ -1696,12 +1691,14 @@
           {
             "Size": 8589934592,
             "Speed": 3200,
+            "MemoryType": "DDR4",
             "Manufacturer": "Micron Technology",
             "SerialNumber": "41DCF0B0"
           },
           {
             "Size": 8589934592,
             "Speed": 3200,
+            "MemoryType": "DDR4",
             "Manufacturer": "Micron Technology",
             "SerialNumber": "41DCF0F2"
           }
@@ -1715,15 +1712,8 @@
             "Size": 1024203640320,
             "InterfaceType": "SCSI",
             "Type": "NVMe",
-            "HealthStatus": "Healthy"
-          },
-          {
-            "Model": "General UDisk USB Device",
-            "SerialNumber": "2211292124334858607812",
-            "Size": 31453470720,
-            "InterfaceType": "USB",
-            "Type": "Unknown",
-            "HealthStatus": "Healthy"
+            "HealthStatus": "Healthy",
+            "IsSystemDisk": true
           }
         ]
       },
@@ -1821,34 +1811,6 @@
         },
         {
           "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10",
-          "MAC": "126838001DBD",
-          "IPv4": "169.254.187.25",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-Native WiFi Filter Driver-0000",
-          "MAC": "126838001DBD",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-QoS Packet Scheduler-0000",
-          "MAC": "126838001DBD",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-WFP 802.3 MAC Layer LightWeight Filter-0000",
-          "MAC": "126838001DBD",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "126838001DBD",
           "IPv4": "Unknown",
           "Status": "Down",
@@ -3683,14 +3645,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "E:\\",
-          "DriverVersion": "10.0.19041.3636",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "EPSON XP-4200 Series",
           "DriverVersion": "10.0.19041.1",
           "DriverProvider": "Microsoft",
@@ -3701,14 +3655,6 @@
         {
           "DeviceName": "Fax",
           "DriverVersion": "10.0.19041.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "General UDisk USB Device",
-          "DriverVersion": "10.0.19041.4597",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -4259,14 +4205,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
-          "DriverVersion": "10.0.19041.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Microsoft Windows Management Interface for ACPI",
           "DriverVersion": "10.0.19041.1",
           "DriverProvider": "Microsoft",
@@ -4595,14 +4533,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "USB Mass Storage Device",
-          "DriverVersion": "10.0.19041.4355",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.19041.6456",
           "DriverProvider": "Microsoft",
@@ -4615,14 +4545,6 @@
           "DriverVersion": "10.0.19041.6456",
           "DriverProvider": "Microsoft",
           "DriverDate": "2025-10-10",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Volume",
-          "DriverVersion": "10.0.19041.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -4777,8 +4699,8 @@
         {
           "Drive": "C:\\",
           "Total": 261446897664,
-          "Free": 144034856960,
-          "FreePercent": 55.09
+          "Free": 143943892992,
+          "FreePercent": 55.06
         },
         {
           "Drive": "D:\\",
@@ -4791,10 +4713,10 @@
         "Connected": true,
         "Adapter": "Wi-Fi"
       },
-      "Uptime": "21.00:41:10",
+      "Uptime": "21.09:57:23",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-15T19:31:45Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-03-16T04:47:58Z",
+    "ScanKind": "full"
   }
 }
