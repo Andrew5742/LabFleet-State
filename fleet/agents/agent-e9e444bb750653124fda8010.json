@@ -5,7 +5,7 @@
   "MachineName": "DESKTOP-QTBO15S",
   "OsDisplayName": "Windows 10",
   "AgentVersion": "1.0.66.0",
-  "LastSeenUtc": "2026-03-16T04:48:10Z",
+  "LastSeenUtc": "2026-03-16T04:50:53Z",
   "AgentEnabled": true,
   "IsOnline": true,
   "InstalledCatalogPackageIds": [
@@ -4210,6 +4210,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
+          "DriverVersion": "10.0.19041.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Microsoft Windows Management Interface for ACPI",
           "DriverVersion": "10.0.19041.1",
           "DriverProvider": "Microsoft",
@@ -4704,7 +4712,7 @@
         {
           "Drive": "C:\\",
           "Total": 261446897664,
-          "Free": 143943602176,
+          "Free": 143940571136,
           "FreePercent": 55.06
         },
         {
@@ -4718,10 +4726,10 @@
         "Connected": true,
         "Adapter": "Wi-Fi"
       },
-      "Uptime": "21.09:57:33",
+      "Uptime": "21.10:00:17",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-16T04:48:09Z",
+    "LastScanTime": "2026-03-16T04:50:52Z",
     "ScanKind": "quick"
   }
 }
