@@ -1,0 +1,24 @@
+{
+  "Commands": [
+    {
+      "Id": "84a3eb0b4bd84a4eb1cb4c560d5fcda1",
+      "Type": "set-agent-enabled",
+      "Scope": "device",
+      "SoftwareName": "",
+      "PackageId": "",
+      "Argument": "false",
+      "TargetRoomNumber": "",
+      "AudienceCommandId": "",
+      "IdempotencyKey": "agent-e9e444bb750653124fda8010|device|set-agent-enabled|||false",
+      "RequestedAtUtc": "2026-03-16T04:53:18Z",
+      "RequestedBy": "LAPTOP-3VU5GOA7",
+      "Status": "pending",
+      "ResultMessage": "",
+      "ProcessedAtUtc": "",
+      "LastAttemptUtc": "",
+      "RetryAfterUtc": "",
+      "ExpiresAtUtc": "2026-04-15T04:53:19Z",
+      "AttemptCount": 0
+    }
+  ]
+}
