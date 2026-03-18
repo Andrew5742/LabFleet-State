@@ -5,9 +5,9 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-17T09:42:53Z",
-  "AgentEnabled": true,
-  "IsOnline": true,
+  "LastSeenUtc": "2026-03-18T10:16:29Z",
+  "AgentEnabled": false,
+  "IsOnline": false,
   "InstalledCatalogPackageIds": [
     "blender",
     "github-desktop",
@@ -430,9 +430,9 @@
     },
     {
       "Name": "Figma",
-      "Version": "126.1.2",
+      "Version": "126.2.7",
       "Publisher": "Figma, Inc.",
-      "InstallDate": "20260311",
+      "InstallDate": "20260317",
       "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
       "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
       "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -1040,21 +1040,21 @@
     },
     {
       "Name": "Microsoft Edge",
-      "Version": "146.0.3856.59",
+      "Version": "146.0.3856.62",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260315",
+      "InstallDate": "20260318",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.59\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
     {
       "Name": "Microsoft Edge WebView2 Runtime",
-      "Version": "145.0.3800.97",
+      "Version": "146.0.3856.62",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260310",
+      "InstallDate": "20260318",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -1869,6 +1869,16 @@
       "Category": "OfficialSoftware"
     },
     {
+      "Name": "Ollama version 0.18.0",
+      "Version": "0.18.0",
+      "Publisher": "Ollama",
+      "InstallDate": "20260317",
+      "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\",
+      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022 /SILENT",
+      "Category": "ThirdPartySoftware"
+    },
+    {
       "Name": "Oracle VM VirtualBox 7.0.14",
       "Version": "7.0.14",
       "Publisher": "Oracle and/or its affiliates",
@@ -2279,6 +2289,16 @@
       "Category": "OfficialSoftware"
     },
     {
+      "Name": "Windsurf (User)",
+      "Version": "1.9577.27",
+      "Publisher": "Codeium",
+      "InstallDate": "20260317",
+      "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\",
+      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\unins000.exe\u0022 /SILENT",
+      "Category": "ThirdPartySoftware"
+    },
+    {
       "Name": "WinRAR 6.11 (64-\u0431\u0456\u0442\u043D\u0430)",
       "Version": "6.11.0",
       "Publisher": "win.rar GmbH",
@@ -2542,9 +2562,9 @@
     },
     {
       "Name": "Figma",
-      "Version": "126.1.2",
+      "Version": "126.2.7",
       "Publisher": "Figma, Inc.",
-      "InstallDate": "20260311",
+      "InstallDate": "20260317",
       "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
       "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
       "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -2661,6 +2681,16 @@
       "Category": "ThirdPartySoftware"
     },
     {
+      "Name": "Ollama version 0.18.0",
+      "Version": "0.18.0",
+      "Publisher": "Ollama",
+      "InstallDate": "20260317",
+      "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\",
+      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022 /SILENT",
+      "Category": "ThirdPartySoftware"
+    },
+    {
       "Name": "Paradox Launcher v2",
       "Version": "2.4.0",
       "Publisher": "Paradox Interactive",
@@ -2738,6 +2768,16 @@
       "InstallLocation": "",
       "UninstallString": "C:\\PROGRA~1\\DIFX\\D29FE547208FE130\\DPInst64.exe /u C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\cdc-acm.inf_amd64_29749eaf817eda1a\\cdc-acm.inf",
       "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Windsurf (User)",
+      "Version": "1.9577.27",
+      "Publisher": "Codeium",
+      "InstallDate": "20260317",
+      "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\",
+      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\unins000.exe\u0022",
+      "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\unins000.exe\u0022 /SILENT",
       "Category": "ThirdPartySoftware"
     },
     {
@@ -2941,169 +2981,64 @@
           "Name": "Local Area Connection* 10",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 10-QoS Packet Scheduler-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 10-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 10-WFP Native MAC Layer LightWeight Filter-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection* 2",
           "MAC": "D2C2E842AE05",
-          "IPv4": "169.254.235.129",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-Native WiFi Filter Driver-0000",
-          "MAC": "D2C2E842AE05",
           "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-QoS Packet Scheduler-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-VirtualBox NDIS Light-Weight Filter-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-WFP 802.3 MAC Layer LightWeight Filter-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-WFP Native MAC Layer LightWeight Filter-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection* 3",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection* 4",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection* 5",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection* 6",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection* 7",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection* 8",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 8-QoS Packet Scheduler-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 8-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 8-WFP Native MAC Layer LightWeight Filter-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection* 9",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 9-QoS Packet Scheduler-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 9-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 9-WFP Native MAC Layer LightWeight Filter-0000",
-          "MAC": "",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": -1
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Local Area Connection-QoS Packet Scheduler-0000",
@@ -3178,58 +3113,58 @@
         {
           "Name": "Wi-Fi",
           "MAC": "50C2E842AE05",
-          "IPv4": "172.16.12.91",
+          "IPv4": "172.16.13.162",
           "Status": "Up",
-          "Speed": 7200000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 7200000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-QoS Packet Scheduler-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 7200000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 7200000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 7200000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 7200000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 7200000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 7200000
+          "Speed": 180000000
         }
       ],
       "Monitors": [
@@ -3686,9 +3621,9 @@
         },
         {
           "Name": "Figma",
-          "Version": "126.1.2",
+          "Version": "126.2.7",
           "Publisher": "Figma, Inc.",
-          "InstallDate": "20260311",
+          "InstallDate": "20260317",
           "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
           "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
           "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -4296,21 +4231,21 @@
         },
         {
           "Name": "Microsoft Edge",
-          "Version": "146.0.3856.59",
+          "Version": "146.0.3856.62",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260315",
+          "InstallDate": "20260318",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.59\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
         {
           "Name": "Microsoft Edge WebView2 Runtime",
-          "Version": "145.0.3800.97",
+          "Version": "146.0.3856.62",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260310",
+          "InstallDate": "20260318",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -5125,6 +5060,16 @@
           "Category": "OfficialSoftware"
         },
         {
+          "Name": "Ollama version 0.18.0",
+          "Version": "0.18.0",
+          "Publisher": "Ollama",
+          "InstallDate": "20260317",
+          "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\",
+          "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022",
+          "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022 /SILENT",
+          "Category": "ThirdPartySoftware"
+        },
+        {
           "Name": "Oracle VM VirtualBox 7.0.14",
           "Version": "7.0.14",
           "Publisher": "Oracle and/or its affiliates",
@@ -5533,6 +5478,16 @@
           "UninstallString": "\u0022C:\\Program Files\\Windscribe\\uninstall.exe\u0022",
           "QuietUninstallString": "\u0022C:\\Program Files\\Windscribe\\uninstall.exe\u0022 /SILENT",
           "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Windsurf (User)",
+          "Version": "1.9577.27",
+          "Publisher": "Codeium",
+          "InstallDate": "20260317",
+          "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\",
+          "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\unins000.exe\u0022",
+          "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Windsurf\\unins000.exe\u0022 /SILENT",
+          "Category": "ThirdPartySoftware"
         },
         {
           "Name": "WinRAR 6.11 (64-\u0431\u0456\u0442\u043D\u0430)",
@@ -6322,14 +6277,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Microsoft RRAS Root Enumerator",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Microsoft Storage Spaces Controller",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
@@ -6371,14 +6318,6 @@
         },
         {
           "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter",
-          "DriverVersion": "10.0.26100.7019",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
           "DriverVersion": "10.0.26100.7019",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -6938,70 +6877,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "WAN Miniport (IKEv2)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (IP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (IPv6)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (L2TP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (Network Monitor)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (PPPOE)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (PPTP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (SSTP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Wi-Fi",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -7016,18 +6891,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 253993668608,
-          "FreePercent": 24.83
+          "Free": 231542198272,
+          "FreePercent": 22.63
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.14:15:45",
+      "Uptime": "00.00:01:06",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-17T09:42:51Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-03-18T10:16:22Z",
+    "ScanKind": "full"
   }
 }
