@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-19T17:26:08Z",
+  "LastSeenUtc": "2026-03-19T17:42:06Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5718,22 +5718,6 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
-          "DeviceName": "AAP Client",
-          "DriverVersion": "Unknown",
-          "DriverProvider": "Unknown",
-          "DriverDate": "Unknown",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "AAP Server",
-          "DriverVersion": "Unknown",
-          "DriverProvider": "Unknown",
-          "DriverDate": "Unknown",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -5786,54 +5770,6 @@
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "AirPods Andrii",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "AirPods Andrii",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "AirPods Andrii Avrcp Transport",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-01-26",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "AirPods Andrii Avrcp Transport",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-01-26",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "AirPods Andrii Hands-Free",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "AirPods Andrii Hands-Free AG",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -6110,224 +6046,8 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Android Auto",
-          "DriverVersion": "Unknown",
-          "DriverProvider": "Unknown",
-          "DriverDate": "Unknown",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "B39",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "B39",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "B39 Avrcp Transport",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-01-26",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "B39 Avrcp Transport",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-01-26",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "B39 Hands-Free",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "B39 Hands-Free AG",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Bluetooth",
           "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth Device (Personal Area Network)",
-          "DriverVersion": "10.0.26100.5074",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth Device (RFCOMM Protocol TDI)",
-          "DriverVersion": "10.0.26100.8036",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Bluetooth LE Generic Attribute Service",
-          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6352,46 +6072,6 @@
         {
           "DeviceName": "Composite Bus Enumerator",
           "DriverVersion": "10.0.26100.1150",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Device Information Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Device Information Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Device Information Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Device Information Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Device Information Service",
-          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6462,104 +6142,8 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "EV2",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Fax",
           "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "GATT",
-          "DriverVersion": "Unknown",
-          "DriverProvider": "Unknown",
-          "DriverDate": "Unknown",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Access Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Access Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Access Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Access Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Access Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Attribute Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Attribute Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Attribute Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Attribute Profile",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Attribute Profile",
-          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6686,78 +6270,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "iPhone",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "iPhone",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "iPhone A2DP SNK",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "iPhone Avrcp Transport",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-01-26",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "iPhone Avrcp Transport",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-01-26",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "iPhone Hands-Free HF",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "iPhone Hands-Free HF Audio",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "LPF2 Smart Hub 2 I/O",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "MAP MAS-iOS",
-          "DriverVersion": "Unknown",
-          "DriverProvider": "Unknown",
-          "DriverDate": "Unknown",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Microphone Array (AMD Audio Device)",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -6807,22 +6319,6 @@
         },
         {
           "DeviceName": "Microsoft Basic Render Driver",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft Bluetooth Enumerator",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft Bluetooth LE Enumerator",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -7150,22 +6646,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Personal Area Network NAP Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Phonebook Access Pse Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Plug and Play Software Device Enumerator",
           "DriverVersion": "10.0.26100.4202",
           "DriverProvider": "Microsoft",
@@ -7270,64 +6750,8 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Service Discovery Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Service Discovery Service",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Sintetizzatore Wavetable Microsoft GS",
           "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "smartBox-1425",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "smartBox-1425 Hands-Free",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "smartBox-1425 Hands-Free AG",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "SmartHub_1",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "SmartHub_2",
-          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -7376,30 +6800,6 @@
         {
           "DeviceName": "Standard PS/2 Keyboard",
           "DriverVersion": "10.0.26100.1882",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Standard Serial over Bluetooth link (COM3)",
-          "DriverVersion": "10.0.26100.2161",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Standard Serial over Bluetooth link (COM4)",
-          "DriverVersion": "10.0.26100.2161",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "stfalcon",
-          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -7668,30 +7068,6 @@
           "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Wireless iAP",
-          "DriverVersion": "Unknown",
-          "DriverProvider": "Unknown",
-          "DriverDate": "Unknown",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Wireless iAP",
-          "DriverVersion": "Unknown",
-          "DriverProvider": "Unknown",
-          "DriverDate": "Unknown",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Wireless iAP v2",
-          "DriverVersion": "Unknown",
-          "DriverProvider": "Unknown",
-          "DriverDate": "Unknown",
-          "Status": "OK",
-          "ProblemCode": 0
         }
       ]
     },
@@ -7700,7 +7076,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 224075272192,
+          "Free": 224046526464,
           "FreePercent": 21.9
         }
       ],
@@ -7708,10 +7084,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.03:08:42",
+      "Uptime": "00.03:24:40",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-19T17:26:04Z",
+    "LastScanTime": "2026-03-19T17:42:03Z",
     "ScanKind": "quick"
   }
 }
