@@ -1,19 +1,14 @@
 {
   "AgentId": "agent-e9e444bb750653124fda8010",
-  "RoomNumber": "\u0422\u0415\u0421\u0422",
-  "WorkstationNumber": "\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u043D\u043E\u0443\u0442",
+  "RoomNumber": "\u0422\u0435\u0441\u0442",
+  "WorkstationNumber": "\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u043D\u043E\u0443\u0442\u0431\u0443\u043A",
   "MachineName": "DESKTOP-QTBO15S",
   "OsDisplayName": "Windows 10",
-  "AgentVersion": "1.0.66.0",
-  "LastSeenUtc": "2026-03-16T04:50:53Z",
+  "AgentVersion": "1.0.67.0",
+  "LastSeenUtc": "2026-03-19T23:25:27Z",
   "AgentEnabled": true,
   "IsOnline": true,
-  "InstalledCatalogPackageIds": [
-    "libreoffice",
-    "unity-hub",
-    "visual-studio-community",
-    "vscode"
-  ],
+  "InstalledCatalogPackageIds": [],
   "InstalledSoftware": [
     {
       "Name": "7-Zip 24.08 (x64)",
@@ -64,6 +59,16 @@
       "UninstallString": "MsiExec.exe /I{AC76BA86-0804-1033-1959-018244601149}",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Blender",
+      "Version": "5.0.1",
+      "Publisher": "Blender Foundation",
+      "InstallDate": "20260316",
+      "InstallLocation": "C:\\Program Files\\Blender Foundation\\Blender 5.0\\",
+      "UninstallString": "MsiExec.exe /X{3AB2F4C8-50AE-4B37-A795-72780C8CE90D}",
+      "QuietUninstallString": "",
+      "Category": "Catalog"
     },
     {
       "Name": "Canon LBP2900",
@@ -577,11 +582,11 @@
     },
     {
       "Name": "Microsoft Edge",
-      "Version": "146.0.3856.59",
+      "Version": "146.0.3856.62",
       "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
-      "InstallDate": "20260315",
+      "InstallDate": "20260318",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.59\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -1437,7 +1442,7 @@
     },
     {
       "Name": "Zoom Workplace",
-      "Version": "6.6.11 (23272)",
+      "Version": "6.7.8 (32670)",
       "Publisher": "Zoom Communications, Inc.",
       "InstallDate": "",
       "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\bin",
@@ -1467,11 +1472,11 @@
     },
     {
       "Name": "\u0421\u0435\u0440\u0435\u0434\u043E\u0432\u0438\u0449\u0435 \u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043D\u044F Microsoft Edge WebView2",
-      "Version": "145.0.3800.97",
+      "Version": "146.0.3856.62",
       "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
-      "InstallDate": "20260313",
+      "InstallDate": "20260320",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -1619,7 +1624,7 @@
     },
     {
       "Name": "Zoom Workplace",
-      "Version": "6.6.11 (23272)",
+      "Version": "6.7.8 (32670)",
       "Publisher": "Zoom Communications, Inc.",
       "InstallDate": "",
       "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\bin",
@@ -1768,44 +1773,44 @@
         {
           "Name": "Wi-Fi",
           "MAC": "106838001DED",
-          "IPv4": "192.168.0.103",
+          "IPv4": "192.168.0.102",
           "Status": "Up",
-          "Speed": 866700000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
           "MAC": "106838001DED",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 866700000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-QoS Packet Scheduler-0000",
           "MAC": "106838001DED",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 866700000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
           "MAC": "106838001DED",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 866700000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "106838001DED",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 866700000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "106838001DED",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 866700000
+          "Speed": 144400000
         },
         {
           "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 1",
@@ -1816,6 +1821,34 @@
         },
         {
           "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10",
+          "MAC": "126838001DBD",
+          "IPv4": "169.254.187.25",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-Native WiFi Filter Driver-0000",
+          "MAC": "126838001DBD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-QoS Packet Scheduler-0000",
+          "MAC": "126838001DBD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-WFP 802.3 MAC Layer LightWeight Filter-0000",
+          "MAC": "126838001DBD",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "\u041F\u0456\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044F \u0447\u0435\u0440\u0435\u0437 \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u0443 \u043C\u0435\u0440\u0435\u0436\u0443* 10-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "126838001DBD",
           "IPv4": "Unknown",
           "Status": "Down",
@@ -2038,6 +2071,16 @@
           "UninstallString": "MsiExec.exe /I{AC76BA86-0804-1033-1959-018244601149}",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Blender",
+          "Version": "5.0.1",
+          "Publisher": "Blender Foundation",
+          "InstallDate": "20260316",
+          "InstallLocation": "C:\\Program Files\\Blender Foundation\\Blender 5.0\\",
+          "UninstallString": "MsiExec.exe /X{3AB2F4C8-50AE-4B37-A795-72780C8CE90D}",
+          "QuietUninstallString": "",
+          "Category": "Catalog"
         },
         {
           "Name": "Canon LBP2900",
@@ -2551,11 +2594,11 @@
         },
         {
           "Name": "Microsoft Edge",
-          "Version": "146.0.3856.59",
+          "Version": "146.0.3856.62",
           "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
-          "InstallDate": "20260315",
+          "InstallDate": "20260318",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.59\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -3411,7 +3454,7 @@
         },
         {
           "Name": "Zoom Workplace",
-          "Version": "6.6.11 (23272)",
+          "Version": "6.7.8 (32670)",
           "Publisher": "Zoom Communications, Inc.",
           "InstallDate": "",
           "InstallLocation": "C:\\Users\\Olga Pavlova\\AppData\\Roaming\\Zoom\\bin",
@@ -3441,11 +3484,11 @@
         },
         {
           "Name": "\u0421\u0435\u0440\u0435\u0434\u043E\u0432\u0438\u0449\u0435 \u0432\u0438\u043A\u043E\u043D\u0430\u043D\u043D\u044F Microsoft Edge WebView2",
-          "Version": "145.0.3800.97",
+          "Version": "146.0.3856.62",
           "Publisher": "\u041A\u043E\u0440\u043F\u043E\u0440\u0430\u0446\u0456\u044F \u041C\u0430\u0439\u043A\u0440\u043E\u0441\u043E\u0444\u0442",
-          "InstallDate": "20260313",
+          "InstallDate": "20260320",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\145.0.3800.97\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -4712,8 +4755,8 @@
         {
           "Drive": "C:\\",
           "Total": 261446897664,
-          "Free": 143940571136,
-          "FreePercent": 55.06
+          "Free": 156431872000,
+          "FreePercent": 59.83
         },
         {
           "Drive": "D:\\",
@@ -4726,10 +4769,10 @@
         "Connected": true,
         "Adapter": "Wi-Fi"
       },
-      "Uptime": "21.10:00:17",
+      "Uptime": "25.04:34:56",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-16T04:50:52Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-03-19T23:25:24Z",
+    "ScanKind": "full"
   }
 }
