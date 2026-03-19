@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-19T16:22:16Z",
+  "LastSeenUtc": "2026-03-19T16:38:11Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -7534,6 +7534,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "USB Serial Device (COM5)",
+          "DriverVersion": "10.0.26100.2454",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "VMware Virtual Ethernet Adapter for VMnet1",
           "DriverVersion": "14.0.0.5",
           "DriverProvider": "VMware, Inc.",
@@ -7700,7 +7708,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 224149594112,
+          "Free": 224140255232,
           "FreePercent": 21.91
         }
       ],
@@ -7708,10 +7716,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.02:04:50",
+      "Uptime": "00.02:20:46",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-19T16:22:09Z",
+    "LastScanTime": "2026-03-19T16:38:06Z",
     "ScanKind": "quick"
   }
 }
