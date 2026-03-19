@@ -32,13 +32,13 @@
       "IdempotencyKey": "agent-e9e444bb750653124fda8010|device|remove-agent|||",
       "RequestedAtUtc": "2026-03-16T04:54:06Z",
       "RequestedBy": "LAPTOP-3VU5GOA7",
-      "Status": "pending",
+      "Status": "in-progress",
       "ResultMessage": "",
       "ProcessedAtUtc": "",
-      "LastAttemptUtc": "",
+      "LastAttemptUtc": "2026-03-19T23:25:36Z",
       "RetryAfterUtc": "",
       "ExpiresAtUtc": "2026-04-15T04:54:07Z",
-      "AttemptCount": 0
+      "AttemptCount": 1
     }
   ]
 }
