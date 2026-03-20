@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-20T16:12:49Z",
+  "LastSeenUtc": "2026-03-20T16:28:48Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6166,6 +6166,22 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Headphone (Realtek(R) Audio)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "HID-compliant vendor-defined device",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
@@ -7076,18 +7092,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 219902541824,
-          "FreePercent": 21.49
+          "Free": 217849626624,
+          "FreePercent": 21.29
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "01.01:55:23",
+      "Uptime": "01.02:11:22",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-20T16:12:44Z",
+    "LastScanTime": "2026-03-20T16:28:43Z",
     "ScanKind": "quick"
   }
 }
