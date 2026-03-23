@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-21T20:24:15Z",
+  "LastSeenUtc": "2026-03-23T13:40:21Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -1040,21 +1040,21 @@
     },
     {
       "Name": "Microsoft Edge",
-      "Version": "146.0.3856.62",
+      "Version": "146.0.3856.72",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260318",
+      "InstallDate": "20260322",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.72\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
     {
       "Name": "Microsoft Edge WebView2 Runtime",
-      "Version": "146.0.3856.62",
+      "Version": "146.0.3856.72",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260318",
+      "InstallDate": "20260322",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.72\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -2904,8 +2904,8 @@
           "Name": "Bluetooth Network Connection",
           "MAC": "50C2E842AE06",
           "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": 3000000
+          "Status": "NotPresent",
+          "Speed": 0
         },
         {
           "Name": "Ethernet",
@@ -3225,69 +3225,64 @@
         {
           "Name": "Wi-Fi",
           "MAC": "50C2E842AE05",
-          "IPv4": "192.168.0.101",
+          "IPv4": "172.16.14.79",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-QoS Packet Scheduler-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 180000000
         },
         {
           "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 180000000
         }
       ],
       "Monitors": [
         {
           "Model": "Unknown",
           "SerialNumber": "0",
-          "Resolution": "1920x1080"
-        },
-        {
-          "Model": "S22D300",
-          "SerialNumber": "HTKFB01332",
           "Resolution": "1920x1080"
         }
       ],
@@ -4348,21 +4343,21 @@
         },
         {
           "Name": "Microsoft Edge",
-          "Version": "146.0.3856.62",
+          "Version": "146.0.3856.72",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260318",
+          "InstallDate": "20260322",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.72\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
         {
           "Name": "Microsoft Edge WebView2 Runtime",
-          "Version": "146.0.3856.62",
+          "Version": "146.0.3856.72",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260318",
+          "InstallDate": "20260322",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.62\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.72\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -5730,14 +5725,6 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
-          "DeviceName": "2 - S22D300 (AMD High Definition Audio Device)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -6170,14 +6157,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Generic Monitor (S22D300)",
-          "DriverVersion": "10.0.26100.7309",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Generic volume shadow copy",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -6194,18 +6173,10 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Headphone (Realtek(R) Audio)",
+          "DeviceName": "Generic volume shadow copy",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
+          "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -7120,18 +7091,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 212585201664,
-          "FreePercent": 20.78
+          "Free": 208498073600,
+          "FreePercent": 20.38
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "02.06:06:52",
+      "Uptime": "00.01:34:11",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-21T20:24:09Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-03-23T13:40:13Z",
+    "ScanKind": "full"
   }
 }
