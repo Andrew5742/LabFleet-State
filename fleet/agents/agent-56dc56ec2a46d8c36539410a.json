@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-24T09:18:36Z",
+  "LastSeenUtc": "2026-03-24T09:34:32Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -1410,9 +1410,9 @@
     },
     {
       "Name": "Microsoft Visual Studio Code (User)",
-      "Version": "1.111.0",
+      "Version": "1.112.0",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260315",
+      "InstallDate": "20260324",
       "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\",
       "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022",
       "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022 /SILENT",
@@ -4713,9 +4713,9 @@
         },
         {
           "Name": "Microsoft Visual Studio Code (User)",
-          "Version": "1.111.0",
+          "Version": "1.112.0",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260315",
+          "InstallDate": "20260324",
           "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\",
           "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022",
           "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022 /SILENT",
@@ -6157,6 +6157,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Generic Monitor (NCV)",
+          "DriverVersion": "10.0.26100.7309",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Generic volume shadow copy",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -7091,18 +7099,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 205168676864,
-          "FreePercent": 20.05
+          "Free": 204156764160,
+          "FreePercent": 19.96
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.21:12:26",
+      "Uptime": "00.21:28:21",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-24T09:18:30Z",
+    "LastScanTime": "2026-03-24T09:34:26Z",
     "ScanKind": "quick"
   }
 }
