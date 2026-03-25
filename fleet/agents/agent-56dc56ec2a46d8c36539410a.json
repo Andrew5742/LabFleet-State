@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-25T09:56:10Z",
+  "LastSeenUtc": "2026-03-25T10:11:32Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5725,6 +5725,14 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
+          "DeviceName": "2 - LED MONITOR (AMD High Definition Audio Device)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -6157,8 +6165,8 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Generic volume shadow copy",
-          "DriverVersion": "10.0.26100.1",
+          "DeviceName": "Generic Monitor (LED MONITOR)",
+          "DriverVersion": "10.0.26100.7309",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6175,6 +6183,22 @@
         {
           "DeviceName": "Generic volume shadow copy",
           "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic volume shadow copy",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant mouse",
+          "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6933,6 +6957,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "USB Input Device",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
@@ -7091,18 +7123,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 201943822336,
-          "FreePercent": 19.74
+          "Free": 202769051648,
+          "FreePercent": 19.82
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.03:37:27",
+      "Uptime": "00.03:52:50",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-25T09:56:02Z",
-    "ScanKind": "full"
+    "LastScanTime": "2026-03-25T10:11:28Z",
+    "ScanKind": "quick"
   }
 }
