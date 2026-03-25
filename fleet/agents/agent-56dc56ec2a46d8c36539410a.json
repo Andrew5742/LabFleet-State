@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-25T10:43:34Z",
+  "LastSeenUtc": "2026-03-25T10:59:39Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5725,14 +5725,6 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
-          "DeviceName": "2 - LED MONITOR (AMD High Definition Audio Device)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -6197,6 +6189,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Generic volume shadow copy",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "HID-compliant mouse",
           "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
@@ -6254,7 +6254,7 @@
         },
         {
           "DeviceName": "HP Application Enabling Services",
-          "DriverVersion": "1.85.4367.0",
+          "DriverVersion": "1.85.4368.0",
           "DriverProvider": "HP Inc.",
           "DriverDate": "2025-09-14",
           "Status": "OK",
@@ -7123,18 +7123,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 202492649472,
-          "FreePercent": 19.79
+          "Free": 202279858176,
+          "FreePercent": 19.77
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.04:24:51",
+      "Uptime": "00.04:40:56",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-25T10:43:29Z",
+    "LastScanTime": "2026-03-25T10:59:33Z",
     "ScanKind": "quick"
   }
 }
