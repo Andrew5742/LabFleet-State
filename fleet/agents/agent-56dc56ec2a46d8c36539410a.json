@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-25T22:46:16Z",
+  "LastSeenUtc": "2026-03-25T23:02:17Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -440,9 +440,9 @@
     },
     {
       "Name": "Figma",
-      "Version": "126.2.9",
+      "Version": "126.2.10",
       "Publisher": "Figma, Inc.",
-      "InstallDate": "20260325",
+      "InstallDate": "20260326",
       "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
       "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
       "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -2582,9 +2582,9 @@
     },
     {
       "Name": "Figma",
-      "Version": "126.2.9",
+      "Version": "126.2.10",
       "Publisher": "Figma, Inc.",
-      "InstallDate": "20260325",
+      "InstallDate": "20260326",
       "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
       "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
       "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -3763,9 +3763,9 @@
         },
         {
           "Name": "Figma",
-          "Version": "126.2.9",
+          "Version": "126.2.10",
           "Publisher": "Figma, Inc.",
-          "InstallDate": "20260325",
+          "InstallDate": "20260326",
           "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
           "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
           "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -7161,7 +7161,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 200596922368,
+          "Free": 200591216640,
           "FreePercent": 19.61
         }
       ],
@@ -7169,10 +7169,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.16:27:35",
+      "Uptime": "00.16:43:35",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-25T22:46:12Z",
+    "LastScanTime": "2026-03-25T23:02:12Z",
     "ScanKind": "quick"
   }
 }
