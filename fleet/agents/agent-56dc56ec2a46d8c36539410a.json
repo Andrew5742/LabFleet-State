@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-25T13:52:15Z",
+  "LastSeenUtc": "2026-03-25T14:08:13Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -287,6 +287,16 @@
       "UninstallString": "\u0022C:\\Program Files (x86)\\Dying Light 2 Stay Human\\unins000.exe\u0022",
       "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Dying Light 2 Stay Human\\unins000.exe\u0022 /SILENT",
       "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "EduFleet",
+      "Version": "1.0",
+      "Publisher": "Google\\Chrome",
+      "InstallDate": "20260325",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=igabpfpiahnmmdgmdgplidhmcoiekjib",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
     },
     {
       "Name": "Epic Games Launcher",
@@ -2461,6 +2471,16 @@
       "Category": "ThirdPartySoftware"
     },
     {
+      "Name": "EduFleet",
+      "Version": "1.0",
+      "Publisher": "Google\\Chrome",
+      "InstallDate": "20260325",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=igabpfpiahnmmdgmdgplidhmcoiekjib",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
       "Name": "Epic Games Launcher Prerequisites (x64)",
       "Version": "1.0.0.0",
       "Publisher": "Epic Games, Inc.",
@@ -3590,6 +3610,16 @@
           "UninstallString": "\u0022C:\\Program Files (x86)\\Dying Light 2 Stay Human\\unins000.exe\u0022",
           "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Dying Light 2 Stay Human\\unins000.exe\u0022 /SILENT",
           "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "EduFleet",
+          "Version": "1.0",
+          "Publisher": "Google\\Chrome",
+          "InstallDate": "20260325",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=igabpfpiahnmmdgmdgplidhmcoiekjib",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
         },
         {
           "Name": "Epic Games Launcher",
@@ -7123,18 +7153,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 202237440000,
-          "FreePercent": 19.77
+          "Free": 201252900864,
+          "FreePercent": 19.67
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.07:33:33",
+      "Uptime": "00.07:49:30",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-25T13:52:08Z",
+    "LastScanTime": "2026-03-25T14:08:08Z",
     "ScanKind": "quick"
   }
 }
