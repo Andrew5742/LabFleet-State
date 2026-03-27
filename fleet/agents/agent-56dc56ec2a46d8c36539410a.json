@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-27T07:01:03Z",
+  "LastSeenUtc": "2026-03-27T08:03:42Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5755,14 +5755,6 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
-          "DeviceName": "2 - TS35505 (AMD High Definition Audio Device)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -6189,14 +6181,6 @@
         {
           "DeviceName": "Fax",
           "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Monitor (TS35505)",
-          "DriverVersion": "10.0.26100.7309",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -7145,7 +7129,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 200876089344,
+          "Free": 200892035072,
           "FreePercent": 19.64
         }
       ],
@@ -7153,10 +7137,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "02.00:42:25",
+      "Uptime": "02.01:45:04",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-27T07:00:57Z",
+    "LastScanTime": "2026-03-27T08:03:34Z",
     "ScanKind": "quick"
   }
 }
