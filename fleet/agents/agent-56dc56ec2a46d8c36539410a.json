@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-29T16:18:01Z",
+  "LastSeenUtc": "2026-03-29T16:33:59Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -1050,21 +1050,21 @@
     },
     {
       "Name": "Microsoft Edge",
-      "Version": "146.0.3856.72",
+      "Version": "146.0.3856.84",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260322",
+      "InstallDate": "20260329",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.72\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.84\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
     {
       "Name": "Microsoft Edge WebView2 Runtime",
-      "Version": "146.0.3856.72",
+      "Version": "146.0.3856.84",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260322",
+      "InstallDate": "20260329",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.72\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.84\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -4331,21 +4331,21 @@
         },
         {
           "Name": "Microsoft Edge",
-          "Version": "146.0.3856.72",
+          "Version": "146.0.3856.84",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260322",
+          "InstallDate": "20260329",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.72\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\146.0.3856.84\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
         {
           "Name": "Microsoft Edge WebView2 Runtime",
-          "Version": "146.0.3856.72",
+          "Version": "146.0.3856.84",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260322",
+          "InstallDate": "20260329",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.72\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\146.0.3856.84\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -6177,6 +6177,22 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Headphone (Realtek(R) Audio)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "HID-compliant mouse",
           "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
@@ -6450,6 +6466,14 @@
         },
         {
           "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter",
+          "DriverVersion": "10.0.26100.7019",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
           "DriverVersion": "10.0.26100.7019",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -7095,18 +7119,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 184025460736,
-          "FreePercent": 17.99
+          "Free": 188497633280,
+          "FreePercent": 18.43
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "04.09:59:22",
+      "Uptime": "04.10:15:20",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-29T16:17:50Z",
-    "ScanKind": "full"
+    "LastScanTime": "2026-03-29T16:33:50Z",
+    "ScanKind": "quick"
   }
 }
