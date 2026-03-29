@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-28T13:03:38Z",
+  "LastSeenUtc": "2026-03-29T16:18:01Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -3035,48 +3035,6 @@
         {
           "Name": "Local Area Connection* 2",
           "MAC": "D2C2E842AE05",
-          "IPv4": "169.254.235.129",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-Native WiFi Filter Driver-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-QoS Packet Scheduler-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-VirtualBox NDIS Light-Weight Filter-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-WFP 802.3 MAC Layer LightWeight Filter-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-WFP Native MAC Layer LightWeight Filter-0000",
-          "MAC": "D2C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Down",
           "Speed": -1
@@ -3245,58 +3203,58 @@
         {
           "Name": "Wi-Fi",
           "MAC": "50C2E842AE05",
-          "IPv4": "172.16.13.112",
+          "IPv4": "192.168.0.101",
           "Status": "Up",
-          "Speed": 72200000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 72200000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-QoS Packet Scheduler-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 72200000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 72200000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 72200000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 72200000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 72200000
+          "Speed": 144400000
         },
         {
           "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 72200000
+          "Speed": 144400000
         }
       ],
       "Monitors": [
@@ -6499,14 +6457,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
-          "DriverVersion": "10.0.26100.7019",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Microsoft Windows Management Interface for ACPI",
           "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
@@ -7145,18 +7095,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 185427091456,
-          "FreePercent": 18.12
+          "Free": 184025460736,
+          "FreePercent": 17.99
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "03.06:45:02",
+      "Uptime": "04.09:59:22",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-28T13:03:33Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-03-29T16:17:50Z",
+    "ScanKind": "full"
   }
 }
