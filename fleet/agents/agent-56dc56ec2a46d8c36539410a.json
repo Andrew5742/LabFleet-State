@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-30T14:23:45Z",
+  "LastSeenUtc": "2026-03-30T14:46:30Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5727,8 +5727,7 @@
         "WindowsEdition": "Windows 10 Home",
         "BuildNumber": "26200",
         "OSArchitecture": "64-bit",
-        "WindowsActivated": true,
-        "WindowsActivationStatus": "Activated"
+        "WindowsActivationStatus": "Unknown"
       },
       "DotNetVersions": [
         ".NET Framework Release 533509",
@@ -7145,18 +7144,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 188927586304,
-          "FreePercent": 18.47
+          "Free": 189113372672,
+          "FreePercent": 18.49
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.07:44:39",
+      "Uptime": "00.08:07:24",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-30T14:23:40Z",
+    "LastScanTime": "2026-03-30T14:46:25Z",
     "ScanKind": "quick"
   }
 }
