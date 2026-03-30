@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-29T19:45:53Z",
+  "LastSeenUtc": "2026-03-30T09:30:01Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -3035,6 +3035,48 @@
         {
           "Name": "Local Area Connection* 2",
           "MAC": "D2C2E842AE05",
+          "IPv4": "169.254.235.129",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-Native WiFi Filter Driver-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-QoS Packet Scheduler-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-VirtualBox NDIS Light-Weight Filter-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-WFP 802.3 MAC Layer LightWeight Filter-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "D2C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Down",
           "Speed": -1
@@ -3203,58 +3245,58 @@
         {
           "Name": "Wi-Fi",
           "MAC": "50C2E842AE05",
-          "IPv4": "192.168.0.101",
+          "IPv4": "172.16.14.94",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 86700000
         },
         {
           "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 86700000
         },
         {
           "Name": "Wi-Fi-QoS Packet Scheduler-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 86700000
         },
         {
           "Name": "Wi-Fi-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 86700000
         },
         {
           "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 86700000
         },
         {
           "Name": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 86700000
         },
         {
           "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 86700000
         },
         {
           "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 86700000
         }
       ],
       "Monitors": [
@@ -6177,30 +6219,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Headphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "HID-compliant mouse",
-          "DriverVersion": "10.0.26100.1150",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "HID-compliant vendor-defined device",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
@@ -6953,14 +6971,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "USB Input Device",
-          "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
@@ -7119,18 +7129,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 188809138176,
-          "FreePercent": 18.46
+          "Free": 188909264896,
+          "FreePercent": 18.47
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "04.13:27:14",
+      "Uptime": "00.02:50:54",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-29T19:45:48Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-03-30T09:29:53Z",
+    "ScanKind": "full"
   }
 }
