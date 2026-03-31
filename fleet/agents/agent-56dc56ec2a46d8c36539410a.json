@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-31T18:16:18Z",
+  "LastSeenUtc": "2026-03-31T18:32:14Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6979,22 +6979,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "USB FLASH DRIVE USB Device",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "USB Mass Storage Device",
-          "DriverVersion": "10.0.26100.4768",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
@@ -7031,14 +7015,6 @@
           "DriverVersion": "9.8.18.0",
           "DriverProvider": "VMware, Inc.",
           "DriverDate": "2021-10-29",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Volume",
-          "DriverVersion": "10.0.26100.5074",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -7161,18 +7137,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 237602406400,
-          "FreePercent": 23.22
+          "Free": 237604540416,
+          "FreePercent": 23.23
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.07:28:17",
+      "Uptime": "00.07:44:13",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-31T18:16:14Z",
+    "LastScanTime": "2026-03-31T18:32:10Z",
     "ScanKind": "quick"
   }
 }
