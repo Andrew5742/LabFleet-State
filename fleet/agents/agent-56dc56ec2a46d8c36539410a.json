@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-31T12:03:01Z",
+  "LastSeenUtc": "2026-03-31T12:19:04Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -7121,18 +7121,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 244286210048,
-          "FreePercent": 23.88
+          "Free": 244457906176,
+          "FreePercent": 23.89
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.01:15:00",
+      "Uptime": "00.01:31:03",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-31T12:02:57Z",
+    "LastScanTime": "2026-03-31T12:19:00Z",
     "ScanKind": "quick"
   }
 }
