@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-03-31T13:01:05Z",
+  "LastSeenUtc": "2026-03-31T13:54:41Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6115,14 +6115,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "D:\\",
-          "DriverVersion": "10.0.26100.5074",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Direct memory access controller",
           "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
@@ -6189,14 +6181,6 @@
         {
           "DeviceName": "Fax",
           "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "General UDisk USB Device",
-          "DriverVersion": "10.0.26100.7705",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6979,14 +6963,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "USB Mass Storage Device",
-          "DriverVersion": "10.0.26100.4768",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
@@ -7023,14 +6999,6 @@
           "DriverVersion": "9.8.18.0",
           "DriverProvider": "VMware, Inc.",
           "DriverDate": "2021-10-29",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Volume",
-          "DriverVersion": "10.0.26100.5074",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -7153,7 +7121,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 244459945984,
+          "Free": 244510822400,
           "FreePercent": 23.9
         }
       ],
@@ -7161,10 +7129,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.02:13:04",
+      "Uptime": "00.03:06:40",
       "Alerts": []
     },
-    "LastScanTime": "2026-03-31T13:01:01Z",
+    "LastScanTime": "2026-03-31T13:54:37Z",
     "ScanKind": "quick"
   }
 }
