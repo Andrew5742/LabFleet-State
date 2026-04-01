@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-01T17:03:42Z",
+  "LastSeenUtc": "2026-04-01T17:19:42Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6987,24 +6987,8 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "USB FLASH DRIVE USB Device",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "USB Input Device",
           "DriverVersion": "10.0.26100.7920",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "USB Mass Storage Device",
-          "DriverVersion": "10.0.26100.4768",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -7169,7 +7153,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 216503128064,
+          "Free": 216509050880,
           "FreePercent": 21.16
         }
       ],
@@ -7177,10 +7161,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "01.06:15:43",
+      "Uptime": "01.06:31:43",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-01T17:03:38Z",
+    "LastScanTime": "2026-04-01T17:19:38Z",
     "ScanKind": "quick"
   }
 }
