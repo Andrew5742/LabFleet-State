@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-01T03:20:11Z",
+  "LastSeenUtc": "2026-04-01T03:36:11Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6115,6 +6115,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "D:\\",
+          "DriverVersion": "10.0.26100.5074",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Direct memory access controller",
           "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
@@ -6931,14 +6939,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "T2-KUBUNTU",
-          "DriverVersion": "10.0.26100.5074",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "TAP-Windows Adapter V9",
           "DriverVersion": "9.24.2.601",
           "DriverProvider": "TAP-Windows Provider V9",
@@ -7169,18 +7169,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 233912193024,
-          "FreePercent": 22.86
+          "Free": 226608078848,
+          "FreePercent": 22.15
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.16:32:10",
+      "Uptime": "00.16:48:10",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-01T03:20:07Z",
+    "LastScanTime": "2026-04-01T03:36:07Z",
     "ScanKind": "quick"
   }
 }
