@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-01T03:52:14Z",
+  "LastSeenUtc": "2026-04-01T04:08:12Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6115,14 +6115,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "D:\\",
-          "DriverVersion": "10.0.26100.5074",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Direct memory access controller",
           "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
@@ -6987,22 +6979,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "USB FLASH DRIVE USB Device",
-          "DriverVersion": "10.0.26100.7705",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "USB Mass Storage Device",
-          "DriverVersion": "10.0.26100.4768",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
@@ -7039,14 +7015,6 @@
           "DriverVersion": "9.8.18.0",
           "DriverProvider": "VMware, Inc.",
           "DriverDate": "2021-10-29",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Volume",
-          "DriverVersion": "10.0.26100.5074",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -7169,7 +7137,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 226613866496,
+          "Free": 226609000448,
           "FreePercent": 22.15
         }
       ],
@@ -7177,10 +7145,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.17:04:13",
+      "Uptime": "00.17:20:11",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-01T03:52:10Z",
+    "LastScanTime": "2026-04-01T04:08:07Z",
     "ScanKind": "quick"
   }
 }
