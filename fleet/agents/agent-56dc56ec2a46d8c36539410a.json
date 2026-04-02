@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-01T22:53:03Z",
+  "LastSeenUtc": "2026-04-02T08:09:00Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5900,7 +5900,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5908,7 +5908,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5916,7 +5916,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5924,7 +5924,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5932,7 +5932,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5940,7 +5940,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5948,7 +5948,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5956,7 +5956,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5964,7 +5964,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5972,7 +5972,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5980,7 +5980,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5988,7 +5988,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -5996,7 +5996,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -6004,7 +6004,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -6012,7 +6012,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -6020,7 +6020,7 @@
         },
         {
           "DeviceName": "AMD Ryzen 7 5825U with Radeon Graphics",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2009-04-21",
           "Status": "OK",
@@ -6044,17 +6044,17 @@
         },
         {
           "DeviceName": "AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
+          "DriverDate": "2026-03-20",
           "Status": "OK",
           "ProblemCode": 0
         },
         {
           "DeviceName": "AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
+          "DriverDate": "2026-03-20",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -6211,22 +6211,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Headphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "HID-compliant mouse",
           "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
@@ -6236,7 +6220,7 @@
         },
         {
           "DeviceName": "HID-compliant vendor-defined device",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6244,7 +6228,7 @@
         },
         {
           "DeviceName": "HID-compliant wireless radio controls",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6260,9 +6244,9 @@
         },
         {
           "DeviceName": "High Definition Audio Controller",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
+          "DriverDate": "2026-03-21",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -6316,7 +6300,7 @@
         },
         {
           "DeviceName": "HP Wide Vision HD Camera",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6324,7 +6308,7 @@
         },
         {
           "DeviceName": "I2C HID Device",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6388,7 +6372,7 @@
         },
         {
           "DeviceName": "Microsoft Basic Render Driver",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6428,7 +6412,7 @@
         },
         {
           "DeviceName": "Microsoft Kernel Debug Network Adapter",
-          "DriverVersion": "10.0.26100.8036",
+          "DriverVersion": "10.0.26100.8117",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6460,7 +6444,7 @@
         },
         {
           "DeviceName": "Microsoft Storage Spaces Controller",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6484,7 +6468,7 @@
         },
         {
           "DeviceName": "Microsoft UEFI-Compliant System",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6500,14 +6484,6 @@
         },
         {
           "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter",
-          "DriverVersion": "10.0.26100.7019",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
           "DriverVersion": "10.0.26100.7019",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -6580,7 +6556,7 @@
         },
         {
           "DeviceName": "PCI Express Root Complex",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6588,7 +6564,7 @@
         },
         {
           "DeviceName": "PCI Express Root Port",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6596,7 +6572,7 @@
         },
         {
           "DeviceName": "PCI Express Root Port",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6604,7 +6580,7 @@
         },
         {
           "DeviceName": "PCI Express Root Port",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6860,7 +6836,7 @@
         },
         {
           "DeviceName": "Standard NVM Express Controller",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6948,7 +6924,7 @@
         },
         {
           "DeviceName": "Trusted Platform Module 2.0",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6980,7 +6956,7 @@
         },
         {
           "DeviceName": "USB Composite Device",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6988,7 +6964,7 @@
         },
         {
           "DeviceName": "USB Input Device",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6996,17 +6972,17 @@
         },
         {
           "DeviceName": "USB Root Hub (USB 3.0)",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
+          "DriverDate": "2026-03-20",
           "Status": "OK",
           "ProblemCode": 0
         },
         {
           "DeviceName": "USB Root Hub (USB 3.0)",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2026-02-16",
+          "DriverDate": "2026-03-20",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -7068,7 +7044,7 @@
         },
         {
           "DeviceName": "Volume Manager",
-          "DriverVersion": "10.0.26100.7920",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -7153,18 +7129,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 211450810368,
-          "FreePercent": 20.67
+          "Free": 211189891072,
+          "FreePercent": 20.64
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "01.12:05:03",
+      "Uptime": "00.07:30:13",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-01T22:52:58Z",
+    "LastScanTime": "2026-04-02T08:08:52Z",
     "ScanKind": "quick"
   }
 }
