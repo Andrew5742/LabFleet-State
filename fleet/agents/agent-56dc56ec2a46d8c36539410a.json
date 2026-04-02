@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-02T08:24:35Z",
+  "LastSeenUtc": "2026-04-02T08:40:34Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5755,14 +5755,6 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
-          "DeviceName": "2 - EPSON PJ (AMD High Definition Audio Device)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -6189,14 +6181,6 @@
         {
           "DeviceName": "Fax",
           "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Monitor (EPSON PJ)",
-          "DriverVersion": "10.0.26100.7309",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -7153,18 +7137,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 211257917440,
-          "FreePercent": 20.65
+          "Free": 211414716416,
+          "FreePercent": 20.67
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.07:45:47",
+      "Uptime": "00.08:01:47",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-02T08:24:30Z",
+    "LastScanTime": "2026-04-02T08:40:30Z",
     "ScanKind": "quick"
   }
 }
