@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-04T18:40:08Z",
+  "LastSeenUtc": "2026-04-04T18:55:53Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6449,6 +6449,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
+          "DriverVersion": "10.0.26100.7019",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Microsoft Windows Management Interface for ACPI",
           "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
@@ -7087,18 +7095,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 212111409152,
-          "FreePercent": 20.73
+          "Free": 212515282944,
+          "FreePercent": 20.77
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "02.18:01:23",
+      "Uptime": "02.18:17:08",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-04T18:40:05Z",
-    "ScanKind": "full"
+    "LastScanTime": "2026-04-04T18:55:47Z",
+    "ScanKind": "quick"
   }
 }
