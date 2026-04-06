@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-05T21:50:39Z",
+  "LastSeenUtc": "2026-04-06T03:50:44Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6185,14 +6185,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Generic volume shadow copy",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Headphone (Realtek(R) Audio)",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -7135,18 +7127,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 208601812992,
-          "FreePercent": 20.39
+          "Free": 211896287232,
+          "FreePercent": 20.71
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "03.21:11:53",
+      "Uptime": "04.03:11:58",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-05T21:50:33Z",
+    "LastScanTime": "2026-04-06T03:50:40Z",
     "ScanKind": "quick"
   }
 }
