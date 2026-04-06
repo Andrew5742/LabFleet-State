@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-06T15:14:23Z",
+  "LastSeenUtc": "2026-04-06T15:30:27Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5713,6 +5713,14 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
+          "DeviceName": "2 - S22D300 (AMD High Definition Audio Device)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -6145,8 +6153,8 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Generic volume shadow copy",
-          "DriverVersion": "10.0.26100.1",
+          "DeviceName": "Generic Monitor (S22D300)",
+          "DriverVersion": "10.0.26100.7309",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6163,6 +6171,22 @@
         {
           "DeviceName": "Generic volume shadow copy",
           "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic volume shadow copy",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant mouse",
+          "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6395,6 +6419,14 @@
         {
           "DeviceName": "Microsoft Storage Spaces Controller",
           "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Streaming Clock Proxy",
+          "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6921,6 +6953,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "USB Input Device",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -7079,7 +7119,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 210900013056,
+          "Free": 210841563136,
           "FreePercent": 20.61
         }
       ],
@@ -7087,10 +7127,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "04.14:35:39",
+      "Uptime": "04.14:51:43",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-06T15:14:18Z",
+    "LastScanTime": "2026-04-06T15:30:22Z",
     "ScanKind": "quick"
   }
 }
