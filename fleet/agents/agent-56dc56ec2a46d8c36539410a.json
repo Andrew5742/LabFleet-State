@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-08T05:28:32Z",
+  "LastSeenUtc": "2026-04-08T05:44:33Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6215,18 +6215,10 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Headphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
+          "DeviceName": "HID-compliant mouse",
+          "DriverVersion": "10.0.26100.1150",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
+          "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -6983,6 +6975,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "USB Input Device",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -7141,18 +7141,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 200556392448,
-          "FreePercent": 19.6
+          "Free": 206127337472,
+          "FreePercent": 20.15
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "06.04:49:51",
+      "Uptime": "06.05:05:52",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-08T05:28:27Z",
+    "LastScanTime": "2026-04-08T05:44:27Z",
     "ScanKind": "quick"
   }
 }
