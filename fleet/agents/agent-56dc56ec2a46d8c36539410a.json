@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-09T13:36:30Z",
+  "LastSeenUtc": "2026-04-09T13:52:31Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -6389,6 +6389,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Microsoft Streaming Clock Proxy",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Microsoft Streaming Service Proxy",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -7067,18 +7075,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 290768834560,
-          "FreePercent": 28.42
+          "Free": 290529079296,
+          "FreePercent": 28.4
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.00:16:26",
+      "Uptime": "00.00:32:27",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-09T13:36:25Z",
+    "LastScanTime": "2026-04-09T13:52:26Z",
     "ScanKind": "quick"
   }
 }
