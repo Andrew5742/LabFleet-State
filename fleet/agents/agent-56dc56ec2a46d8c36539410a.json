@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-09T06:28:26Z",
+  "LastSeenUtc": "2026-04-09T06:44:31Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5685,14 +5685,6 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
-          "DeviceName": "2 - S22D300 (AMD High Definition Audio Device)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -6119,14 +6111,6 @@
         {
           "DeviceName": "Fax",
           "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic Monitor (S22D300)",
-          "DriverVersion": "10.0.26100.7309",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -7083,18 +7067,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 296634290176,
-          "FreePercent": 29
+          "Free": 296002539520,
+          "FreePercent": 28.93
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.01:20:33",
+      "Uptime": "00.01:36:38",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-09T06:28:22Z",
+    "LastScanTime": "2026-04-09T06:44:24Z",
     "ScanKind": "quick"
   }
 }
