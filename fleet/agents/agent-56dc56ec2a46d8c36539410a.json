@@ -5,10 +5,11 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-10T17:41:42Z",
+  "LastSeenUtc": "2026-04-10T17:57:24Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
+    "blender",
     "github-desktop",
     "libreoffice",
     "unity-hub",
@@ -76,6 +77,16 @@
       "UninstallString": "MsiExec.exe /I{0828e032-5e7a-4032-876a-dc09ee6858fa}",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Blender",
+      "Version": "5.1.0",
+      "Publisher": "Blender Foundation",
+      "InstallDate": "20260410",
+      "InstallLocation": "C:\\Program Files\\Blender Foundation\\Blender 5.1\\",
+      "UninstallString": "MsiExec.exe /X{26068070-A31E-4DCD-8D17-F40B06CB413D}",
+      "QuietUninstallString": "",
+      "Category": "Catalog"
     },
     {
       "Name": "Bonjour",
@@ -3087,6 +3098,16 @@
           "UninstallString": "MsiExec.exe /I{0828e032-5e7a-4032-876a-dc09ee6858fa}",
           "QuietUninstallString": "",
           "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "Blender",
+          "Version": "5.1.0",
+          "Publisher": "Blender Foundation",
+          "InstallDate": "20260410",
+          "InstallLocation": "C:\\Program Files\\Blender Foundation\\Blender 5.1\\",
+          "UninstallString": "MsiExec.exe /X{26068070-A31E-4DCD-8D17-F40B06CB413D}",
+          "QuietUninstallString": "",
+          "Category": "Catalog"
         },
         {
           "Name": "Bonjour",
@@ -6564,18 +6585,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 563391176704,
-          "FreePercent": 55.07
+          "Free": 561238773760,
+          "FreePercent": 54.86
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.01:57:54",
+      "Uptime": "00.02:13:36",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-10T17:41:30Z",
-    "ScanKind": "full"
+    "LastScanTime": "2026-04-10T17:57:20Z",
+    "ScanKind": "quick"
   }
 }
