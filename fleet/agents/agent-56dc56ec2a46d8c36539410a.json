@@ -5,11 +5,10 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-09T19:44:11Z",
+  "LastSeenUtc": "2026-04-10T17:41:42Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
-    "blender",
     "github-desktop",
     "libreoffice",
     "unity-hub",
@@ -60,7 +59,7 @@
     },
     {
       "Name": "AMD Software",
-      "Version": "24.9.1",
+      "Version": "26.1.1",
       "Publisher": "Advanced Micro Devices, Inc.",
       "InstallDate": "",
       "InstallLocation": "C:\\Program Files\\AMD\\CIM\\BIN64",
@@ -79,26 +78,6 @@
       "Category": "ThirdPartySoftware"
     },
     {
-      "Name": "Blender",
-      "Version": "5.0.1",
-      "Publisher": "Blender Foundation",
-      "InstallDate": "20260312",
-      "InstallLocation": "C:\\Program Files\\Blender Foundation\\Blender 5.0\\",
-      "UninstallString": "MsiExec.exe /X{3AB2F4C8-50AE-4B37-A795-72780C8CE90D}",
-      "QuietUninstallString": "",
-      "Category": "Catalog"
-    },
-    {
-      "Name": "blender",
-      "Version": "4.2.1",
-      "Publisher": "Blender Foundation",
-      "InstallDate": "20260312",
-      "InstallLocation": "C:\\Program Files\\Blender Foundation\\Blender 4.2\\",
-      "UninstallString": "MsiExec.exe /I{932B2E6B-7F23-4F97-B9DA-148C3CB3FDB4}",
-      "QuietUninstallString": "",
-      "Category": "Catalog"
-    },
-    {
       "Name": "Bonjour",
       "Version": "2.0.2.0",
       "Publisher": "Apple Inc.",
@@ -112,7 +91,7 @@
       "Name": "Branding64",
       "Version": "1.00.0009",
       "Publisher": "Advanced Micro Devices, Inc.",
-      "InstallDate": "20250308",
+      "InstallDate": "20260410",
       "InstallLocation": "",
       "UninstallString": "MsiExec.exe /I{492AEFBE-1B81-4C20-A111-E6974BB98EC5}",
       "QuietUninstallString": "",
@@ -169,86 +148,6 @@
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Corel Graphics - Windows Shell Extension",
-      "Version": "22.1.0.514",
-      "Publisher": "Corel Corporation",
-      "InstallDate": "",
-      "InstallLocation": "c:\\Program Files\\Common Files\\Corel\\Shared\\Shell Extension\\",
-      "UninstallString": "c:\\Program Files\\Common Files\\Corel\\Shared\\Shell Extension\\x64\\ShellUninst.exe -ProductCode {4C191A96-E2E6-4902-85F7-D57BD13FDEA1} -arp",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "Corel Graphics - Windows Shell Extension",
-      "Version": "22.1.514",
-      "Publisher": "Corel Corporation",
-      "InstallDate": "20250609",
-      "InstallLocation": "c:\\Program Files\\Common Files\\Corel\\Shared\\Shell Extension\\",
-      "UninstallString": "MsiExec.exe /X{4C191A96-E2E6-4902-85F7-D57BD13FDEA1}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "Corel Graphics - Windows Shell Extension 32 Bit Keys",
-      "Version": "22.1.514",
-      "Publisher": "Corel Corporation",
-      "InstallDate": "20250609",
-      "InstallLocation": "c:\\Program Files\\Common Files\\Corel\\Shared\\Shell Extension\\",
-      "UninstallString": "MsiExec.exe /I{E640FF5E-9022-414D-B665-79C146EDCAA3}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "CorelDRAW Technical Suite 2020 (64-Bit)",
-      "Version": "22.2.0.532",
-      "Publisher": "Corel Corporation",
-      "InstallDate": "",
-      "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-      "UninstallString": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\Setup\\SetupARP.exe /arp",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "CorelDRAW Technical Suite 2020 - IPM (x64)",
-      "Version": "22.1",
-      "Publisher": "Corel Corporation",
-      "InstallDate": "20250609",
-      "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-      "UninstallString": "MsiExec.exe /I{52D2611E-17E2-4AC2-9BB6-0255F453664E}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "CorelDRAW Technical Suite 2020 - IPM Content (x64)",
-      "Version": "22.1",
-      "Publisher": "Corel Corporation",
-      "InstallDate": "20250609",
-      "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-      "UninstallString": "MsiExec.exe /I{D17AA252-0EDB-4842-9D00-A9A39008450B}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "CorelDRAW Technical Suite 2020 - IPM Lattice (x64)",
-      "Version": "22.1",
-      "Publisher": "Corel Corporation",
-      "InstallDate": "20250609",
-      "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-      "UninstallString": "MsiExec.exe /I{AD51F620-6B6C-4A5B-9D54-9B62C26C16DB}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "CorelDRAW Technical Suite 2020 - Writing Tools (x64)",
-      "Version": "22.1",
-      "Publisher": "Corel Corporation",
-      "InstallDate": "20250609",
-      "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-      "UninstallString": "MsiExec.exe /I{60AB95FB-5BF2-405C-A459-616EEC216A90}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
       "Name": "DiagnosticsHub_CollectionService",
       "Version": "17.14.36412",
       "Publisher": "Microsoft Corporation",
@@ -267,26 +166,6 @@
       "UninstallString": "C:\\Users\\reonf\\AppData\\Local\\Discord\\Update.exe --uninstall",
       "QuietUninstallString": "C:\\Users\\reonf\\AppData\\Local\\Discord\\Update.exe --uninstall -s",
       "Category": "ThirdPartySoftware"
-    },
-    {
-      "Name": "Dispatch",
-      "Version": "",
-      "Publisher": "Torrent Igruha",
-      "InstallDate": "20251218",
-      "InstallLocation": "C:\\Program Files (x86)\\Dispatch\\",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Dispatch\\unins000.exe\u0022",
-      "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Dispatch\\unins000.exe\u0022 /SILENT",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "Dying Light 2 Stay Human",
-      "Version": "",
-      "Publisher": "torrent-igruha.org",
-      "InstallDate": "20250713",
-      "InstallLocation": "C:\\Program Files (x86)\\Dying Light 2 Stay Human\\",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Dying Light 2 Stay Human\\unins000.exe\u0022",
-      "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Dying Light 2 Stay Human\\unins000.exe\u0022 /SILENT",
-      "Category": "OfficialSoftware"
     },
     {
       "Name": "EduFleet",
@@ -397,16 +276,6 @@
       "UninstallString": "MsiExec.exe /X{1A1B60BB-F156-4F6D-AD79-8A096B67E9AB}",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
-    },
-    {
-      "Name": "Epson USB Display",
-      "Version": "1.72.000",
-      "Publisher": "SEIKO EPSON CORPORATION",
-      "InstallDate": "",
-      "InstallLocation": "C:\\Program Files (x86)\\EPSON Projector\\Epson USB Display V1.7",
-      "UninstallString": "C:\\Program Files (x86)\\EPSON Projector\\Epson USB Display V1.7\\EMP_UDUi.exe",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
     },
     {
       "Name": "EPSON XP-4200 Series Printer Uninstall",
@@ -585,16 +454,6 @@
       "InstallDate": "",
       "InstallLocation": "",
       "UninstallString": "C:\\WINDOWS\\system32\\sdbinst.exe -u \u0022C:\\WINDOWS\\AppPatch\\CustomSDB\\{ad846bae-d44b-4722-abad-f7420e08bcd9}.sdb\u0022",
-      "QuietUninstallString": "",
-      "Category": "ThirdPartySoftware"
-    },
-    {
-      "Name": "Instagram",
-      "Version": "1.0",
-      "Publisher": "Google\\Chrome",
-      "InstallDate": "20240618",
-      "InstallLocation": "",
-      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=akpamiohjfcnimfljfndmaldlcfphjmp",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
     },
@@ -1145,26 +1004,6 @@
       "InstallDate": "20231103",
       "InstallLocation": "",
       "UninstallString": "MsiExec.exe /X{C6FD611E-7EFE-488C-A0E0-974C09EF6473}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "Microsoft Visual Basic for Applications 7.1 (x64)",
-      "Version": "7.1.00.00",
-      "Publisher": "Microsoft Corporation",
-      "InstallDate": "20250609",
-      "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /I{90120064-0070-0000-0000-4000000FF1CE}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "Microsoft Visual Basic for Applications 7.1 (x64) English",
-      "Version": "7.1.0.0",
-      "Publisher": "Microsoft Corporation",
-      "InstallDate": "20250609",
-      "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /I{90F60409-7000-11D3-8CFE-0150048383C9}",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -1819,16 +1658,6 @@
       "Category": "ThirdPartySoftware"
     },
     {
-      "Name": "Natural Color Pro",
-      "Version": "1.0.0.6",
-      "Publisher": "SEC",
-      "InstallDate": "20250916",
-      "InstallLocation": "C:\\Program Files (x86)\\SEC\\Natural Color Pro",
-      "UninstallString": "C:\\Program Files (x86)\\InstallShield Installation Information\\{FC2C7405-BC58-4E11-8F51-29671BEAC06B}\\setup.exe -runfromtemp -l0x0009 -removeonly",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
       "Name": "Node.js",
       "Version": "24.14.0",
       "Publisher": "Node.js Foundation",
@@ -1889,16 +1718,6 @@
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Ollama version 0.18.2",
-      "Version": "0.18.2",
-      "Publisher": "Ollama",
-      "InstallDate": "20260319",
-      "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\",
-      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022",
-      "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022 /SILENT",
-      "Category": "ThirdPartySoftware"
-    },
-    {
       "Name": "Oracle VM VirtualBox 7.0.14",
       "Version": "7.0.14",
       "Publisher": "Oracle and/or its affiliates",
@@ -1917,26 +1736,6 @@
       "UninstallString": "MsiExec.exe /X{8C5CF4CE-D589-40B4-A77F-01FD64602C50}",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
-    },
-    {
-      "Name": "QuickGamma 2.0.0.3",
-      "Version": "",
-      "Publisher": "Eberhard Werle",
-      "InstallDate": "",
-      "InstallLocation": "C:\\Program Files (x86)\\QuickGamma\\",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\QuickGamma\\unins000.exe\u0022",
-      "QuietUninstallString": "\u0022C:\\Program Files (x86)\\QuickGamma\\unins000.exe\u0022 /SILENT",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "Red Dead Redemption 2",
-      "Version": "",
-      "Publisher": "Torrent Igruha",
-      "InstallDate": "20250125",
-      "InstallLocation": "C:\\Program Files (x86)\\Red Dead Redemption 2\\",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Red Dead Redemption 2\\unins000.exe\u0022",
-      "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Red Dead Redemption 2\\unins000.exe\u0022 /SILENT",
-      "Category": "OfficialSoftware"
     },
     {
       "Name": "Rockstar Games Launcher",
@@ -1962,9 +1761,9 @@
       "Name": "RyzenMasterSDK",
       "Version": "1.2.3.5",
       "Publisher": "Advanced Micro Devices, Inc.",
-      "InstallDate": "20250308",
+      "InstallDate": "20260410",
       "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /I{4B4B44C4-19FF-4791-AAD4-1AE011803AE8}",
+      "UninstallString": "MsiExec.exe /I{27A4D549-98FC-4C60-904E-E6C47B47AA8C}",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
     },
@@ -1975,36 +1774,6 @@
       "InstallDate": "20250608",
       "InstallLocation": "",
       "UninstallString": "MsiExec.exe /X{9AA21EFD-9481-4043-9132-F42B035E4914}",
-      "QuietUninstallString": "",
-      "Category": "ThirdPartySoftware"
-    },
-    {
-      "Name": "Telegram Web",
-      "Version": "1.0",
-      "Publisher": "Google\\Chrome",
-      "InstallDate": "20240215",
-      "InstallLocation": "",
-      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=ibblmnobmgdmpoeblocemifbpglakpoi",
-      "QuietUninstallString": "",
-      "Category": "ThirdPartySoftware"
-    },
-    {
-      "Name": "Tell Me Why",
-      "Version": "",
-      "Publisher": "torrent-igruha.org",
-      "InstallDate": "20251220",
-      "InstallLocation": "C:\\Program Files (x86)\\Tell Me Why\\",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Tell Me Why\\unins000.exe\u0022",
-      "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Tell Me Why\\unins000.exe\u0022 /SILENT",
-      "Category": "OfficialSoftware"
-    },
-    {
-      "Name": "TurboVPN 2.26.0.0 stable",
-      "Version": "2.26.0.0 stable",
-      "Publisher": "INNOVATIVE CONNECTING PTE. LIMITED",
-      "InstallDate": "",
-      "InstallLocation": "",
-      "UninstallString": "C:\\Program Files (x86)\\TurboVPN\\uninst.exe",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
     },
@@ -2424,7 +2193,7 @@
       "Name": "Branding64",
       "Version": "1.00.0009",
       "Publisher": "Advanced Micro Devices, Inc.",
-      "InstallDate": "20250308",
+      "InstallDate": "20260410",
       "InstallLocation": "",
       "UninstallString": "MsiExec.exe /I{492AEFBE-1B81-4C20-A111-E6974BB98EC5}",
       "QuietUninstallString": "",
@@ -2651,16 +2420,6 @@
       "Category": "ThirdPartySoftware"
     },
     {
-      "Name": "Instagram",
-      "Version": "1.0",
-      "Publisher": "Google\\Chrome",
-      "InstallDate": "20240618",
-      "InstallLocation": "",
-      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=akpamiohjfcnimfljfndmaldlcfphjmp",
-      "QuietUninstallString": "",
-      "Category": "ThirdPartySoftware"
-    },
-    {
       "Name": "Launcher Prerequisites (x64)",
       "Version": "1.0.0.0",
       "Publisher": "Epic Games, Inc.",
@@ -2721,16 +2480,6 @@
       "Category": "ThirdPartySoftware"
     },
     {
-      "Name": "Ollama version 0.18.2",
-      "Version": "0.18.2",
-      "Publisher": "Ollama",
-      "InstallDate": "20260319",
-      "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\",
-      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022",
-      "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022 /SILENT",
-      "Category": "ThirdPartySoftware"
-    },
-    {
       "Name": "Paradox Launcher v2",
       "Version": "2.4.0",
       "Publisher": "Paradox Interactive",
@@ -2754,9 +2503,9 @@
       "Name": "RyzenMasterSDK",
       "Version": "1.2.3.5",
       "Publisher": "Advanced Micro Devices, Inc.",
-      "InstallDate": "20250308",
+      "InstallDate": "20260410",
       "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /I{4B4B44C4-19FF-4791-AAD4-1AE011803AE8}",
+      "UninstallString": "MsiExec.exe /I{27A4D549-98FC-4C60-904E-E6C47B47AA8C}",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
     },
@@ -2767,26 +2516,6 @@
       "InstallDate": "20250608",
       "InstallLocation": "",
       "UninstallString": "MsiExec.exe /X{9AA21EFD-9481-4043-9132-F42B035E4914}",
-      "QuietUninstallString": "",
-      "Category": "ThirdPartySoftware"
-    },
-    {
-      "Name": "Telegram Web",
-      "Version": "1.0",
-      "Publisher": "Google\\Chrome",
-      "InstallDate": "20240215",
-      "InstallLocation": "",
-      "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=ibblmnobmgdmpoeblocemifbpglakpoi",
-      "QuietUninstallString": "",
-      "Category": "ThirdPartySoftware"
-    },
-    {
-      "Name": "TurboVPN 2.26.0.0 stable",
-      "Version": "2.26.0.0 stable",
-      "Publisher": "INNOVATIVE CONNECTING PTE. LIMITED",
-      "InstallDate": "",
-      "InstallLocation": "",
-      "UninstallString": "C:\\Program Files (x86)\\TurboVPN\\uninst.exe",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
     },
@@ -2928,7 +2657,7 @@
       "GPU": [
         {
           "Name": "AMD Radeon (TM) Graphics",
-          "DriverVersion": "31.0.21921.1000",
+          "DriverVersion": "31.0.21924.61",
           "Status": "OK"
         }
       ],
@@ -3034,9 +2763,51 @@
         {
           "Name": "Local Area Connection* 2",
           "MAC": "D2C2E842AE05",
+          "IPv4": "169.254.235.129",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-Native WiFi Filter Driver-0000",
+          "MAC": "D2C2E842AE05",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-QoS Packet Scheduler-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-VirtualBox NDIS Light-Weight Filter-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-WFP 802.3 MAC Layer LightWeight Filter-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection* 3",
@@ -3216,13 +2987,13 @@
       ],
       "Monitors": [
         {
-          "Model": "S22D300",
-          "SerialNumber": "HTKFB01332",
+          "Model": "Unknown",
+          "SerialNumber": "0",
           "Resolution": "1920x1080"
         },
         {
           "Model": "Unknown",
-          "SerialNumber": "0",
+          "SerialNumber": "16843009",
           "Resolution": "1920x1080"
         }
       ],
@@ -3241,10 +3012,6 @@
         },
         {
           "Name": "AMD Audio Device",
-          "Status": "OK"
-        },
-        {
-          "Name": "EPSON Projector UD Audio Device",
           "Status": "OK"
         }
       ],
@@ -3303,7 +3070,7 @@
         },
         {
           "Name": "AMD Software",
-          "Version": "24.9.1",
+          "Version": "26.1.1",
           "Publisher": "Advanced Micro Devices, Inc.",
           "InstallDate": "",
           "InstallLocation": "C:\\Program Files\\AMD\\CIM\\BIN64",
@@ -3322,26 +3089,6 @@
           "Category": "ThirdPartySoftware"
         },
         {
-          "Name": "Blender",
-          "Version": "5.0.1",
-          "Publisher": "Blender Foundation",
-          "InstallDate": "20260312",
-          "InstallLocation": "C:\\Program Files\\Blender Foundation\\Blender 5.0\\",
-          "UninstallString": "MsiExec.exe /X{3AB2F4C8-50AE-4B37-A795-72780C8CE90D}",
-          "QuietUninstallString": "",
-          "Category": "Catalog"
-        },
-        {
-          "Name": "blender",
-          "Version": "4.2.1",
-          "Publisher": "Blender Foundation",
-          "InstallDate": "20260312",
-          "InstallLocation": "C:\\Program Files\\Blender Foundation\\Blender 4.2\\",
-          "UninstallString": "MsiExec.exe /I{932B2E6B-7F23-4F97-B9DA-148C3CB3FDB4}",
-          "QuietUninstallString": "",
-          "Category": "Catalog"
-        },
-        {
           "Name": "Bonjour",
           "Version": "2.0.2.0",
           "Publisher": "Apple Inc.",
@@ -3355,7 +3102,7 @@
           "Name": "Branding64",
           "Version": "1.00.0009",
           "Publisher": "Advanced Micro Devices, Inc.",
-          "InstallDate": "20250308",
+          "InstallDate": "20260410",
           "InstallLocation": "",
           "UninstallString": "MsiExec.exe /I{492AEFBE-1B81-4C20-A111-E6974BB98EC5}",
           "QuietUninstallString": "",
@@ -3412,86 +3159,6 @@
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Corel Graphics - Windows Shell Extension",
-          "Version": "22.1.0.514",
-          "Publisher": "Corel Corporation",
-          "InstallDate": "",
-          "InstallLocation": "c:\\Program Files\\Common Files\\Corel\\Shared\\Shell Extension\\",
-          "UninstallString": "c:\\Program Files\\Common Files\\Corel\\Shared\\Shell Extension\\x64\\ShellUninst.exe -ProductCode {4C191A96-E2E6-4902-85F7-D57BD13FDEA1} -arp",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "Corel Graphics - Windows Shell Extension",
-          "Version": "22.1.514",
-          "Publisher": "Corel Corporation",
-          "InstallDate": "20250609",
-          "InstallLocation": "c:\\Program Files\\Common Files\\Corel\\Shared\\Shell Extension\\",
-          "UninstallString": "MsiExec.exe /X{4C191A96-E2E6-4902-85F7-D57BD13FDEA1}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "Corel Graphics - Windows Shell Extension 32 Bit Keys",
-          "Version": "22.1.514",
-          "Publisher": "Corel Corporation",
-          "InstallDate": "20250609",
-          "InstallLocation": "c:\\Program Files\\Common Files\\Corel\\Shared\\Shell Extension\\",
-          "UninstallString": "MsiExec.exe /I{E640FF5E-9022-414D-B665-79C146EDCAA3}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "CorelDRAW Technical Suite 2020 (64-Bit)",
-          "Version": "22.2.0.532",
-          "Publisher": "Corel Corporation",
-          "InstallDate": "",
-          "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-          "UninstallString": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\Setup\\SetupARP.exe /arp",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "CorelDRAW Technical Suite 2020 - IPM (x64)",
-          "Version": "22.1",
-          "Publisher": "Corel Corporation",
-          "InstallDate": "20250609",
-          "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-          "UninstallString": "MsiExec.exe /I{52D2611E-17E2-4AC2-9BB6-0255F453664E}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "CorelDRAW Technical Suite 2020 - IPM Content (x64)",
-          "Version": "22.1",
-          "Publisher": "Corel Corporation",
-          "InstallDate": "20250609",
-          "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-          "UninstallString": "MsiExec.exe /I{D17AA252-0EDB-4842-9D00-A9A39008450B}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "CorelDRAW Technical Suite 2020 - IPM Lattice (x64)",
-          "Version": "22.1",
-          "Publisher": "Corel Corporation",
-          "InstallDate": "20250609",
-          "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-          "UninstallString": "MsiExec.exe /I{AD51F620-6B6C-4A5B-9D54-9B62C26C16DB}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "CorelDRAW Technical Suite 2020 - Writing Tools (x64)",
-          "Version": "22.1",
-          "Publisher": "Corel Corporation",
-          "InstallDate": "20250609",
-          "InstallLocation": "c:\\Program Files\\Corel\\CorelDRAW Technical Suite 2020\\",
-          "UninstallString": "MsiExec.exe /I{60AB95FB-5BF2-405C-A459-616EEC216A90}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
           "Name": "DiagnosticsHub_CollectionService",
           "Version": "17.14.36412",
           "Publisher": "Microsoft Corporation",
@@ -3510,26 +3177,6 @@
           "UninstallString": "C:\\Users\\reonf\\AppData\\Local\\Discord\\Update.exe --uninstall",
           "QuietUninstallString": "C:\\Users\\reonf\\AppData\\Local\\Discord\\Update.exe --uninstall -s",
           "Category": "ThirdPartySoftware"
-        },
-        {
-          "Name": "Dispatch",
-          "Version": "",
-          "Publisher": "Torrent Igruha",
-          "InstallDate": "20251218",
-          "InstallLocation": "C:\\Program Files (x86)\\Dispatch\\",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Dispatch\\unins000.exe\u0022",
-          "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Dispatch\\unins000.exe\u0022 /SILENT",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "Dying Light 2 Stay Human",
-          "Version": "",
-          "Publisher": "torrent-igruha.org",
-          "InstallDate": "20250713",
-          "InstallLocation": "C:\\Program Files (x86)\\Dying Light 2 Stay Human\\",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Dying Light 2 Stay Human\\unins000.exe\u0022",
-          "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Dying Light 2 Stay Human\\unins000.exe\u0022 /SILENT",
-          "Category": "OfficialSoftware"
         },
         {
           "Name": "EduFleet",
@@ -3640,16 +3287,6 @@
           "UninstallString": "MsiExec.exe /X{1A1B60BB-F156-4F6D-AD79-8A096B67E9AB}",
           "QuietUninstallString": "",
           "Category": "ThirdPartySoftware"
-        },
-        {
-          "Name": "Epson USB Display",
-          "Version": "1.72.000",
-          "Publisher": "SEIKO EPSON CORPORATION",
-          "InstallDate": "",
-          "InstallLocation": "C:\\Program Files (x86)\\EPSON Projector\\Epson USB Display V1.7",
-          "UninstallString": "C:\\Program Files (x86)\\EPSON Projector\\Epson USB Display V1.7\\EMP_UDUi.exe",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
         },
         {
           "Name": "EPSON XP-4200 Series Printer Uninstall",
@@ -3828,16 +3465,6 @@
           "InstallDate": "",
           "InstallLocation": "",
           "UninstallString": "C:\\WINDOWS\\system32\\sdbinst.exe -u \u0022C:\\WINDOWS\\AppPatch\\CustomSDB\\{ad846bae-d44b-4722-abad-f7420e08bcd9}.sdb\u0022",
-          "QuietUninstallString": "",
-          "Category": "ThirdPartySoftware"
-        },
-        {
-          "Name": "Instagram",
-          "Version": "1.0",
-          "Publisher": "Google\\Chrome",
-          "InstallDate": "20240618",
-          "InstallLocation": "",
-          "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=akpamiohjfcnimfljfndmaldlcfphjmp",
           "QuietUninstallString": "",
           "Category": "ThirdPartySoftware"
         },
@@ -4388,26 +4015,6 @@
           "InstallDate": "20231103",
           "InstallLocation": "",
           "UninstallString": "MsiExec.exe /X{C6FD611E-7EFE-488C-A0E0-974C09EF6473}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "Microsoft Visual Basic for Applications 7.1 (x64)",
-          "Version": "7.1.00.00",
-          "Publisher": "Microsoft Corporation",
-          "InstallDate": "20250609",
-          "InstallLocation": "",
-          "UninstallString": "MsiExec.exe /I{90120064-0070-0000-0000-4000000FF1CE}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "Microsoft Visual Basic for Applications 7.1 (x64) English",
-          "Version": "7.1.0.0",
-          "Publisher": "Microsoft Corporation",
-          "InstallDate": "20250609",
-          "InstallLocation": "",
-          "UninstallString": "MsiExec.exe /I{90F60409-7000-11D3-8CFE-0150048383C9}",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -5062,16 +4669,6 @@
           "Category": "ThirdPartySoftware"
         },
         {
-          "Name": "Natural Color Pro",
-          "Version": "1.0.0.6",
-          "Publisher": "SEC",
-          "InstallDate": "20250916",
-          "InstallLocation": "C:\\Program Files (x86)\\SEC\\Natural Color Pro",
-          "UninstallString": "C:\\Program Files (x86)\\InstallShield Installation Information\\{FC2C7405-BC58-4E11-8F51-29671BEAC06B}\\setup.exe -runfromtemp -l0x0009 -removeonly",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
           "Name": "Node.js",
           "Version": "24.14.0",
           "Publisher": "Node.js Foundation",
@@ -5132,16 +4729,6 @@
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Ollama version 0.18.2",
-          "Version": "0.18.2",
-          "Publisher": "Ollama",
-          "InstallDate": "20260319",
-          "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\",
-          "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022",
-          "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Ollama\\unins000.exe\u0022 /SILENT",
-          "Category": "ThirdPartySoftware"
-        },
-        {
           "Name": "Oracle VM VirtualBox 7.0.14",
           "Version": "7.0.14",
           "Publisher": "Oracle and/or its affiliates",
@@ -5160,26 +4747,6 @@
           "UninstallString": "MsiExec.exe /X{8C5CF4CE-D589-40B4-A77F-01FD64602C50}",
           "QuietUninstallString": "",
           "Category": "ThirdPartySoftware"
-        },
-        {
-          "Name": "QuickGamma 2.0.0.3",
-          "Version": "",
-          "Publisher": "Eberhard Werle",
-          "InstallDate": "",
-          "InstallLocation": "C:\\Program Files (x86)\\QuickGamma\\",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\QuickGamma\\unins000.exe\u0022",
-          "QuietUninstallString": "\u0022C:\\Program Files (x86)\\QuickGamma\\unins000.exe\u0022 /SILENT",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "Red Dead Redemption 2",
-          "Version": "",
-          "Publisher": "Torrent Igruha",
-          "InstallDate": "20250125",
-          "InstallLocation": "C:\\Program Files (x86)\\Red Dead Redemption 2\\",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Red Dead Redemption 2\\unins000.exe\u0022",
-          "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Red Dead Redemption 2\\unins000.exe\u0022 /SILENT",
-          "Category": "OfficialSoftware"
         },
         {
           "Name": "Rockstar Games Launcher",
@@ -5205,9 +4772,9 @@
           "Name": "RyzenMasterSDK",
           "Version": "1.2.3.5",
           "Publisher": "Advanced Micro Devices, Inc.",
-          "InstallDate": "20250308",
+          "InstallDate": "20260410",
           "InstallLocation": "",
-          "UninstallString": "MsiExec.exe /I{4B4B44C4-19FF-4791-AAD4-1AE011803AE8}",
+          "UninstallString": "MsiExec.exe /I{27A4D549-98FC-4C60-904E-E6C47B47AA8C}",
           "QuietUninstallString": "",
           "Category": "ThirdPartySoftware"
         },
@@ -5218,36 +4785,6 @@
           "InstallDate": "20250608",
           "InstallLocation": "",
           "UninstallString": "MsiExec.exe /X{9AA21EFD-9481-4043-9132-F42B035E4914}",
-          "QuietUninstallString": "",
-          "Category": "ThirdPartySoftware"
-        },
-        {
-          "Name": "Telegram Web",
-          "Version": "1.0",
-          "Publisher": "Google\\Chrome",
-          "InstallDate": "20240215",
-          "InstallLocation": "",
-          "UninstallString": "\u0022C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\u0022 --profile-directory=Default --uninstall-app-id=ibblmnobmgdmpoeblocemifbpglakpoi",
-          "QuietUninstallString": "",
-          "Category": "ThirdPartySoftware"
-        },
-        {
-          "Name": "Tell Me Why",
-          "Version": "",
-          "Publisher": "torrent-igruha.org",
-          "InstallDate": "20251220",
-          "InstallLocation": "C:\\Program Files (x86)\\Tell Me Why\\",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Tell Me Why\\unins000.exe\u0022",
-          "QuietUninstallString": "\u0022C:\\Program Files (x86)\\Tell Me Why\\unins000.exe\u0022 /SILENT",
-          "Category": "OfficialSoftware"
-        },
-        {
-          "Name": "TurboVPN 2.26.0.0 stable",
-          "Version": "2.26.0.0 stable",
-          "Publisher": "INNOVATIVE CONNECTING PTE. LIMITED",
-          "InstallDate": "",
-          "InstallLocation": "",
-          "UninstallString": "C:\\Program Files (x86)\\TurboVPN\\uninst.exe",
           "QuietUninstallString": "",
           "Category": "ThirdPartySoftware"
         },
@@ -5750,25 +5287,25 @@
         },
         {
           "DeviceName": "AMD Audio CoProcessor",
-          "DriverVersion": "6.0.0.79",
+          "DriverVersion": "6.0.1.83",
           "DriverProvider": "AMD",
-          "DriverDate": "2024-08-01",
+          "DriverDate": "2025-12-10",
           "Status": "OK",
           "ProblemCode": 0
         },
         {
           "DeviceName": "AMD Audio Device",
-          "DriverVersion": "6.0.0.44",
+          "DriverVersion": "6.0.1.44",
           "DriverProvider": "AMD",
-          "DriverDate": "2024-04-16",
+          "DriverDate": "2025-07-14",
           "Status": "OK",
           "ProblemCode": 0
         },
         {
           "DeviceName": "AMD Crash Defender",
-          "DriverVersion": "23.19.0.2",
+          "DriverVersion": "23.19.0.3",
           "DriverProvider": "AMD",
-          "DriverDate": "2024-04-19",
+          "DriverDate": "2025-09-30",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -5784,7 +5321,7 @@
           "DeviceName": "AMD High Definition Audio Device",
           "DriverVersion": "10.0.1.30",
           "DriverProvider": "Advanced Micro Devices",
-          "DriverDate": "2024-05-06",
+          "DriverDate": "2025-07-08",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -5806,9 +5343,9 @@
         },
         {
           "DeviceName": "AMD Link Controller Emulation",
-          "DriverVersion": "23.10.0.8",
+          "DriverVersion": "23.19.0.1",
           "DriverProvider": "AMD",
-          "DriverDate": "2022-04-19",
+          "DriverDate": "2025-10-08",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -5830,9 +5367,9 @@
         },
         {
           "DeviceName": "AMD Radeon (TM) Graphics",
-          "DriverVersion": "31.0.21921.1000",
+          "DriverVersion": "31.0.21924.61",
           "DriverProvider": "Advanced Micro Devices, Inc.",
-          "DriverDate": "2024-08-19",
+          "DriverDate": "2025-12-11",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -6006,17 +5543,17 @@
         },
         {
           "DeviceName": "AMD-OpenCL User Mode Driver",
-          "DriverVersion": "31.0.21921.1000",
+          "DriverVersion": "31.0.21924.61",
           "DriverProvider": "Advanced Micro Devices, Inc.",
-          "DriverDate": "2024-08-19",
+          "DriverDate": "2025-12-11",
           "Status": "OK",
           "ProblemCode": 0
         },
         {
           "DeviceName": "AMD-Windows Support Components",
-          "DriverVersion": "31.0.21921.1000",
+          "DriverVersion": "31.0.21924.61",
           "DriverProvider": "Advanced Micro Devices, Inc.",
-          "DriverDate": "2024-08-19",
+          "DriverDate": "2025-12-11",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -6073,14 +5610,6 @@
           "DriverVersion": "3.2.12011.10036",
           "DriverProvider": "ELAN Finger Print",
           "DriverDate": "2023-03-24",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "EPSON Projector UD Audio Device",
-          "DriverVersion": "1.0.0.0",
-          "DriverProvider": "SEIKO EPSON CORPORATION",
-          "DriverDate": "2010-06-17",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -6181,6 +5710,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "HID-compliant mouse",
+          "DriverVersion": "10.0.26100.1150",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "HID-compliant vendor-defined device",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -6198,9 +5735,9 @@
         },
         {
           "DeviceName": "High Definition Audio Bus",
-          "DriverVersion": "24.10.0.1",
+          "DriverVersion": "25.30.0.1",
           "DriverProvider": "AMD",
-          "DriverDate": "2024-06-07",
+          "DriverDate": "2025-08-21",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -6390,14 +5927,6 @@
         },
         {
           "DeviceName": "Microsoft Radio Device Enumeration Bus",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft RRAS Root Enumerator",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -6933,6 +6462,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "USB Input Device",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -7013,70 +6550,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "WAN Miniport (IKEv2)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (IP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (IPv6)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (L2TP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (Network Monitor)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (PPPOE)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (PPTP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (SSTP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Wi-Fi",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -7091,18 +6564,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 290092732416,
-          "FreePercent": 28.36
+          "Free": 563391176704,
+          "FreePercent": 55.07
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.06:24:07",
+      "Uptime": "00.01:57:54",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-09T19:44:06Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-04-10T17:41:30Z",
+    "ScanKind": "full"
   }
 }
