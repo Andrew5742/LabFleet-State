@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-11T11:32:06Z",
+  "LastSeenUtc": "2026-04-13T13:25:15Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -1650,7 +1650,7 @@
     },
     {
       "Name": "Mozilla Firefox (x64 uk)",
-      "Version": "149.0",
+      "Version": "149.0.2",
       "Publisher": "Mozilla",
       "InstallDate": "",
       "InstallLocation": "C:\\Program Files\\Mozilla Firefox",
@@ -2768,53 +2768,32 @@
           "Name": "Local Area Connection* 10",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 10-QoS Packet Scheduler-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 10-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 10-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection* 2",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "169.254.235.129",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-Native WiFi Filter Driver-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-QoS Packet Scheduler-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-VirtualBox NDIS Light-Weight Filter-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-WFP 802.3 MAC Layer LightWeight Filter-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "D2C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Down",
@@ -2824,50 +2803,92 @@
           "Name": "Local Area Connection* 3",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Down",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection* 4",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Down",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection* 5",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Down",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection* 6",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Down",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection* 7",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Down",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection* 8",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 8-QoS Packet Scheduler-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 8-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 8-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection* 9",
           "MAC": "",
           "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 9-QoS Packet Scheduler-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 9-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 9-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "",
+          "IPv4": "Unknown",
+          "Status": "Up",
+          "Speed": -1
         },
         {
           "Name": "Local Area Connection-QoS Packet Scheduler-0000",
@@ -2942,58 +2963,58 @@
         {
           "Name": "Wi-Fi",
           "MAC": "50C2E842AE05",
-          "IPv4": "192.168.0.101",
+          "IPv4": "10.45.2.76",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 780000000
         },
         {
           "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 780000000
         },
         {
           "Name": "Wi-Fi-QoS Packet Scheduler-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 780000000
         },
         {
           "Name": "Wi-Fi-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 780000000
         },
         {
           "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 780000000
         },
         {
           "Name": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 780000000
         },
         {
           "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 780000000
         },
         {
           "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 780000000
         }
       ],
       "Monitors": [
@@ -3003,8 +3024,8 @@
           "Resolution": "1920x1080"
         },
         {
-          "Model": "Unknown",
-          "SerialNumber": "16843009",
+          "Model": "W2243",
+          "SerialNumber": "286933",
           "Resolution": "1920x1080"
         }
       ],
@@ -4671,7 +4692,7 @@
         },
         {
           "Name": "Mozilla Firefox (x64 uk)",
-          "Version": "149.0",
+          "Version": "149.0.2",
           "Publisher": "Mozilla",
           "InstallDate": "",
           "InstallLocation": "C:\\Program Files\\Mozilla Firefox",
@@ -5667,8 +5688,8 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Generic volume shadow copy",
-          "DriverVersion": "10.0.26100.1",
+          "DeviceName": "Generic Monitor (W2243)",
+          "DriverVersion": "10.0.26100.7309",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -5695,6 +5716,30 @@
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic volume shadow copy",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Headphone (Realtek(R) Audio)",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -5964,14 +6009,6 @@
         },
         {
           "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter",
-          "DriverVersion": "10.0.26100.7019",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
           "DriverVersion": "10.0.26100.7019",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -6609,18 +6646,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 560826630144,
-          "FreePercent": 54.82
+          "Free": 558577205248,
+          "FreePercent": 54.6
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.01:38:52",
+      "Uptime": "00.04:43:13",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-11T11:32:02Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-04-13T13:25:09Z",
+    "ScanKind": "full"
   }
 }
