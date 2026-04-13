@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-13T16:20:40Z",
+  "LastSeenUtc": "2026-04-13T16:36:39Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5728,22 +5728,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Headphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "HID-compliant vendor-defined device",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -5970,14 +5954,6 @@
         {
           "DeviceName": "Microsoft Storage Spaces Controller",
           "DriverVersion": "10.0.26100.8115",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft Streaming Clock Proxy",
-          "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6662,18 +6638,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 553861238784,
-          "FreePercent": 54.14
+          "Free": 553965207552,
+          "FreePercent": 54.15
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.07:38:38",
+      "Uptime": "00.07:54:37",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-13T16:20:35Z",
+    "LastScanTime": "2026-04-13T16:36:35Z",
     "ScanKind": "quick"
   }
 }
