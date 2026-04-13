@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-13T16:36:39Z",
+  "LastSeenUtc": "2026-04-13T16:44:38Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5688,14 +5688,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Generic Monitor (W2243)",
-          "DriverVersion": "10.0.26100.7309",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Generic volume shadow copy",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -5993,14 +5985,6 @@
         },
         {
           "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter",
-          "DriverVersion": "10.0.26100.7019",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
           "DriverVersion": "10.0.26100.7019",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -6638,18 +6622,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 553965207552,
-          "FreePercent": 54.15
+          "Free": 554109468672,
+          "FreePercent": 54.16
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.07:54:37",
+      "Uptime": "00.08:02:36",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-13T16:36:35Z",
+    "LastScanTime": "2026-04-13T16:44:35Z",
     "ScanKind": "quick"
   }
 }
