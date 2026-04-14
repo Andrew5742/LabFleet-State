@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-13T16:44:38Z",
+  "LastSeenUtc": "2026-04-14T09:21:37Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -155,6 +155,16 @@
       "InstallDate": "20260312",
       "InstallLocation": "",
       "UninstallString": "MsiExec.exe /X{BDF8C840-5B9A-4D9B-9BCA-CE4163973563}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "Copilot",
+      "Version": "147.0.3912.60",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260414",
+      "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\147.0.3912.60\\Installer\\copilot_setup.exe\u0022 --uninstall --mscopilot --channel=stable --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -2795,6 +2805,48 @@
         {
           "Name": "Local Area Connection* 2",
           "MAC": "D2C2E842AE05",
+          "IPv4": "169.254.235.129",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-Native WiFi Filter Driver-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-QoS Packet Scheduler-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-VirtualBox NDIS Light-Weight Filter-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-WFP 802.3 MAC Layer LightWeight Filter-0000",
+          "MAC": "D2C2E842AE05",
+          "IPv4": "Unknown",
+          "Status": "Down",
+          "Speed": -1
+        },
+        {
+          "Name": "Local Area Connection* 2-WFP Native MAC Layer LightWeight Filter-0000",
+          "MAC": "D2C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Down",
           "Speed": -1
@@ -2949,83 +3001,78 @@
         {
           "Name": "VMware Network Adapter VMnet1",
           "MAC": "005056C00001",
-          "IPv4": "192.168.129.1",
+          "IPv4": "169.254.14.214",
           "Status": "Up",
           "Speed": 100000000
         },
         {
           "Name": "VMware Network Adapter VMnet8",
           "MAC": "005056C00008",
-          "IPv4": "192.168.175.1",
+          "IPv4": "169.254.7.36",
           "Status": "Up",
           "Speed": 100000000
         },
         {
           "Name": "Wi-Fi",
           "MAC": "50C2E842AE05",
-          "IPv4": "10.45.2.76",
+          "IPv4": "172.16.13.162",
           "Status": "Up",
-          "Speed": 780000000
+          "Speed": 150000000
         },
         {
           "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 780000000
+          "Speed": 150000000
         },
         {
           "Name": "Wi-Fi-QoS Packet Scheduler-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 780000000
+          "Speed": 150000000
         },
         {
           "Name": "Wi-Fi-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 780000000
+          "Speed": 150000000
         },
         {
           "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 780000000
+          "Speed": 150000000
         },
         {
           "Name": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 780000000
+          "Speed": 150000000
         },
         {
           "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 780000000
+          "Speed": 150000000
         },
         {
           "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 780000000
+          "Speed": 150000000
         }
       ],
       "Monitors": [
         {
           "Model": "Unknown",
           "SerialNumber": "0",
-          "Resolution": "1920x1080"
-        },
-        {
-          "Model": "W2243",
-          "SerialNumber": "286933",
           "Resolution": "1920x1080"
         }
       ],
@@ -3197,6 +3244,16 @@
           "InstallDate": "20260312",
           "InstallLocation": "",
           "UninstallString": "MsiExec.exe /X{BDF8C840-5B9A-4D9B-9BCA-CE4163973563}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "Copilot",
+          "Version": "147.0.3912.60",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260414",
+          "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\147.0.3912.60\\Installer\\copilot_setup.exe\u0022 --uninstall --mscopilot --channel=stable --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -5704,22 +5761,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Generic volume shadow copy",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Generic volume shadow copy",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "HID-compliant vendor-defined device",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -5985,6 +6026,14 @@
         },
         {
           "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter",
+          "DriverVersion": "10.0.26100.7019",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
           "DriverVersion": "10.0.26100.7019",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -6622,18 +6671,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 554109468672,
-          "FreePercent": 54.16
+          "Free": 567009984512,
+          "FreePercent": 55.42
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.08:02:36",
+      "Uptime": "01.00:39:30",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-13T16:44:35Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-04-14T09:21:28Z",
+    "ScanKind": "full"
   }
 }
