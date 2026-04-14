@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-14T12:29:10Z",
+  "LastSeenUtc": "2026-04-14T12:45:10Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -1759,6 +1759,16 @@
       "Category": "ThirdPartySoftware"
     },
     {
+      "Name": "Python 3.14.4",
+      "Version": "3.14-64",
+      "Publisher": "Python Software Foundation",
+      "InstallDate": "20260414",
+      "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Python\\pythoncore-3.14-64",
+      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\\pymanager.exe\u0022 uninstall --yes --by-id \u0022pythoncore-3.14-64\u0022",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
       "Name": "Rockstar Games Launcher",
       "Version": "1.0.103.2507",
       "Publisher": "Rockstar Games",
@@ -2507,6 +2517,16 @@
       "InstallDate": "20240723",
       "InstallLocation": "",
       "UninstallString": "MsiExec.exe /X{8C5CF4CE-D589-40B4-A77F-01FD64602C50}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "Python 3.14.4",
+      "Version": "3.14-64",
+      "Publisher": "Python Software Foundation",
+      "InstallDate": "20260414",
+      "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Python\\pythoncore-3.14-64",
+      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\\pymanager.exe\u0022 uninstall --yes --by-id \u0022pythoncore-3.14-64\u0022",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
     },
@@ -4848,6 +4868,16 @@
           "Category": "ThirdPartySoftware"
         },
         {
+          "Name": "Python 3.14.4",
+          "Version": "3.14-64",
+          "Publisher": "Python Software Foundation",
+          "InstallDate": "20260414",
+          "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Python\\pythoncore-3.14-64",
+          "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.PythonManager_3847v3x7pw1km\\pymanager.exe\u0022 uninstall --yes --by-id \u0022pythoncore-3.14-64\u0022",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
           "Name": "Rockstar Games Launcher",
           "Version": "1.0.103.2507",
           "Publisher": "Rockstar Games",
@@ -6663,18 +6693,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 568934354944,
-          "FreePercent": 55.61
+          "Free": 566954270720,
+          "FreePercent": 55.42
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "01.03:47:03",
+      "Uptime": "01.04:03:03",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-14T12:29:03Z",
+    "LastScanTime": "2026-04-14T12:45:04Z",
     "ScanKind": "quick"
   }
 }
