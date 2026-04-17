@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-17T10:07:53Z",
+  "LastSeenUtc": "2026-04-17T18:19:56Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5293,6 +5293,14 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
+          "DeviceName": "2 - DDC Display (AMD High Definition Audio Device)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "ACP HDA Node",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -5717,6 +5725,30 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Generic Monitor",
+          "DriverVersion": "10.0.26100.7309",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Headphone (Realtek(R) Audio)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "HID-compliant vendor-defined device",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -5974,14 +6006,6 @@
         },
         {
           "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter",
-          "DriverVersion": "10.0.26100.7019",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft Wi-Fi Direct Virtual Adapter #2",
           "DriverVersion": "10.0.26100.7019",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -6555,18 +6579,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 552131305472,
-          "FreePercent": 53.97
+          "Free": 553799417856,
+          "FreePercent": 54.13
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.09:36:02",
+      "Uptime": "00.00:01:09",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-17T10:07:48Z",
+    "LastScanTime": "2026-04-17T18:19:51Z",
     "ScanKind": "quick"
   }
 }
