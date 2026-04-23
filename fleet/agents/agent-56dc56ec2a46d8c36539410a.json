@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-23T19:20:25Z",
+  "LastSeenUtc": "2026-04-23T19:36:45Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -1300,9 +1300,9 @@
     },
     {
       "Name": "Microsoft Visual Studio Code (User)",
-      "Version": "1.116.0",
+      "Version": "1.117.0",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260417",
+      "InstallDate": "20260423",
       "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\",
       "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022",
       "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022 /SILENT",
@@ -4438,9 +4438,9 @@
         },
         {
           "Name": "Microsoft Visual Studio Code (User)",
-          "Version": "1.116.0",
+          "Version": "1.117.0",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260417",
+          "InstallDate": "20260423",
           "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\",
           "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022",
           "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe\u0022 /SILENT",
@@ -7488,18 +7488,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 530652459008,
-          "FreePercent": 51.87
+          "Free": 529313275904,
+          "FreePercent": 51.74
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.03:44:48",
+      "Uptime": "00.04:01:08",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-23T19:20:22Z",
+    "LastScanTime": "2026-04-23T19:36:41Z",
     "ScanKind": "quick"
   }
 }
