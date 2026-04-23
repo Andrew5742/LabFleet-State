@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-23T18:00:30Z",
+  "LastSeenUtc": "2026-04-23T18:16:24Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -5490,6 +5490,14 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
+          "DeviceName": "2 - S22D300 (AMD High Definition Audio Device)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "AAP Client",
           "DriverVersion": "Unknown",
           "DriverProvider": "Unknown",
@@ -6322,6 +6330,14 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Generic Monitor (S22D300)",
+          "DriverVersion": "10.0.26100.7309",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Generic volume shadow copy",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -6332,6 +6348,62 @@
         {
           "DeviceName": "Generic volume shadow copy",
           "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Headphone (Realtek(R) Audio)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID Keyboard Device",
+          "DriverVersion": "10.0.26100.1882",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant consumer control device",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant mouse",
+          "DriverVersion": "10.0.26100.1150",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant mouse",
+          "DriverVersion": "10.0.26100.1150",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "HID-compliant system controller",
+          "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -7266,6 +7338,38 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "USB Composite Device",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "USB Input Device",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "USB Input Device",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "USB Input Device",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -7384,7 +7488,7 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 532439830528,
+          "Free": 532371841024,
           "FreePercent": 52.04
         }
       ],
@@ -7392,10 +7496,10 @@
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.02:24:53",
+      "Uptime": "00.02:40:47",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-23T18:00:25Z",
+    "LastScanTime": "2026-04-23T18:16:22Z",
     "ScanKind": "quick"
   }
 }
