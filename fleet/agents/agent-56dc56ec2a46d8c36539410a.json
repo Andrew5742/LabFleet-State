@@ -5,7 +5,7 @@
   "MachineName": "LAPTOP-3VU5GOA7",
   "OsDisplayName": "Windows 11",
   "AgentVersion": "1.0.69.0",
-  "LastSeenUtc": "2026-04-17T21:31:16Z",
+  "LastSeenUtc": "2026-04-23T15:40:03Z",
   "AgentEnabled": false,
   "IsOnline": false,
   "InstalledCatalogPackageIds": [
@@ -330,9 +330,9 @@
     },
     {
       "Name": "Figma",
-      "Version": "126.2.10",
+      "Version": "126.3.12",
       "Publisher": "Figma, Inc.",
-      "InstallDate": "20260326",
+      "InstallDate": "20260421",
       "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
       "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
       "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -940,21 +940,21 @@
     },
     {
       "Name": "Microsoft Edge",
-      "Version": "147.0.3912.60",
+      "Version": "147.0.3912.72",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260414",
+      "InstallDate": "20260418",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\147.0.3912.60\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\147.0.3912.72\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
     {
       "Name": "Microsoft Edge WebView2 Runtime",
-      "Version": "147.0.3912.60",
+      "Version": "147.0.3912.72",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260414",
+      "InstallDate": "20260418",
       "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\147.0.3912.60\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\147.0.3912.72\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -1179,6 +1179,16 @@
       "Category": "OfficialSoftware"
     },
     {
+      "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x64) - 12.0.40664",
+      "Version": "12.0.40664.0",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\\vcredist_x64.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\\vcredist_x64.exe\u0022 /uninstall /quiet",
+      "Category": "OfficialSoftware"
+    },
+    {
       "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Additional Runtime - 12.0.40664",
       "Version": "12.0.40664",
       "Publisher": "Microsoft Corporation",
@@ -1219,62 +1229,62 @@
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64) - 14.42.34433",
-      "Version": "14.42.34433.0",
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64) - 14.44.35211",
+      "Version": "14.44.35211.0",
       "Publisher": "Microsoft Corporation",
       "InstallDate": "",
       "InstallLocation": "",
-      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{804e7d66-ccc2-4c12-84ba-476da31d103d}\\VC_redist.x64.exe\u0022  /uninstall",
-      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{804e7d66-ccc2-4c12-84ba-476da31d103d}\\VC_redist.x64.exe\u0022 /uninstall /quiet",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{d8bbe9f9-7c5b-42c6-b715-9ee898a2e515}\\VC_redist.x64.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{d8bbe9f9-7c5b-42c6-b715-9ee898a2e515}\\VC_redist.x64.exe\u0022 /uninstall /quiet",
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86) - 14.36.32532",
-      "Version": "14.36.32532.0",
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86) - 14.44.35211",
+      "Version": "14.44.35211.0",
       "Publisher": "Microsoft Corporation",
       "InstallDate": "",
       "InstallLocation": "",
-      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\\VC_redist.x86.exe\u0022  /uninstall",
-      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\\VC_redist.x86.exe\u0022 /uninstall /quiet",
+      "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{0b5169e3-39da-4313-808e-1f9c0407f3bf}\\VC_redist.x86.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{0b5169e3-39da-4313-808e-1f9c0407f3bf}\\VC_redist.x86.exe\u0022 /uninstall /quiet",
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.42.34433",
-      "Version": "14.42.34433",
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.44.35211",
+      "Version": "14.44.35211",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260310",
+      "InstallDate": "20260419",
       "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /I{E1902FC6-C423-4719-AB8A-AC7B2694B367}",
+      "UninstallString": "MsiExec.exe /I{86AB2CC9-08BD-4643-B0F9-F82D006D72FF}",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.42.34433",
-      "Version": "14.42.34433",
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.44.35211",
+      "Version": "14.44.35211",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20260310",
+      "InstallDate": "20260419",
       "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /I{382F1166-A409-4C5B-9B1E-85ED538B8291}",
+      "UninstallString": "MsiExec.exe /I{43B0D101-A022-48F4-9D04-BA404CEB1D53}",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Additional Runtime - 14.42.34226",
-      "Version": "14.42.34226",
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Additional Runtime - 14.44.35211",
+      "Version": "14.44.35211",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20250401",
+      "InstallDate": "20260419",
       "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /X{A640D564-FA8E-481B-ABC6-B2B572FDD83B}",
+      "UninstallString": "MsiExec.exe /I{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Minimum Runtime - 14.42.34226",
-      "Version": "14.42.34226",
+      "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Minimum Runtime - 14.44.35211",
+      "Version": "14.44.35211",
       "Publisher": "Microsoft Corporation",
-      "InstallDate": "20250401",
+      "InstallDate": "20260419",
       "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /X{4F66CF07-B4DB-46F6-84E9-3640CDE36006}",
+      "UninstallString": "MsiExec.exe /I{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}",
       "QuietUninstallString": "",
       "Category": "OfficialSoftware"
     },
@@ -1699,6 +1709,16 @@
       "Category": "ThirdPartySoftware"
     },
     {
+      "Name": "Npgsql 3.2.6",
+      "Version": "3.2.6-3",
+      "Publisher": "EnterpriseDB",
+      "InstallDate": "20260419",
+      "InstallLocation": "C:\\Program Files (x86)\\PostgreSQL\\Npgsql",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\PostgreSQL\\Npgsql\\uninstall-npgsql.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
       "Name": "OBS Studio",
       "Version": "32.1.0",
       "Publisher": "OBS Project",
@@ -1739,16 +1759,6 @@
       "Category": "OfficialSoftware"
     },
     {
-      "Name": "Oracle VM VirtualBox 7.0.14",
-      "Version": "7.0.14",
-      "Publisher": "Oracle and/or its affiliates",
-      "InstallDate": "20240228",
-      "InstallLocation": "",
-      "UninstallString": "MsiExec.exe /I{8DDF4B7A-DE1A-4619-B426-959B44E40A87}",
-      "QuietUninstallString": "",
-      "Category": "OfficialSoftware"
-    },
-    {
       "Name": "Paradox Launcher v2",
       "Version": "2.4.0",
       "Publisher": "Paradox Interactive",
@@ -1757,6 +1767,106 @@
       "UninstallString": "MsiExec.exe /X{8C5CF4CE-D589-40B4-A77F-01FD64602C50}",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "PEM-HTTPD 2.4.66",
+      "Version": "2.4.66-1",
+      "Publisher": "EnterpriseDB",
+      "InstallDate": "20260419",
+      "InstallLocation": "C:\\Program Files\\edb\\pem\\httpd",
+      "UninstallString": "\u0022C:\\Program Files\\edb\\pem\\httpd\\uninstall-pemhttpd.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "pgAgent_PG18 4.2.3",
+      "Version": "4.2.3-1",
+      "Publisher": "EnterpriseDB",
+      "InstallDate": "20260419",
+      "InstallLocation": "C:\\Program Files\\PostgreSQL\\18",
+      "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\18\\uninstall-pgagent.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "PgBouncer 1.25.1",
+      "Version": "1.25.1-1",
+      "Publisher": "EnterpriseDB",
+      "InstallDate": "20260419",
+      "InstallLocation": "C:\\Program Files\\PgBouncer",
+      "UninstallString": "\u0022C:\\Program Files\\PgBouncer\\uninstall-pgbouncer.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "pgJDBC 42.7.2",
+      "Version": "42.7.2-1",
+      "Publisher": "EnterpriseDB",
+      "InstallDate": "20260419",
+      "InstallLocation": "C:\\Program Files (x86)\\PostgreSQL\\pgJDBC",
+      "UninstallString": "\u0022C:\\Program Files (x86)\\PostgreSQL\\pgJDBC\\uninstall-pgjdbc.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "PostGIS Bundle 3.6.2 for PostgreSQL x64 18 (remove only)",
+      "Version": "",
+      "Publisher": "",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\18\\uninstall-postgis-bundle-pg18x64-3.6.2-1.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "PostgreSQL 13",
+      "Version": "13.23-1",
+      "Publisher": "PostgreSQL Global Development Group",
+      "InstallDate": "20260419",
+      "InstallLocation": "C:\\Program Files\\PostgreSQL\\13",
+      "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\13\\uninstall-postgresql.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "PostgreSQL 18",
+      "Version": "18.3-3",
+      "Publisher": "PostgreSQL Global Development Group",
+      "InstallDate": "20260419",
+      "InstallLocation": "C:\\Program Files\\PostgreSQL\\18",
+      "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\18\\uninstall-postgresql.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "PowerToys (Preview)",
+      "Version": "0.98.1",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260418",
+      "InstallLocation": "c:\\Users\\reonf\\AppData\\Local\\PowerToys\\",
+      "UninstallString": "MsiExec.exe /X{80E4B506-33F6-4D8F-9A43-1593F9C6CCF5}",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "PowerToys (Preview) x64",
+      "Version": "0.98.1",
+      "Publisher": "Microsoft Corporation",
+      "InstallDate": "20260418",
+      "InstallLocation": "c:\\Users\\reonf\\AppData\\Local\\PowerToys\\",
+      "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Package Cache\\{1EACF27D-52C8-4166-B891-73F77D65D309}\\PowerToysUserSetup-0.98.1-x64.exe\u0022  /uninstall",
+      "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Package Cache\\{1EACF27D-52C8-4166-B891-73F77D65D309}\\PowerToysUserSetup-0.98.1-x64.exe\u0022 /uninstall /quiet",
+      "Category": "OfficialSoftware"
+    },
+    {
+      "Name": "psqlODBC 13.02.0000",
+      "Version": "13.02.0000-1",
+      "Publisher": "EnterpriseDB",
+      "InstallDate": "20260419",
+      "InstallLocation": "C:\\Program Files\\PostgreSQL\\psqlODBC",
+      "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\psqlODBC\\uninstall-psqlodbc.exe\u0022",
+      "QuietUninstallString": "",
+      "Category": "OfficialSoftware"
     },
     {
       "Name": "Python 3.14.4",
@@ -2392,9 +2502,9 @@
     },
     {
       "Name": "Figma",
-      "Version": "126.2.10",
+      "Version": "126.3.12",
       "Publisher": "Figma, Inc.",
-      "InstallDate": "20260326",
+      "InstallDate": "20260421",
       "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
       "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
       "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -2517,6 +2627,16 @@
       "InstallDate": "20240723",
       "InstallLocation": "",
       "UninstallString": "MsiExec.exe /X{8C5CF4CE-D589-40B4-A77F-01FD64602C50}",
+      "QuietUninstallString": "",
+      "Category": "ThirdPartySoftware"
+    },
+    {
+      "Name": "PostGIS Bundle 3.6.2 for PostgreSQL x64 18 (remove only)",
+      "Version": "",
+      "Publisher": "",
+      "InstallDate": "",
+      "InstallLocation": "",
+      "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\18\\uninstall-postgis-bundle-pg18x64-3.6.2-1.exe\u0022",
       "QuietUninstallString": "",
       "Category": "ThirdPartySoftware"
     },
@@ -2713,9 +2833,9 @@
         {
           "Name": "Bluetooth Network Connection",
           "MAC": "50C2E842AE06",
-          "IPv4": "Unknown",
-          "Status": "NotPresent",
-          "Speed": 0
+          "IPv4": "169.254.182.211",
+          "Status": "Down",
+          "Speed": 3000000
         },
         {
           "Name": "Ethernet",
@@ -2774,13 +2894,6 @@
           "Speed": -1
         },
         {
-          "Name": "Local Area Connection* 1-VirtualBox NDIS Light-Weight Filter-0000",
-          "MAC": "52C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
           "Name": "Local Area Connection* 1-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "52C2E842AE05",
           "IPv4": "Unknown",
@@ -2824,13 +2937,6 @@
         },
         {
           "Name": "Local Area Connection* 2-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
-          "MAC": "D2C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": -1
-        },
-        {
-          "Name": "Local Area Connection* 2-VirtualBox NDIS Light-Weight Filter-0000",
           "MAC": "D2C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Down",
@@ -2914,13 +3020,6 @@
           "Speed": 1000000000
         },
         {
-          "Name": "Local Area Connection-VirtualBox NDIS Light-Weight Filter-0000",
-          "MAC": "00FFC9E79084",
-          "IPv4": "Unknown",
-          "Status": "Down",
-          "Speed": 1000000000
-        },
-        {
           "Name": "Local Area Connection-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "00FFC9E79084",
           "IPv4": "Unknown",
@@ -2972,66 +3071,54 @@
         {
           "Name": "Wi-Fi",
           "MAC": "50C2E842AE05",
-          "IPv4": "192.168.0.101",
+          "IPv4": "10.45.2.33",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 866700000
         },
         {
           "Name": "Wi-Fi-Native WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 866700000
         },
         {
           "Name": "Wi-Fi-QoS Packet Scheduler-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 866700000
         },
         {
           "Name": "Wi-Fi-Realtek NDIS LightWeight Filter (NDIS 6.40)-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 866700000
         },
         {
           "Name": "Wi-Fi-Virtual WiFi Filter Driver-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
-        },
-        {
-          "Name": "Wi-Fi-VirtualBox NDIS Light-Weight Filter-0000",
-          "MAC": "50C2E842AE05",
-          "IPv4": "Unknown",
-          "Status": "Up",
-          "Speed": 144400000
+          "Speed": 866700000
         },
         {
           "Name": "Wi-Fi-WFP 802.3 MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 866700000
         },
         {
           "Name": "Wi-Fi-WFP Native MAC Layer LightWeight Filter-0000",
           "MAC": "50C2E842AE05",
           "IPv4": "Unknown",
           "Status": "Up",
-          "Speed": 144400000
+          "Speed": 866700000
         }
       ],
       "Monitors": [
-        {
-          "Model": "Unknown",
-          "SerialNumber": "16843009",
-          "Resolution": "1920x1080"
-        },
         {
           "Model": "Unknown",
           "SerialNumber": "0",
@@ -3381,9 +3468,9 @@
         },
         {
           "Name": "Figma",
-          "Version": "126.2.10",
+          "Version": "126.3.12",
           "Publisher": "Figma, Inc.",
-          "InstallDate": "20260326",
+          "InstallDate": "20260421",
           "InstallLocation": "C:\\Users\\reonf\\AppData\\Local\\Figma",
           "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall",
           "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Figma\\Update.exe\u0022 --uninstall -s",
@@ -3991,21 +4078,21 @@
         },
         {
           "Name": "Microsoft Edge",
-          "Version": "147.0.3912.60",
+          "Version": "147.0.3912.72",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260414",
+          "InstallDate": "20260418",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\147.0.3912.60\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\147.0.3912.72\\Installer\\setup.exe\u0022 --uninstall --msedge --channel=stable --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
         {
           "Name": "Microsoft Edge WebView2 Runtime",
-          "Version": "147.0.3912.60",
+          "Version": "147.0.3912.72",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260414",
+          "InstallDate": "20260418",
           "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
-          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\147.0.3912.60\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\147.0.3912.72\\Installer\\setup.exe\u0022 --uninstall --msedgewebview --system-level --verbose-logging",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -4230,6 +4317,16 @@
           "Category": "OfficialSoftware"
         },
         {
+          "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x64) - 12.0.40664",
+          "Version": "12.0.40664.0",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\\vcredist_x64.exe\u0022  /uninstall",
+          "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\\vcredist_x64.exe\u0022 /uninstall /quiet",
+          "Category": "OfficialSoftware"
+        },
+        {
           "Name": "Microsoft Visual C\u002B\u002B 2013 x64 Additional Runtime - 12.0.40664",
           "Version": "12.0.40664",
           "Publisher": "Microsoft Corporation",
@@ -4270,62 +4367,62 @@
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64) - 14.42.34433",
-          "Version": "14.42.34433.0",
+          "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64) - 14.44.35211",
+          "Version": "14.44.35211.0",
           "Publisher": "Microsoft Corporation",
           "InstallDate": "",
           "InstallLocation": "",
-          "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{804e7d66-ccc2-4c12-84ba-476da31d103d}\\VC_redist.x64.exe\u0022  /uninstall",
-          "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{804e7d66-ccc2-4c12-84ba-476da31d103d}\\VC_redist.x64.exe\u0022 /uninstall /quiet",
+          "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{d8bbe9f9-7c5b-42c6-b715-9ee898a2e515}\\VC_redist.x64.exe\u0022  /uninstall",
+          "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{d8bbe9f9-7c5b-42c6-b715-9ee898a2e515}\\VC_redist.x64.exe\u0022 /uninstall /quiet",
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86) - 14.36.32532",
-          "Version": "14.36.32532.0",
+          "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86) - 14.44.35211",
+          "Version": "14.44.35211.0",
           "Publisher": "Microsoft Corporation",
           "InstallDate": "",
           "InstallLocation": "",
-          "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\\VC_redist.x86.exe\u0022  /uninstall",
-          "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{410c0ee1-00bb-41b6-9772-e12c2828b02f}\\VC_redist.x86.exe\u0022 /uninstall /quiet",
+          "UninstallString": "\u0022C:\\ProgramData\\Package Cache\\{0b5169e3-39da-4313-808e-1f9c0407f3bf}\\VC_redist.x86.exe\u0022  /uninstall",
+          "QuietUninstallString": "\u0022C:\\ProgramData\\Package Cache\\{0b5169e3-39da-4313-808e-1f9c0407f3bf}\\VC_redist.x86.exe\u0022 /uninstall /quiet",
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.42.34433",
-          "Version": "14.42.34433",
+          "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Additional Runtime - 14.44.35211",
+          "Version": "14.44.35211",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260310",
+          "InstallDate": "20260419",
           "InstallLocation": "",
-          "UninstallString": "MsiExec.exe /I{E1902FC6-C423-4719-AB8A-AC7B2694B367}",
+          "UninstallString": "MsiExec.exe /I{86AB2CC9-08BD-4643-B0F9-F82D006D72FF}",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.42.34433",
-          "Version": "14.42.34433",
+          "Name": "Microsoft Visual C\u002B\u002B 2022 X64 Minimum Runtime - 14.44.35211",
+          "Version": "14.44.35211",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20260310",
+          "InstallDate": "20260419",
           "InstallLocation": "",
-          "UninstallString": "MsiExec.exe /I{382F1166-A409-4C5B-9B1E-85ED538B8291}",
+          "UninstallString": "MsiExec.exe /I{43B0D101-A022-48F4-9D04-BA404CEB1D53}",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Additional Runtime - 14.42.34226",
-          "Version": "14.42.34226",
+          "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Additional Runtime - 14.44.35211",
+          "Version": "14.44.35211",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20250401",
+          "InstallDate": "20260419",
           "InstallLocation": "",
-          "UninstallString": "MsiExec.exe /X{A640D564-FA8E-481B-ABC6-B2B572FDD83B}",
+          "UninstallString": "MsiExec.exe /I{C18FB403-1E88-43C8-AD8A-CED50F23DE8B}",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Minimum Runtime - 14.42.34226",
-          "Version": "14.42.34226",
+          "Name": "Microsoft Visual C\u002B\u002B 2022 X86 Minimum Runtime - 14.44.35211",
+          "Version": "14.44.35211",
           "Publisher": "Microsoft Corporation",
-          "InstallDate": "20250401",
+          "InstallDate": "20260419",
           "InstallLocation": "",
-          "UninstallString": "MsiExec.exe /X{4F66CF07-B4DB-46F6-84E9-3640CDE36006}",
+          "UninstallString": "MsiExec.exe /I{922480B5-CAEB-4B1B-AAA4-9716EFDCE26B}",
           "QuietUninstallString": "",
           "Category": "OfficialSoftware"
         },
@@ -4750,6 +4847,16 @@
           "Category": "ThirdPartySoftware"
         },
         {
+          "Name": "Npgsql 3.2.6",
+          "Version": "3.2.6-3",
+          "Publisher": "EnterpriseDB",
+          "InstallDate": "20260419",
+          "InstallLocation": "C:\\Program Files (x86)\\PostgreSQL\\Npgsql",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\PostgreSQL\\Npgsql\\uninstall-npgsql.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
           "Name": "OBS Studio",
           "Version": "32.1.0",
           "Publisher": "OBS Project",
@@ -4790,16 +4897,6 @@
           "Category": "OfficialSoftware"
         },
         {
-          "Name": "Oracle VM VirtualBox 7.0.14",
-          "Version": "7.0.14",
-          "Publisher": "Oracle and/or its affiliates",
-          "InstallDate": "20240228",
-          "InstallLocation": "",
-          "UninstallString": "MsiExec.exe /I{8DDF4B7A-DE1A-4619-B426-959B44E40A87}",
-          "QuietUninstallString": "",
-          "Category": "OfficialSoftware"
-        },
-        {
           "Name": "Paradox Launcher v2",
           "Version": "2.4.0",
           "Publisher": "Paradox Interactive",
@@ -4808,6 +4905,106 @@
           "UninstallString": "MsiExec.exe /X{8C5CF4CE-D589-40B4-A77F-01FD64602C50}",
           "QuietUninstallString": "",
           "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "PEM-HTTPD 2.4.66",
+          "Version": "2.4.66-1",
+          "Publisher": "EnterpriseDB",
+          "InstallDate": "20260419",
+          "InstallLocation": "C:\\Program Files\\edb\\pem\\httpd",
+          "UninstallString": "\u0022C:\\Program Files\\edb\\pem\\httpd\\uninstall-pemhttpd.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "pgAgent_PG18 4.2.3",
+          "Version": "4.2.3-1",
+          "Publisher": "EnterpriseDB",
+          "InstallDate": "20260419",
+          "InstallLocation": "C:\\Program Files\\PostgreSQL\\18",
+          "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\18\\uninstall-pgagent.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "PgBouncer 1.25.1",
+          "Version": "1.25.1-1",
+          "Publisher": "EnterpriseDB",
+          "InstallDate": "20260419",
+          "InstallLocation": "C:\\Program Files\\PgBouncer",
+          "UninstallString": "\u0022C:\\Program Files\\PgBouncer\\uninstall-pgbouncer.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "pgJDBC 42.7.2",
+          "Version": "42.7.2-1",
+          "Publisher": "EnterpriseDB",
+          "InstallDate": "20260419",
+          "InstallLocation": "C:\\Program Files (x86)\\PostgreSQL\\pgJDBC",
+          "UninstallString": "\u0022C:\\Program Files (x86)\\PostgreSQL\\pgJDBC\\uninstall-pgjdbc.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "PostGIS Bundle 3.6.2 for PostgreSQL x64 18 (remove only)",
+          "Version": "",
+          "Publisher": "",
+          "InstallDate": "",
+          "InstallLocation": "",
+          "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\18\\uninstall-postgis-bundle-pg18x64-3.6.2-1.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "ThirdPartySoftware"
+        },
+        {
+          "Name": "PostgreSQL 13",
+          "Version": "13.23-1",
+          "Publisher": "PostgreSQL Global Development Group",
+          "InstallDate": "20260419",
+          "InstallLocation": "C:\\Program Files\\PostgreSQL\\13",
+          "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\13\\uninstall-postgresql.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "PostgreSQL 18",
+          "Version": "18.3-3",
+          "Publisher": "PostgreSQL Global Development Group",
+          "InstallDate": "20260419",
+          "InstallLocation": "C:\\Program Files\\PostgreSQL\\18",
+          "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\18\\uninstall-postgresql.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "PowerToys (Preview)",
+          "Version": "0.98.1",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260418",
+          "InstallLocation": "c:\\Users\\reonf\\AppData\\Local\\PowerToys\\",
+          "UninstallString": "MsiExec.exe /X{80E4B506-33F6-4D8F-9A43-1593F9C6CCF5}",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "PowerToys (Preview) x64",
+          "Version": "0.98.1",
+          "Publisher": "Microsoft Corporation",
+          "InstallDate": "20260418",
+          "InstallLocation": "c:\\Users\\reonf\\AppData\\Local\\PowerToys\\",
+          "UninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Package Cache\\{1EACF27D-52C8-4166-B891-73F77D65D309}\\PowerToysUserSetup-0.98.1-x64.exe\u0022  /uninstall",
+          "QuietUninstallString": "\u0022C:\\Users\\reonf\\AppData\\Local\\Package Cache\\{1EACF27D-52C8-4166-B891-73F77D65D309}\\PowerToysUserSetup-0.98.1-x64.exe\u0022 /uninstall /quiet",
+          "Category": "OfficialSoftware"
+        },
+        {
+          "Name": "psqlODBC 13.02.0000",
+          "Version": "13.02.0000-1",
+          "Publisher": "EnterpriseDB",
+          "InstallDate": "20260419",
+          "InstallLocation": "C:\\Program Files\\PostgreSQL\\psqlODBC",
+          "UninstallString": "\u0022C:\\Program Files\\PostgreSQL\\psqlODBC\\uninstall-psqlodbc.exe\u0022",
+          "QuietUninstallString": "",
+          "Category": "OfficialSoftware"
         },
         {
           "Name": "Python 3.14.4",
@@ -5293,10 +5490,26 @@
       "UnknownDevices": 1,
       "DriverDetails": [
         {
-          "DeviceName": "2 - DDC Display (AMD High Definition Audio Device)",
-          "DriverVersion": "10.0.26100.1",
+          "DeviceName": "\u0007",
+          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "AAP Client",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "AAP Server",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -5353,6 +5566,54 @@
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "AirPods Andrii",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "AirPods Andrii",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "AirPods Andrii Avrcp Transport",
+          "DriverVersion": "10.0.26100.7705",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-01-26",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "AirPods Andrii Avrcp Transport",
+          "DriverVersion": "10.0.26100.7705",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-01-26",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "AirPods Andrii Hands-Free",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-03-20",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "AirPods Andrii Hands-Free AG",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
           "Status": "OK",
           "ProblemCode": 0
         },
@@ -5629,8 +5890,224 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Android Auto",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "B39",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "B39",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "B39 Avrcp Transport",
+          "DriverVersion": "10.0.26100.7705",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-01-26",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "B39 Avrcp Transport",
+          "DriverVersion": "10.0.26100.7705",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-01-26",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "B39 Hands-Free",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-03-20",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "B39 Hands-Free AG",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Bluetooth",
           "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth Device (Personal Area Network)",
+          "DriverVersion": "10.0.26100.5074",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth Device (RFCOMM Protocol TDI)",
+          "DriverVersion": "10.0.26100.8036",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Bluetooth LE Generic Attribute Service",
+          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -5655,6 +6132,46 @@
         {
           "DeviceName": "Composite Bus Enumerator",
           "DriverVersion": "10.0.26100.1150",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Device Information Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Device Information Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Device Information Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Device Information Service",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Device Information Service",
+          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -5725,32 +6242,104 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Generic Monitor",
-          "DriverVersion": "10.0.26100.7309",
+          "DeviceName": "GATT",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic Access Profile",
+          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Headphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
+          "DeviceName": "Generic Access Profile",
+          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
+          "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
         {
-          "DeviceName": "Headset Microphone (Realtek(R) Audio)",
-          "DriverVersion": "10.0.26100.1",
+          "DeviceName": "Generic Access Profile",
+          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
-          "DriverDate": "2024-03-31",
+          "DriverDate": "2006-06-21",
           "Status": "OK",
           "ProblemCode": 0
         },
         {
-          "DeviceName": "HID-compliant mouse",
-          "DriverVersion": "10.0.26100.1150",
+          "DeviceName": "Generic Access Profile",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic Access Profile",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic Attribute Profile",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic Attribute Profile",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic Attribute Profile",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic Attribute Profile",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic Attribute Profile",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic volume shadow copy",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Generic volume shadow copy",
+          "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -5861,6 +6450,94 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "iPhone",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "iPhone",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "iPhone A2DP SNK",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "iPhone Avrcp Transport",
+          "DriverVersion": "10.0.26100.7705",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-01-26",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "iPhone Avrcp Transport",
+          "DriverVersion": "10.0.26100.7705",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-01-26",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "iPhone Hands-Free HF",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "iPhone Hands-Free HF Audio",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-03-20",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Lexmark MS810 Series XL",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Lexmark MS810 Series XL (Copy 1)",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "LPF2 Smart Hub 2 I/O",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "MAP MAS-iOS",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Microphone Array (AMD Audio Device)",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -5917,6 +6594,22 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Microsoft Bluetooth Enumerator",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Microsoft Bluetooth LE Enumerator",
+          "DriverVersion": "10.0.26100.7920",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Microsoft Device Association Root Enumerator",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
@@ -5966,14 +6659,6 @@
         },
         {
           "DeviceName": "Microsoft Radio Device Enumeration Bus",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "Microsoft RRAS Root Enumerator",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
@@ -6237,6 +6922,22 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Personal Area Network NAP Service",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Phonebook Access Pse Service",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Plug and Play Software Device Enumerator",
           "DriverVersion": "10.0.26100.4202",
           "DriverProvider": "Microsoft",
@@ -6341,8 +7042,56 @@
           "ProblemCode": 0
         },
         {
+          "DeviceName": "Service Discovery Service",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Service Discovery Service",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
           "DeviceName": "Sintetizzatore Wavetable Microsoft GS",
           "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "smartBox-1425",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "smartBox-1425 Hands-Free",
+          "DriverVersion": "10.0.26100.8115",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2026-03-20",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "smartBox-1425 Hands-Free AG",
+          "DriverVersion": "10.0.26100.1",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2024-03-31",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "SmartHub_2",
+          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6391,6 +7140,14 @@
         {
           "DeviceName": "Standard PS/2 Keyboard",
           "DriverVersion": "10.0.26100.1882",
+          "DriverProvider": "Microsoft",
+          "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "stfalcon",
+          "DriverVersion": "10.0.26100.7920",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
           "Status": "OK",
@@ -6509,14 +7266,6 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "USB Input Device",
-          "DriverVersion": "10.0.26100.8115",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "USB Root Hub (USB 3.0)",
           "DriverVersion": "10.0.26100.8115",
           "DriverProvider": "Microsoft",
@@ -6597,74 +7346,34 @@
           "ProblemCode": 0
         },
         {
-          "DeviceName": "WAN Miniport (IKEv2)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (IP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (IPv6)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (L2TP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (Network Monitor)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (PPPOE)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (PPTP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
-          "DeviceName": "WAN Miniport (SSTP)",
-          "DriverVersion": "10.0.26100.1",
-          "DriverProvider": "Microsoft",
-          "DriverDate": "2006-06-21",
-          "Status": "OK",
-          "ProblemCode": 0
-        },
-        {
           "DeviceName": "Wi-Fi",
           "DriverVersion": "10.0.26100.1",
           "DriverProvider": "Microsoft",
           "DriverDate": "2006-06-21",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Wireless iAP",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Wireless iAP",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
+          "Status": "OK",
+          "ProblemCode": 0
+        },
+        {
+          "DeviceName": "Wireless iAP v2",
+          "DriverVersion": "Unknown",
+          "DriverProvider": "Unknown",
+          "DriverDate": "Unknown",
           "Status": "OK",
           "ProblemCode": 0
         }
@@ -6675,18 +7384,18 @@
         {
           "Drive": "C:\\",
           "Total": 1023050510336,
-          "Free": 553787523072,
-          "FreePercent": 54.13
+          "Free": 532746260480,
+          "FreePercent": 52.07
         }
       ],
       "NetworkStatus": {
         "Connected": true,
         "Adapter": "VMware Network Adapter VMnet1"
       },
-      "Uptime": "00.03:12:28",
+      "Uptime": "00.00:04:25",
       "Alerts": []
     },
-    "LastScanTime": "2026-04-17T21:31:13Z",
-    "ScanKind": "quick"
+    "LastScanTime": "2026-04-23T15:39:56Z",
+    "ScanKind": "full"
   }
 }
